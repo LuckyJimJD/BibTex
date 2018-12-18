@@ -1,0 +1,2597 @@
+---
+references:
+- id: gitelmanEmergenceModernJewish2003
+  type: book
+  title: >-
+    The Emergence Of Modern Jewish Politics: Bundism And Zionism In Eastern
+    Europe
+  publisher: University of Pittsburgh Press
+  number-of-pages: '288'
+  edition: 1 edition
+  source: Amazon
+  ISBN: 978-0-8229-4188-0
+  language: English
+  editor:
+    - family: Gitelman
+      given: Zvi
+  issued:
+    - year: 2003
+      month: 3
+      day: 2
+  publisher-place: 'Pittsbugh, Pa'
+  title-short: The Emergence Of Modern Jewish Politics
+
+- id: swenson_fair_1989
+  type: book
+  title: 'Fair Shares: Unions, Pay and Politics in Sweden and West Germany'
+  publisher: Cornell University Press
+  author:
+    - family: Swenson
+      given: Peter
+  issued:
+    - year: 1989
+  publisher-place: Ithaca
+
+- id: kammenMachineThatWould2006
+  type: book
+  title: 'A Machine That Would Go of Itself: The Constitution in American Culture'
+  publisher: Saint Martin's Press
+  number-of-pages: '550'
+  edition: New Ed
+  ISBN: 0-312-09127-3
+  call-number: '0403'
+  note: '00000'
+  author:
+    - family: Kammen
+      given: Michael
+  issued:
+    - year: 2006
+
+- id: schwartzHistorySupremeCourt1995
+  type: book
+  title: A History of the Supreme Court
+  publisher: 'Oxford University Press Inc, USA'
+  number-of-pages: '480'
+  edition: New Ed
+  ISBN: 0-19-509387-9
+  call-number: '0423'
+  note: '00000'
+  author:
+    - family: Schwartz
+      given: Bernard
+  issued:
+    - year: 1995
+
+- id: friedmanHistoryAmericanLaw1986
+  type: book
+  title: 'A History of American Law, Revised Edition'
+  publisher: Touchstone
+  number-of-pages: '784'
+  edition: 2nd
+  ISBN: 0-671-52807-6
+  call-number: '0000'
+  note: '00000'
+  author:
+    - family: Friedman
+      given: Lawrence M.
+  issued:
+    - year: 1986
+
+- id: HowRelocationAffects
+  type: webpage
+  title: How Relocation Affects the Employment At Will Relationship on JSTOR
+  URL: >-
+    http://www.jstor.org/stable/40862579?Search=yes&resultItemClick=true&searchText=How&searchText=Relocation&searchText=Affects&searchText=the&searchText=Employment&searchText=Relationship&searchUri=%2Faction%2FdoBasicSearch%3Facc%3Don%26amp%3Bfc%3Doff%26amp%3Bwc%3Don%26amp%3Bgroup%3Dnone%26amp%3BQuery%3DHow%2BRelocation%2BAffects%2Bthe%2BEmployment%2BRelationship&refreqid=search%3A548180bd2e60b628b62d548cfb0f4f12&seq=1#page_scan_tab_contents
+  accessed:
+    - year: 2018
+      month: 2
+      day: 21
+
+- id: NovaSoutheasternUniversity2000
+  type: legal_case
+  title: 'Nova Southeastern University, Inc. v. Gross'
+  container-title: So. 2d
+  volume: '758'
+  jurisdiction: 'us:fl'
+  issued:
+    - year: 2000
+
+- id: carlssonVisualSelfImageLegal2002
+  type: article-journal
+  title: 'A Visual Self-Image of Legal Authority: "The Temple of Law"'
+  container-title: Social and Legal Studies
+  page: 185-209
+  volume: '11'
+  issue: '2'
+  call-number: '0007'
+  note: 00009
+  author:
+    - family: Carlsson
+      given: Bo
+    - family: Baier
+      given: Mattias
+  issued:
+    - year: 2002
+
+- id: mertzNewSocialConstructionism1994
+  type: article-journal
+  title: A New Social Constructionism for Sociolegal Studies
+  container-title: Law & Society Review
+  page: '1243'
+  volume: '28'
+  issue: '5'
+  call-number: '0055'
+  note: '00065'
+  author:
+    - family: Mertz
+      given: Elizabeth
+  issued:
+    - year: 1994
+
+- id: bottomoreHistorySociologicalAnalysis1978
+  type: book
+  title: A History of Sociological Analysis
+  publisher: Basic
+  call-number: '0154'
+  note: 00185
+  author:
+    - family: Bottomore
+      given: Tom
+    - family: Nisbet
+      given: Robert <eds>
+  issued:
+    - year: 1978
+  publisher-place: New York
+
+- id: evans-pritchardHistoryAnthropologicalThought1981
+  type: book
+  title: A History of Anthropological Thought
+  publisher: Basic
+  call-number: 0108
+  note: '00133'
+  author:
+    - family: Evans-Pritchard
+      given: Sir Edward
+  issued:
+    - year: 1981
+  publisher-place: New York
+
+- id: kelmanGuideCriticalLegal1990
+  type: book
+  title: A Guide to Critical Legal Studies
+  publisher: Harvard University Press
+  number-of-pages: '367'
+  ISBN: 0-674-36756-1
+  call-number: '0317'
+  note: '00415'
+  author:
+    - family: Kelman
+      given: Mark
+  issued:
+    - year: 1990
+
+- id: maussGeneralTheoryMagic1972
+  type: book
+  title: A General Theory of Magic
+  publisher: 'W. W. Norton <imprint: Norton Library>'
+  call-number: '0000'
+  note: '00012'
+  author:
+    - family: Mauss
+      given: Marcel
+  issued:
+    - year: 1972
+  publisher-place: New York
+
+- id: slaughterGlobalCommunityCourts2003
+  type: article-journal
+  title: A Global Community of Courts
+  container-title: Harvard International Law Journal
+  page: 191-219
+  volume: '44'
+  call-number: '0000'
+  note: 00491
+  author:
+    - family: Slaughter
+      given: Anne-Marie
+  issued:
+    - year: 2003
+
+- id: bottomoreDictionaryMarxistThought1983
+  type: book
+  title: A Dictionary of Marxist Thought
+  publisher: Harvard University Press
+  call-number: '0006'
+  note: '00742'
+  author:
+    - family: Bottomore
+      given: Tom <ed>
+  issued:
+    - year: 1983
+  publisher-place: 'Cambridge, Massachusetts'
+
+- id: giddensContemporaryCritiqueHistorical1981
+  type: book
+  title: A Contemporary Critique of Historical Materialism
+  publisher: University of California Press
+  call-number: '0000'
+  note: >-
+    00005 Includes bibliographical references and indexes. v. 1. Power,
+    property, and the state ― v. 2. The nation-state and violence.
+  author:
+    - family: Giddens
+      given: Anthony
+  issued:
+    - year: 1981
+  publisher-place: Berkeley
+
+- id: epsteinCommonLawLabor1983
+  type: article-journal
+  title: >-
+    A Common Law for Labor Relations: A Critique of the New Deal Labor
+    Legislation
+  container-title: Yale Law Journal
+  page: '947'
+  volume: '92'
+  call-number: '0317'
+  note: '00002'
+  author:
+    - family: Epstein
+      given: Richard
+  issued:
+    - year: 1983
+
+- id: gurrCausalModelCivil1968
+  type: article-journal
+  title: 'A Causal Model of Civil Strife: A Comparative Analysis Using New Indices'
+  container-title: American Political Science Review
+  page: 1104-1124
+  volume: '62'
+  call-number: '0000'
+  note: 00518
+  author:
+    - family: Gurr
+      given: Ted Robert
+  issued:
+    - year: 1968
+
+- id: harveyBriefHistoryNeoliberalism2007
+  type: book
+  title: A Brief History of Neoliberalism
+  publisher: Oxford University Press
+  number-of-pages: '254'
+  edition: New Ed
+  ISBN: 0-19-928327-3
+  call-number: '3562'
+  note: '00001'
+  author:
+    - family: Harvey
+      given: David
+  issued:
+    - year: 2007
+
+- id: guerin100YearsLabor1979
+  type: book
+  title: 100 Years of Labor in the USA
+  publisher: 'distributed in the U.S.A. by Pathﬁnder Press]'
+  number-of-pages: '252'
+  ISBN: 0-906133-11-4
+  call-number: '0014'
+  note: '00016'
+  author:
+    - family: Guerin
+      given: Daniel
+  issued:
+    - year: 1979
+
+- id: talbertCultureConfederateFlag2017
+  type: article-journal
+  title: 'Culture and the Confederate Flag: Attitudes Toward a Divisive Symbol'
+  container-title: Sociology Compass
+  page: n/a-n/a
+  volume: '11'
+  issue: '2'
+  source: Wiley Online Library
+  URL: 'http://onlinelibrary.wiley.com/doi/10.1111/soc4.12454/abstract'
+  DOI: 10.1111/soc4.12454
+  ISSN: 1751-9020
+  language: en
+  author:
+    - family: Talbert
+      given: Ryan D.
+  issued:
+    - year: 2017
+      month: 2
+      day: 1
+  accessed:
+    - year: 2018
+      month: 1
+      day: 29
+  title-short: Culture and the Confederate flag
+  container-title-short: Sociology Compass
+
+- id: gornyConvergingAlternativesBund2006
+  type: book
+  title: 'Converging Alternatives: The Bund and the Zionist Labor Movement, 1897-1985'
+  publisher: State University of New York Press
+  number-of-pages: '309'
+  edition: annotated edition edition
+  source: Amazon
+  ISBN: 978-0-7914-6659-9
+  language: English
+  author:
+    - family: Gorny
+      given: Professor Yosef
+  issued:
+    - year: 2006
+      month: 1
+      day: 19
+  publisher-place: New York
+  title-short: Converging Alternatives
+
+- id: researchStoryJewishLabor1998
+  type: book
+  title: 'The Story of the Jewish Labor Bund, 1897-1997; A Centennial Exhibition'
+  publisher: YIVO Institute for Jewish Research.
+  number-of-pages: '30'
+  source: Amazon
+  language: English
+  author:
+    - family: Research
+      given: YIVO Institute for Jewish
+  issued:
+    - year: 1998
+
+- id: nowogrodzkiJewishLaborBund2001
+  type: book
+  title: The Jewish Labor Bund in Poland
+  publisher: 'Shengold Publishers Inc.,U.S.'
+  number-of-pages: '334'
+  edition: 1st edition
+  source: Amazon
+  ISBN: 978-0-88400-214-7
+  language: English
+  author:
+    - family: Nowogrodzki
+      given: Emanuel
+  issued:
+    - year: 2001
+      month: 9
+      day: 15
+
+- id: logan_union_2006
+  type: article-journal
+  title: The Union Avoidance Industry in the United States
+  container-title: British Journal of Industrial Relations
+  page: 651-675
+  volume: '44'
+  issue: '4'
+  author:
+    - family: Logan
+      given: John
+  issued:
+    - year: 2006
+
+- id: leonard_life_1986
+  type: book
+  title: Life of a Leftist Labor Lawyer
+  publisher: 'Regional Oral History Office, Bancroft Library, University of California'
+  author:
+    - family: Leonard
+      given: Norman
+  issued:
+    - year: 1986
+
+- id: willemez_political-professional_2005
+  type: article-journal
+  title: A Political-Professional Commitment? French Workers' and Unions' Lawyers
+  container-title: 'The Worlds Cause Lawyers Make: Structure and Agency in Legal Practice'
+  page: '63'
+  author:
+    - family: Willemez
+      given: Laurent
+  issued:
+    - year: 2005
+
+- id: centerforhistoryandnewmediaZoteroQuickStart
+  type: webpage
+  title: Zotero Quick Start Guide
+  URL: 'http://zotero.org/support/quick_start_guide'
+  author:
+    - literal: Center for History and New Media
+
+- id: vandewalleDoeWalMartRevisiting2009
+  type: article-journal
+  title: Doe v. Wal-Mart. Revisiting the Scope of Joint Employment
+  container-title: Berkeley Journal of Employment and Labor Law
+  page: 589-601
+  volume: '30'
+  issue: '2'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/24052546'
+  ISSN: 1067-7666
+  author:
+    - family: Van de Walle
+      given: Julia S.
+  issued:
+    - year: 2009
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  container-title-short: Berkeley Journal of Employment and Labor Law
+
+- id: estlundRebuildingLawWorkplace2005
+  type: article-journal
+  title: Rebuilding the Law of the Workplace in an Era of Self-Regulation
+  container-title: Columbia Law Review
+  page: 319-404
+  volume: '105'
+  issue: '2'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/4099314'
+  ISSN: 0010-1958
+  author:
+    - family: Estlund
+      given: Cynthia
+  issued:
+    - year: 2005
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  container-title-short: Columbia Law Review
+
+- id: stoneLegalProtectionsAtypical2006
+  type: article-journal
+  title: >-
+    Legal Protections for Atypical Employees: Employment Law for Workers without
+    Workplaces and Employees without Employers
+  container-title: Berkeley Journal of Employment and Labor Law
+  page: 251-286
+  volume: '27'
+  issue: '2'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/24052226'
+  ISSN: 1067-7666
+  author:
+    - family: Stone
+      given: Katherine V.W.
+  issued:
+    - year: 2006
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: Legal Protections for Atypical Employees
+  container-title-short: Berkeley Journal of Employment and Labor Law
+
+- id: popeWorkerLawmakingSitDown2006
+  type: article-journal
+  title: >-
+    Worker Lawmaking, Sit-Down Strikes, and the Shaping of American Industrial
+    Relations, 1935-1958
+  container-title: Law and History Review
+  page: 45-113
+  volume: '24'
+  issue: '1'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/27641352'
+  ISSN: 0738-2480
+  author:
+    - family: Pope
+      given: Jim
+  issued:
+    - year: 2006
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  container-title-short: Law and History Review
+
+- id: smithLegalProtectionsAdvocacy2008
+  type: article-journal
+  title: >-
+    Legal Protections and Advocacy for Contingent or "Casual" Workers in the
+    United States: A Case Study in Day Labor
+  container-title: Social Indicators Research
+  page: 197-213
+  volume: '88'
+  issue: '1'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/27734694'
+  ISSN: 0303-8300
+  author:
+    - family: Smith
+      given: Rebecca
+  issued:
+    - year: 2008
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: >-
+    Legal Protections and Advocacy for Contingent or "Casual" Workers in the
+    United States
+  container-title-short: Social Indicators Research
+
+- id: cummingsHemmedLegalMobilization2009
+  type: article-journal
+  title: 'Hemmed In: Legal Mobilization in the Los Angeles Anti-Sweatshop Movement'
+  container-title: Berkeley Journal of Employment and Labor Law
+  page: 1-84
+  volume: '30'
+  issue: '1'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/24052577'
+  ISSN: 1067-7666
+  author:
+    - family: Cummings
+      given: Scott L.
+  issued:
+    - year: 2009
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: Hemmed In
+  container-title-short: Berkeley Journal of Employment and Labor Law
+
+- id: vanjaarsveldEffectsInstitutionalOrganizational2009
+  type: article-journal
+  title: >-
+    The Effects of Institutional and Organizational Characteristics on Work
+    Force Flexibility: Evidence from Call Centers in Three Liberal Market
+    Economies
+  container-title: Industrial and Labor Relations Review
+  page: 573-601
+  volume: '62'
+  issue: '4'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/25594527'
+  ISSN: 0019-7939
+  author:
+    - family: Van Jaarsveld
+      given: Danielle D.
+    - family: Kwon
+      given: Hyunji
+    - family: Frost
+      given: Ann C.
+  issued:
+    - year: 2009
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: >-
+    The Effects of Institutional and Organizational Characteristics on Work
+    Force Flexibility
+  container-title-short: Industrial and Labor Relations Review
+
+- id: felstinerWorkingCrowdEmployment2011
+  type: article-journal
+  title: 'Working the Crowd: Employment and Labor Law in the Crowdsourcing Industry'
+  container-title: Berkeley Journal of Employment and Labor Law
+  page: 143-203
+  volume: '32'
+  issue: '1'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/24052509'
+  ISSN: 1067-7666
+  author:
+    - family: Felstiner
+      given: Alek
+  issued:
+    - year: 2011
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: Working the Crowd
+  container-title-short: Berkeley Journal of Employment and Labor Law
+
+- id: silvermanWorldProcessor2014
+  type: article-journal
+  title: World Processor
+  container-title: The Baffler
+  page: 20-29
+  issue: '25'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/43307893'
+  ISSN: 1059-9789
+  author:
+    - family: Silverman
+      given: Jacob
+  issued:
+    - year: 2014
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  container-title-short: The Baffler
+
+- id: wearsWhoEmployerTriangular2012
+  type: article-journal
+  title: >-
+    Who is an Employer in the Triangular Employment Relationship? Sorting
+    Through the Definitional Confusion
+  container-title: Employee Responsibilities and Rights Journal
+  page: 159-176
+  volume: '24'
+  issue: '3'
+  source: link.springer.com
+  URL: 'http://link.springer.com/article/10.1007/s10672-012-9189-3'
+  DOI: 10.1007/s10672-012-9189-3
+  ISSN: '0892-7545, 1573-3378'
+  language: en
+  author:
+    - family: Wears
+      given: Katherine Hannan
+    - family: Fisher
+      given: Sandra L.
+  issued:
+    - year: 2012
+      month: 9
+      day: 1
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: Who is an Employer in the Triangular Employment Relationship?
+  container-title-short: Employ Respons Rights J
+
+- id: gonosContestEmployerStatus1997
+  type: article-journal
+  title: >-
+    The Contest over "Employer" Status in the Postwar United States: The Case of
+    Temporary Help Firms
+  container-title: Law & Society Review
+  page: 81-110
+  volume: '31'
+  issue: '1'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/3054095'
+  DOI: 10.2307/3054095
+  ISSN: 0023-9216
+  author:
+    - family: Gonos
+      given: George
+  issued:
+    - year: 1997
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: The Contest over "Employer" Status in the Postwar United States
+  container-title-short: Law & Society Review
+
+- id: kallebergBadJobsAmerica2000
+  type: article-journal
+  title: >-
+    Bad Jobs in America: Standard and Nonstandard Employment Relations and Job
+    Quality in the United States
+  container-title: American Sociological Review
+  page: 256-278
+  volume: '65'
+  issue: '2'
+  source: JSTOR
+  abstract: >-
+    The prevalence of nonstandard jobs is a matter of concern if, as many
+    assume, such jobs are bad. We examine the relationship between nonstandard
+    employment (on-call work and day labor, temporary-help agency employment,
+    employment with contract companies, independent contracting, other
+    self-employment, and part-time employment in "conventional" jobs) and
+    exposure to "bad" job characteristics, using data from the 1995 Current
+    Population Survey. Of workers age 18 and over, 31 percent are in some type
+    of nonstandard employment. To assess the link between type of employment and
+    bad jobs, we conceptualize "bad jobs" as those with low pay and without
+    access to health insurance and pension benefits. About one in seven jobs in
+    the United States is bad on these three dimensions. Nonstandard employment
+    strongly increases workers' exposure to bad job characteristics, net of
+    controls for workers' personal characteristics, family status, occupation,
+    and industry.
+  URL: 'http://www.jstor.org/stable/2657440'
+  DOI: 10.2307/2657440
+  ISSN: 0003-1224
+  author:
+    - family: Kalleberg
+      given: Arne L.
+    - family: Reskin
+      given: Barbara F.
+    - family: Hudson
+      given: Ken
+  issued:
+    - year: 2000
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: Bad Jobs in America
+  container-title-short: American Sociological Review
+
+- id: lobelSlipperinessStabilityContracting2003
+  type: article-journal
+  title: >-
+    The Slipperiness of Stability: Contracting for Flexible and Triangular
+    Employment Relationships in the New Economy Symposium: The Role of Contract
+    in the Modern Employment Relationship
+  container-title: Texas Wesleyan Law Review
+  page: 109-136
+  volume: '10'
+  source: HeinOnline
+  language: eng
+  author:
+    - family: Lobel
+      given: Orly
+  issued:
+    - year: 2003
+    - year: 2004
+  title-short: The Slipperiness of Stability
+  container-title-short: Tex. Wesleyan L. Rev.
+
+- id: kallebergNonstandardEmploymentRelations2000
+  type: article-journal
+  title: 'Nonstandard Employment Relations: Part-Time, Temporary and Contract Work'
+  container-title: Annual Review of Sociology
+  page: 341-365
+  volume: '26'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/223448'
+  ISSN: 0360-0572
+  author:
+    - family: Kalleberg
+      given: Arne L.
+  issued:
+    - year: 2000
+  accessed:
+    - year: 2016
+      month: 12
+      day: 20
+  title-short: Nonstandard Employment Relations
+  container-title-short: Annual Review of Sociology
+
+- id: jacobsJewishPoliticsEastern2001
+  type: book
+  title: 'Jewish Politics in Eastern Europe: The Bund at 100'
+  publisher: NYU Press
+  number-of-pages: '256'
+  source: Amazon
+  ISBN: 978-0-8147-4258-7
+  language: English
+  editor:
+    - family: Jacobs
+      given: Jack
+  issued:
+    - year: 2001
+      month: 7
+  publisher-place: New York
+  title-short: Jewish Politics in Eastern Europe
+
+- id: goldsteinTwentyYearsJewish2016
+  type: book
+  title: 'Twenty Years with the Jewish Labor Bund: A Memoir of Interwar Poland'
+  publisher: Purdue University Press
+  number-of-pages: '345'
+  source: Amazon
+  ISBN: 978-1-55753-749-2
+  language: English
+  author:
+    - family: Goldstein
+      given: Bernard
+  translator:
+    - family: Zuckerman
+      given: Marvin S.
+  issued:
+    - year: 2016
+      month: 3
+      day: 15
+  publisher-place: 'West Lafayette, Indiana'
+  title-short: Twenty Years with the Jewish Labor Bund
+
+- id: jacobsBundistCountercultureInterwar2009
+  type: book
+  title: Bundist Counterculture Interwar Poland
+  publisher: Syracuse University Press
+  number-of-pages: '185'
+  source: Amazon
+  ISBN: 978-0-8156-3226-9
+  language: English
+  author:
+    - family: Jacobs
+      given: Jack
+  issued:
+    - year: 2009
+      month: 5
+      day: 1
+  publisher-place: 'Syracuse, N.Y'
+
+- id: sluckiInternationalJewishLabor2012
+  type: book
+  title: 'The International Jewish Labor Bund after 1945: Toward a Global History'
+  publisher: Rutgers University Press
+  number-of-pages: '284'
+  edition: 1st Ed. edition
+  source: Amazon
+  ISBN: 978-0-8135-5168-5
+  language: English
+  author:
+    - family: Slucki
+      given: Dr David
+  issued:
+    - year: 2012
+      month: 1
+      day: 17
+  publisher-place: 'New Brunswick, N.J'
+  title-short: The International Jewish Labor Bund after 1945
+
+- id: karlipTragedyGenerationRise2013
+  type: book
+  title: >-
+    The Tragedy of a Generation: The Rise and Fall of Jewish Nationalism in
+    Eastern Europe
+  publisher: Harvard University Press
+  number-of-pages: '400'
+  source: Amazon
+  ISBN: 978-0-674-07285-5
+  language: English
+  author:
+    - family: Karlip
+      given: Joshua M.
+  issued:
+    - year: 2013
+      month: 7
+      day: 15
+  publisher-place: 'Cambridge, Massachusetts'
+  title-short: The Tragedy of a Generation
+
+- id: reiner_blue-coated_1978
+  type: book
+  title: 'The Blue-Coated Worker: A Sociological Study of Police Unionism'
+  publisher: Cambridge University Press Cambridge
+  author:
+    - family: Reiner
+      given: Robert
+  issued:
+    - year: 1978
+
+- id: kelling_police_1995
+  type: paper-conference
+  title: 'Police Unions, Police Culture, the Friday Crab Club, & Police Use of Force'
+  container-title: >-
+    And Justice for All: Understanding & Controlling Police Abuse of Force.
+    Edited by William A. Geller (Police Executive Research Forum), Hans Toch
+    (State University of New York-Albany)
+  author:
+    - family: Kelling
+      given: George L
+    - family: Kliesmet
+      given: Robert B
+  issued:
+    - year: 1995
+
+- id: marks_police_2007
+  type: article-journal
+  title: 'Police Unions and Their Influence: Subculture or Counter Culture'
+  container-title: 'Police Occupational Culture: New Debates and Directions. New York: Elsevier'
+  page: 229-251
+  author:
+    - family: Marks
+      given: Monique
+  issued:
+    - year: 2007
+
+- id: williamsOurEnemiesBlue2015
+  type: book
+  title: 'Our Enemies in Blue: Police and Power in America'
+  publisher: AK Press
+  number-of-pages: '454'
+  source: Google Books
+  ISBN: 978-1-84935-216-1
+  language: en
+  author:
+    - family: Williams
+      given: Kristian
+  issued:
+    - year: 2015
+      month: 8
+      day: 17
+  title-short: Our Enemies in Blue
+
+- id: huq_litigating_2016
+  type: paper-conference
+  title: >-
+    Litigating the Blue Wall of Silence: How to Challenge the Police Privilege
+    to Delay Investigation
+  container-title: 'University of Chicago Legal Forum, Forthcoming'
+  author:
+    - family: Huq
+      given: Aziz Z
+    - family: McAdams
+      given: Richard H
+  issued:
+    - year: 2016
+
+- id: sheppard_black_2015
+  type: article-journal
+  title: Black Lives Matter Facing Growing Smear Campaign
+  container-title: Green Left Weekly
+  page: '20'
+  issue: '1077'
+  author:
+    - family: Sheppard
+      given: Barry
+    - literal: others
+  issued:
+    - year: 2015
+
+- id: rickford_black_2016
+  type: paper-conference
+  title: Black Lives Matter Toward a Modern Practice of Mass Struggle
+  container-title: New Labor Forum
+  publisher: SAGE Publications
+  page: 34-42
+  volume: '25'
+  author:
+    - family: Rickford
+      given: Russell
+  issued:
+    - year: 2016
+
+- id: keller_political_2015
+  type: article-journal
+  title: 'A Political Medicine: Trust and Power in Ferguson'
+  author:
+    - family: Keller
+      given: A Grace
+  issued:
+    - year: 2015
+
+- id: kelling_police_1996
+  type: article-journal
+  title: 'Police Unions, Police Culture, and the Police Abuse of Force'
+  container-title: 'Police Violence: Understanding and Controlling Police Abuse of Force'
+  page: 191-212
+  author:
+    - family: Kelling
+      given: GEORGE L
+    - family: Kliesmet
+      given: ROBERT B
+  issued:
+    - year: 1996
+
+- id: rushin_using_2016
+  type: article-journal
+  title: Using Data to Reduce Police Violence
+  container-title: BCL Rev
+  page: 117-337
+  volume: '57'
+  author:
+    - family: Rushin
+      given: Stephen
+  issued:
+    - year: 2016
+
+- id: balkoRiseWarriorCop2014
+  type: book
+  title: 'Rise of the Warrior Cop: The Militarization of America''s Police Forces'
+  publisher: PublicAffairs
+  number-of-pages: '400'
+  source: Google Books
+  ISBN: 978-1-61039-457-4
+  language: en
+  author:
+    - family: Balko
+      given: Radley
+  issued:
+    - year: 2014
+      month: 8
+      day: 26
+  title-short: Rise of the Warrior Cop
+
+- id: gerber_justifying_2016
+  type: article-journal
+  title: >-
+    Justifying Violence: Legitimacy, Ideology and Public Support for Police Use
+    of Force
+  container-title: 'Ideology and Public Support for Police Use of Force (January 2, 2016)'
+  author:
+    - family: Gerber
+      given: Monica M
+    - family: Jackson
+      given: Jonathan
+  issued:
+    - year: 2016
+
+- id: weitzer_american_2015
+  type: article-journal
+  title: 'American policing under fire: Misconduct and reform'
+  container-title: Society
+  page: 475-480
+  volume: '52'
+  issue: '5'
+  author:
+    - family: Weitzer
+      given: Ronald
+  issued:
+    - year: 2015
+
+- id: tylerProceduralJusticePolicing2016
+  type: article-journal
+  title: 'Procedural Justice and Policing: A Rush to Judgment?'
+  container-title: Annual Review of Law and Social Science
+  page: '-'
+  volume: '13'
+  issue: '1'
+  URL: 'http://www.annualreviews.org/doi/10.1146/annurev-lawsocsci-110316-113318'
+  DOI: 10.1146/annurev-lawsocsci-110316-113318
+  ISSN: 1550-3585
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  author:
+    - family: Tyler
+      given: Tom Tyler
+  issued:
+    - year: 2016
+      month: 12
+      day: 14
+  accessed:
+    - year: 2017
+      month: 3
+      day: 12
+
+- id: skogan_why_2008
+  type: article-journal
+  title: Why Reforms Fail
+  container-title: Policing & Society
+  page: 23-34
+  volume: '18'
+  issue: '1'
+  author:
+    - family: Skogan
+      given: Wesley G
+  issued:
+    - year: 2008
+
+- id: juris_impact_1973
+  type: article-journal
+  title: 'The Impact of Police Unions: Summary Report.'
+  author:
+    - family: Juris
+      given: Hervey A
+    - family: Feuille
+      given: Peter
+  issued:
+    - year: 1973
+
+- id: marks_voices_2008
+  type: article-journal
+  title: >-
+    Voices from Below: Unions and Participatory Arrangements in the Police
+    Workplace
+  container-title: 'Police Practice and Research: An International Journal'
+  page: 85-94
+  volume: '9'
+  issue: '2'
+  author:
+    - family: Marks
+      given: Monique
+    - family: Sklansky
+      given: David
+  issued:
+    - year: 2008
+
+- id: fleming_police_2001
+  type: article-journal
+  title: >-
+    Police Unions, Industrial Strategies and Political Influence: Some Recent
+    History
+  container-title: International Journal of Employment Studies
+  page: '131'
+  volume: '9'
+  issue: '2'
+  author:
+    - family: Fleming
+      given: Jenny
+    - family: Lafferty
+      given: George
+    - literal: others
+  issued:
+    - year: 2001
+
+- id: bouza_police_1985
+  type: article-journal
+  title: 'Police Unions: Paper Tigers or Roaring Lions'
+  container-title: 'Police leadership in America: Crisis and opportunity'
+  page: 241-280
+  author:
+    - family: Bouza
+      given: Anthony V
+  issued:
+    - year: 1985
+
+- id: walker_neglect_2008
+  type: article-journal
+  title: >-
+    The Neglect of Police Unions: Exploring One of the Most Important Areas of
+    American Policing
+  container-title: 'Police Practice and Research: An International Journal'
+  page: 95-112
+  volume: '9'
+  issue: '2'
+  author:
+    - family: Walker
+      given: Samuel
+  issued:
+    - year: 2008
+
+- id: magenau_police_1996
+  type: article-journal
+  title: Police Unions and the Police Role
+  container-title: Human Relations
+  page: 1315-1343
+  volume: '49'
+  issue: '10'
+  author:
+    - family: Magenau
+      given: John M
+    - family: Hunt
+      given: Raymond G
+  issued:
+    - year: 1996
+
+- id: levi_bureaucratic_1977
+  type: book
+  title: 'Bureaucratic Insurgency: The Case of Police Unions'
+  publisher: Lexington books Lexington
+  author:
+    - family: Levi
+      given: Margaret
+  issued:
+    - year: 1977
+
+- id: decarlo_labor_2015
+  type: book
+  title: >-
+    Labor Unions, Management Innovation and Organizational Change in Police
+    Departments
+  publisher: Springer
+  author:
+    - family: DeCarlo
+      given: John
+    - family: Jenkins
+      given: Michael J
+  issued:
+    - year: 2015
+
+- id: wilson_debate_2010
+  type: article-journal
+  title: >-
+    The Debate over Police Reform: Examining Minority Support for Citizen
+    Oversight and Resistance by Police Unions
+  container-title: American Journal of Criminal Justice
+  page: 184-197
+  volume: '35'
+  issue: '4'
+  author:
+    - family: Wilson
+      given: Steve
+    - family: Buckler
+      given: Kevin
+  issued:
+    - year: 2010
+
+- id: kooken_police_1954
+  type: article-journal
+  title: Police Unions and the Public Safety
+  container-title: The Annals of the American Academy of Political and Social Science
+  page: 152-158
+  volume: '291'
+  issue: '1'
+  author:
+    - family: Kooken
+      given: Don L
+    - family: Ayres
+      given: Loren D
+  issued:
+    - year: 1954
+
+- id: feuille_police_1976
+  type: article-journal
+  title: Police Professionalization and Police Unions
+  container-title: Work and Occupations
+  page: 88-113
+  volume: '3'
+  issue: '1'
+  author:
+    - family: Feuille
+      given: Peter
+    - family: Juris
+      given: Hervey A
+  issued:
+    - year: 1976
+
+- id: obrien_effect_1996
+  type: article-journal
+  title: >-
+    The Effect of Political Activity by Police Unions on Nonwage Bargaining
+    Outcomes
+  container-title: Journal of Collective Negotiations in the Public Sector
+  page: 99-116
+  volume: '25'
+  author:
+    - family: O'Brien
+      given: Kevin M
+  issued:
+    - year: 1996
+
+- id: gammage_police_1972
+  type: book
+  title: Police Unions
+  publisher: 'Thomas Springfield, IL'
+  author:
+    - family: Gammage
+      given: Allen Z
+    - family: Sachs
+      given: Stanley L
+  issued:
+    - year: 1972
+
+- id: juris_police_1973
+  type: book
+  title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
+  publisher: 'Lexington Books Lexington, MA'
+  author:
+    - family: Juris
+      given: Hervey A
+    - family: Feuille
+      given: Peter
+  issued:
+    - year: 1973
+
+- id: moss_challinor_1991
+  type: article-journal
+  title: >-
+    Challinor Raymond. A Radical Lawyer in Victorian England: W P Roberts and
+    the Struggle for Workers' Rights
+  container-title: Albion
+  page: 772-774
+  volume: '23'
+  issue: '04'
+  author:
+    - family: Moss
+      given: David J
+  issued:
+    - year: 1991
+
+- id: bisom-rapp_exceeding_2003
+  type: article-journal
+  title: >-
+    Exceeding Our Boundaries: Transnational Employment Law Practice and the
+    Export of American Lawyering Styles to the Global Worksite
+  container-title: Comp. Lab. L. & Pol'y. J.
+  page: '257'
+  volume: '25'
+  author:
+    - family: Bisom-Rapp
+      given: Susan
+  issued:
+    - year: 2003
+
+- id: sarat_worlds_2005
+  type: book
+  title: 'The Worlds Cause Lawyers Make: Structure and Agency in Legal Practice'
+  publisher: Stanford University Press
+  author:
+    - family: Sarat
+      given: Austin
+  issued:
+    - year: 2005
+
+- id: abt_advocate_1993
+  type: book
+  title: 'Advocate and Activist: Memoirs of an American Communist Lawyer'
+  publisher: University of Illinois Press
+  author:
+    - family: Abt
+      given: John J
+    - family: Myerson
+      given: Michael
+  issued:
+    - year: 1993
+
+- id: macdowell_renegade_2002
+  type: book
+  title: 'Renegade Lawyer: The Life of J L Cohen'
+  publisher: University of Toronto Press
+  author:
+    - family: MacDowell
+      given: Laurel Sefton
+  issued:
+    - year: 2002
+
+- id: paik_lawyers_2007
+  type: article-journal
+  title: 'Lawyers of the Right: Networks and Organization'
+  container-title: Law & Social Inquiry
+  page: 883-917
+  volume: '32'
+  issue: '4'
+  author:
+    - family: Paik
+      given: Anthony
+    - family: Southworth
+      given: Ann
+    - family: Heinz
+      given: John P
+  issued:
+    - year: 2007
+
+- id: ernst_lawyers_1995
+  type: book
+  title: 'Lawyers Against Labor: From Individual Rights to Corporate Liberalism'
+  publisher: University of Illinois Press
+  author:
+    - family: Ernst
+      given: Daniel R
+  issued:
+    - year: 1995
+
+- id: carolin_when_2014
+  type: article-journal
+  title: >-
+    When Law Reform Is Not Enough: A Case Study on Social Change and the Role
+    that Lawyers and Legal Clinics Ought to Play
+  container-title: JL & Soc. Pol'y
+  page: i
+  volume: '23'
+  author:
+    - family: Carolin
+      given: Jeff
+  issued:
+    - year: 2014
+
+- id: carasik_think_2008
+  type: article-journal
+  title: >-
+    'Think Glocal, Act Glocal': The Praxis of Social Justice Lawyering in the
+    Global Era
+  container-title: Clinical Law Review
+  page: '55'
+  volume: '15'
+  author:
+    - family: Carasik
+      given: Lauren
+  issued:
+    - year: 2008
+
+- id: boukalas_politics_2013
+  type: article-journal
+  title: >-
+    Politics as Legal Action/Lawyers as Political Actors Towards a
+    Reconceptualisation of Cause Lawyering
+  container-title: Social & Legal Studies
+  page: 395-420
+  volume: '22'
+  issue: '3'
+  author:
+    - family: Boukalas
+      given: Christos
+  issued:
+    - year: 2013
+
+- id: southworth_professional_2005
+  type: article-journal
+  title: >-
+    Professional Identity and Political Commitment Among Lawyers for
+    Conservative Causes
+  container-title: The world cause lawyers make
+  page: 83-111
+  author:
+    - family: Southworth
+      given: Ann
+    - family: Sarat
+      given: A
+    - family: Scheingold
+      given: S
+  issued:
+    - year: 2005
+
+- id: capulong_client_2009
+  type: article-journal
+  title: Client Activism in Progressive Lawyering Theory
+  container-title: Clinical L. Rev.
+  page: '109'
+  volume: '16'
+  author:
+    - family: Capulong
+      given: Eduardo RC
+  issued:
+    - year: 2009
+
+- id: beckerHumanCapital1993
+  type: book
+  title: Human Capital
+  publisher: University of Chicago Press
+  edition: 3d
+  author:
+    - family: Becker
+      given: Gary
+  issued:
+    - year: 1993
+  publisher-place: Chicago
+
+- id: acemogluBeckerTrainingImperfect1999
+  type: article-journal
+  title: 'Beyond Becker: Training in Imperfect Labour Markets'
+  container-title: The Economic Journal
+  page: F112-F142
+  volume: '109'
+  issue: '453'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/2565588'
+  ISSN: 0013-0133
+  author:
+    - family: Acemoglu
+      given: Daron
+    - family: Pischke
+      given: Jörn-Steffen
+  issued:
+    - year: 1999
+  accessed:
+    - year: 2018
+      month: 1
+      day: 29
+  title-short: Beyond Becker
+
+- id: stoneKnowledgeWorkDisputes2001
+  type: article-journal
+  title: >-
+    Knowledge at Work: Disputes over the Ownership of Human Capital in the
+    Changing Workplace Commentary
+  container-title: Connecticut Law Review
+  page: 721-764
+  volume: '34'
+  source: HeinOnline
+  language: eng
+  author:
+    - family: Stone
+      given: Katherine V. W.
+  issued:
+    - year: 2001
+    - year: 2002
+  title-short: Knowledge at Work
+  container-title-short: Conn. L. Rev.
+
+- id: glendonChangesBondingEmployment1978
+  type: article-journal
+  title: >-
+    Changes in the Bonding of the Employment Relationship: An Essay on the New
+    Property
+  container-title: BCL Rev.
+  page: '457'
+  volume: '20'
+  source: Google Scholar
+  author:
+    - family: Glendon
+      given: Mary Ann
+    - family: Lev
+      given: Edward R.
+  issued:
+    - year: 1978
+  title-short: Changes in the bonding of the employment relationship
+
+- id: freedDoubtfulProvenanceWood1990
+  type: article-journal
+  title: The Doubtful Provenance of Wood's Rule Revisited
+  container-title: Arizona State Law Journal
+  page: 551-558
+  volume: '22'
+  source: HeinOnline
+  language: eng
+  author:
+    - family: Freed
+      given: Mayer G.
+    - family: Polsby
+      given: Daniel D.
+  issued:
+    - year: 1990
+  container-title-short: Ariz. St. L.J.
+
+- id: ballamDevelopmentEmploymentWill1995
+  type: article-journal
+  title: >-
+    The Development of the Employment at Will Rule Revisited: A Challenge to Its
+    Origins as Based in the Development of Advanced Capitalism
+  container-title: Hofstra Labor Law Journal
+  page: 75-108
+  volume: '13'
+  source: HeinOnline
+  language: eng
+  author:
+    - family: Ballam
+      given: Deborah A.
+  issued:
+    - year: 1995
+    - year: 1996
+  title-short: The Development of the Employment at Will Rule Revisited
+  container-title-short: Hofstra Lab. L. J.
+
+- id: lesterRestrictiveCovenantsEmployee2001
+  type: article-journal
+  title: >-
+    Restrictive covenants, employee training, and the limits of transaction-cost
+    analysis
+  container-title: Ind. LJ
+  page: '49'
+  volume: '76'
+  source: Google Scholar
+  author:
+    - family: Lester
+      given: Gillian
+  issued:
+    - year: 2001
+
+- id: krausRepaymentAgreementsEmployee1993
+  type: article-journal
+  title: Repayment Agreements for Employee Training Costs
+  container-title: Labor Law Journal
+  page: 49-55
+  volume: '44'
+  issue: '1'
+  source: EBSCOhost
+  URL: >-
+    https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=5807630&site=ehost-live
+  ISSN: 00236586
+  author:
+    - family: Kraus
+      given: Anthony W.
+  issued:
+    - year: 1993
+      month: 1
+  accessed:
+    - year: 2018
+      month: 1
+      day: 29
+  container-title-short: Labor Law Journal
+
+- id: summersEmploymentWillUnited2000
+  type: article-journal
+  title: 'Employment at Will in the United States: The Divine Right of Employers'
+  container-title: University of Pennsylvania Journal of Labor and Employment Law
+  page: 65-86
+  volume: '3'
+  source: HeinOnline
+  language: eng
+  author:
+    - family: Summers
+      given: Clyde W.
+  issued:
+    - year: 2000
+    - year: 2001
+  title-short: Employment at Will in the United States
+  container-title-short: U. Pa. J. Lab. & Emp. L.
+
+- id: feinmanDevelopmentEmploymentatWillRule1991
+  type: article-journal
+  title: The Development of the Employment-at-Will Rule Revisited
+  container-title: Arizona State Law Journal
+  page: 733-740
+  volume: '23'
+  source: HeinOnline
+  language: eng
+  author:
+    - family: Feinman
+      given: Jay M.
+  issued:
+    - year: 1991
+  container-title-short: Ariz. St. L.J.
+
+- id: sterkRestraintsAlienationHuman1993
+  type: article-journal
+  title: Restraints on Alienation of Human Capital
+  container-title: Virginia Law Review
+  page: 383-460
+  volume: '79'
+  issue: '2'
+  source: JSTOR
+  URL: 'http://www.jstor.org/stable/1073417'
+  DOI: 10.2307/1073417
+  ISSN: 0042-6601
+  author:
+    - family: Sterk
+      given: Stewart E.
+  issued:
+    - year: 1993
+  accessed:
+    - year: 2018
+      month: 1
+      day: 29
+
+- id: fleming_standing_2006
+  type: article-journal
+  title: >-
+    Standing on the Inside Looking Out': The Significance of Police Unions in
+    Networks of Police Governance
+  container-title: Australian & New Zealand Journal of Criminology
+  page: 71-89
+  volume: '39'
+  issue: '1'
+  author:
+    - family: Fleming
+      given: Jenny
+    - family: Marks
+      given: Monique
+    - family: Wood
+      given: Jennifer
+  issued:
+    - year: 2006
+
+- id: backhouseContestingLegalCulture2016
+  type: article-journal
+  title: Contesting the Legal Culture of Professionalism
+  container-title: International Journal of the Legal Profession
+  page: 55 - 59
+  volume: '24'
+  issue: '1'
+  URL: 'http://www.tandfonline.com/doi/full/10.1080/09695958.2016.1229188'
+  DOI: 10.1080/09695958.2016.1229188
+  ISSN: 0969-5958
+  note: 'Saved from BrowZine: https://thirdiron.com/download'
+  author:
+    - family: Backhouse
+      given: Constance
+  issued:
+    - year: 2016
+      month: 9
+      day: 13
+  accessed:
+    - year: 2017
+      month: 3
+      day: 12
+
+- id: Jekyll
+  type: webpage
+  title: Jekyll
+  URL: 'https://jekyllrb.com/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: HugoFastModern
+  type: webpage
+  title: 'Hugo: A Fast and Modern Static Website Engine'
+  URL: 'http://gohugo.io/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: LaTeXDocumentPreparation
+  type: webpage
+  title: LaTeX - A document preparation system
+  URL: 'http://www.latex-project.org/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: DaringFireballMarkdown
+  type: webpage
+  title: 'Daring Fireball: Markdown'
+  URL: 'http://daringfireball.net/projects/markdown/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: Pandoc
+  type: webpage
+  title: Pandoc
+  URL: 'http://pandoc.org/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: OSF
+  type: webpage
+  title: OSF
+  URL: 'https://osf.io/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: GitHub
+  type: webpage
+  title: GitHub
+  URL: 'https://github.com/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: LiteratureLatteScrivener
+  type: webpage
+  title: Literature and Latte - Scrivener Writing Software
+  URL: 'https://www.literatureandlatte.com/scrivener.php'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: Notepad
+  type: webpage
+  title: Notepad++
+  URL: 'https://notepad-plus-plus.org/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: Atom
+  type: webpage
+  title: Atom
+  URL: 'https://atom.io/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: JurisM
+  type: webpage
+  title: Juris-M
+  URL: 'https://juris-m.github.io/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: Zotero
+  type: webpage
+  title: Zotero
+  URL: 'https://www.zotero.org/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: PlainPersonGuide
+  type: webpage
+  title: The Plain Person's Guide to Plain Text Social Science
+  URL: 'https://kieranhealy.org/publications/plain-person-text/'
+  accessed:
+    - year: 2017
+      month: 3
+      day: 9
+
+- id: secundaViabilityStateBasedLegislation2007
+  type: article-journal
+  title: >-
+    Toward the Viability of State-Based Legislation to Address Workplace Captive
+    Audience Meetings in the United States
+  container-title: Comp. Lab. L. & Pol'y J.
+  page: '209'
+  volume: '29'
+  author:
+    - family: Secunda
+      given: Paul M
+  issued:
+    - year: 2007
+  container-title-short: Comp. Lab. L. & Pol'y J.
+
+- id: PeopleEthicalTreatment2017
+  type: legal_case
+  title: People for Ethical Treatment of Animals v. Stein
+  container-title: F. Supp. 3d
+  page: '369'
+  volume: '259'
+  references: 'Rev''d, No. 17-1669 (4th. Cir. June 6, 2018)'
+  jurisdiction: 'us:c4:nc.md'
+  issued:
+    - year: 2017
+      month: 5
+      day: 2
+  authority: M.D.N.C.
+  title-short: PETA
+
+- id: PeopleEthicalTreatment2018
+  type: legal_case
+  title: People for the Ethical Treatment of Animals v. Stein
+  number: 17-1669
+  references: reversing 259 F.Supp. 3d 369 (M.D.N.C. 2017)
+  jurisdiction: 'us:c4'
+  issued:
+    - year: 2018
+      month: 6
+      day: 5
+  authority: 4th Cir.
+  title-short: PETA II
+
+- id: WesternWatershedsProject2016
+  type: legal_case
+  title: Western Watersheds Project v. Michael
+  container-title: F. Supp. 3d
+  page: '1231'
+  volume: '196'
+  jurisdiction: 'us:c10:wy.d'
+  issued:
+    - year: 2016
+      month: 7
+      day: 6
+  authority: D. Wyo.
+  title-short: Western Watersheds Project
+
+- id: AnimalLegalDefense2015
+  type: legal_case
+  title: Animal Legal Defense Fund v. Otter
+  container-title: F. Supp. 3d
+  page: '1195'
+  volume: '118'
+  jurisdiction: 'us:c9:id.d'
+  issued:
+    - year: 2015
+      month: 8
+      day: 3
+  authority: D. Idaho
+  title-short: Otter II
+
+- id: FlagstaffMedicalCenter2013
+  type: legal_case
+  title: 'Flagstaff Medical Center, Inc. v. N.L.R.B.'
+  container-title: F.3d
+  page: '928'
+  volume: '715'
+  jurisdiction: 'us:c0'
+  issued:
+    - year: 2013
+  authority: D.C. Cir.
+  title-short: Flagstaff Medical Center
+
+- id: AustinMaintenanceCrowder2012
+  type: legal_case
+  title: Austin Maintenance v. Crowder Const.
+  container-title: SE 2d
+  page: '535'
+  volume: '742'
+  jurisdiction: 'us:nc'
+  issued:
+    - year: 2012
+      month: 12
+      day: 18
+  authority: N.C. Ct. App.
+  title-short: Austin Maintenance
+
+- id: DaltonCamp2001
+  type: legal_case
+  title: Dalton v. Camp
+  container-title: N.C.
+  page: '647'
+  volume: '353'
+  jurisdiction: 'us:nc'
+  issued:
+    - year: 2001
+      month: 7
+      day: 20
+  authority: N.C.
+  title-short: Dalton
+
+- id: NLRBTownCountry1995
+  type: legal_case
+  title: 'NLRB v. Town & Country Elec., Inc.'
+  container-title: U.S.
+  page: '85'
+  volume: '516'
+  jurisdiction: us
+  issued:
+    - year: 1995
+  title-short: Town & Country Electric
+
+- id: NLRBBrowningFerrisIndustries1982
+  type: legal_case
+  title: NLRB v. Browning-Ferris Industries
+  container-title: F. 2d
+  page: '1117'
+  volume: '691'
+  jurisdiction: us
+  issued:
+    - year: 1982
+  authority: 3d Cir.
+  title-short: Browning-Ferris Industries
+
+- id: MachinistsWisconsinEmployment1976
+  type: legal_case
+  title: Machinists v. Wisconsin Employment Relations Comm’n
+  container-title: U.S.
+  page: '132'
+  volume: '427'
+  jurisdiction: us
+  issued:
+    - year: 1976
+  authority: U.S.
+  title-short: Machinists
+
+- id: SanDiegoBuilding1959
+  type: legal_case
+  title: San Diego Building Trades Council v. Garmon
+  container-title: U.S.
+  page: '236'
+  volume: '359'
+  jurisdiction: us
+  issued:
+    - year: 1959
+  authority: U.S.
+  title-short: Garmon
+
+- id: PhelpsDodgeCorp1941
+  type: legal_case
+  title: Phelps Dodge Corp. v. NLRB
+  container-title: U.S.
+  page: '177'
+  volume: '313'
+  jurisdiction: us
+  issued:
+    - year: 1941
+  authority: U.S.
+  title-short: Phelps Dodge
+
+- id: spasserWinningHeartsMinds2013
+  type: thesis
+  title: >-
+    Winning Hearts and Minds: Using “Ag-Gag” Outrage and Corporate Rebranding to
+    Achieve a Public Image Makeover for the Animal Rights Movement
+  publisher: University of San Francisco
+  genre: Master’s Thesis
+  URL: 'http://repository.usfca.edu/capstone/4'
+  author:
+    - family: Spasser
+      given: Alison
+  issued:
+    - year: 2013
+      month: 12
+      day: 13
+  publisher-place: 'San Francisco, CA'
+  title-short: Winning Hearts & Minds
+
+- id: valentineGroupsSueNorth2016
+  type: webpage
+  title: >-
+    Groups Sue Over North Carolina’s Ag Gag Law, Saying It Violates The
+    Constitution
+  container-title: ThinkProgress
+  URL: >-
+    https://thinkprogress.org/groups-sue-over-north-carolinas-ag-gag-law-saying-it-violates-the-constitution-356768522074
+  author:
+    - family: Valentine
+      given: Katie
+  issued:
+    - year: 2016
+      month: 1
+      day: 15
+  title-short: Groups Sue Over North Carolina’s Ag Gag Law
+
+- id: SampleElectronicCitation2018
+  type: bill
+  title: Sample Electronic Citation Style Act
+  chapter-number: '2018'
+  number: 2018-001
+  issued:
+    - year: 2018
+      month: 12
+      day: 15
+
+- id: broadAnimalProductionAggag2016
+  type: article-journal
+  title: >-
+    Animal Production, Ag-gag Laws, and the Social Production of Ignorance:
+    Exploring the Role of Storytelling
+  container-title: Environmental Communication
+  page: 43-61
+  volume: '10'
+  issue: '1'
+  DOI: 10.1080/17524032.2014.968178
+  ISSN: 1752-4032
+  author:
+    - family: Broad
+      given: Garrett M.
+  issued:
+    - year: 2016
+      month: 1
+      day: 2
+
+- id: adamShootingMessengerCommonSense2011
+  type: article-journal
+  title: >-
+    Shooting the Messenger: A Common-Sense Analysis of State Ag-Gag Legislation
+    under the First Amendment
+  container-title: Suffolk University Law Review
+  page: '1129'
+  volume: '45'
+  author:
+    - family: Adam
+      given: Kevin C.
+  issued:
+    - year: 2011
+  title-short: Shooting the Messenger
+
+- id: cooperSlaughterhouseRulesHow2013
+  type: article-journal
+  title: 'Slaughterhouse Rules: How Ag-Gag Laws Erode the Constitution'
+  container-title: 'Temple Journal of Science, Technology & Environmental Law'
+  page: '233'
+  volume: '32'
+  author:
+    - family: Cooper
+      given: James S.
+  issued:
+    - year: 2013
+  title-short: Slaughterhouse Rules
+
+- id: mccombsAnimalWelfareActivists2016
+  type: webpage
+  title: 'Animal Welfare Activists, Utah Spar Over ‘Ag Gag’ Law'
+  container-title: Capital Press
+  URL: >-
+    http://www.capitalpress.com/Nation_World/Nation/20160602/animal-welfare-activists-utah-spar-over-ag-gag-law
+  author:
+    - family: McCombs
+      given: Brady
+  issued:
+    - year: 2016
+      month: 6
+      day: 2
+
+- id: jacquesCivilSocietyCorporate2015
+  type: article-journal
+  title: >-
+    Civil Society, Corporate Power, and Food Security: Counter-Revolutionary
+    Efforts that Limit Social Change
+  container-title: Journal of Environmental Studies and Sciences
+  page: 432-444
+  volume: '5'
+  issue: '3'
+  DOI: 10.1007/s13412-015-0294-0
+  ISSN: '2190-6483, 2190-6491'
+  language: en
+  author:
+    - family: Jacques
+      given: Peter J.
+  issued:
+    - year: 2015
+      month: 9
+      day: 1
+  title-short: 'Civil Society, Corporate Power, and Food Security'
+
+- id: ArrowFlintElectric1996
+  type: legal_case
+  title: Arrow Flint Electric Co.
+  container-title: N.L.R.B.
+  page: '1208'
+  volume: '321'
+  issued:
+    - year: 1996
+
+- id: AlbertsonInc2007
+  type: legal_case
+  title: 'Albertson’s, Inc.'
+  container-title: N.L.R.B.
+  page: '254'
+  volume: '351'
+  issued:
+    - year: 2007
+
+- id: AlgrecoSportswearCo1984
+  type: legal_case
+  title: Algreco Sportswear Co.
+  container-title: N.L.R.B.
+  page: '499'
+  volume: '271'
+  issued:
+    - year: 1984
+
+- id: CaliforniaAcrylicIndustries1996
+  type: legal_case
+  title: 'California Acrylic Industries, Inc.'
+  container-title: N.L.R.B.
+  page: '41'
+  volume: '322'
+  references: enfd. in relevant part 150 F.3d 1095 (9th Cir. 1998)
+  issued:
+    - year: 1996
+
+- id: WholeFoodsMarket2015
+  type: legal_case
+  title: 'Whole Foods Market, Inc.'
+  container-title: N.L.R.B.
+  page: No. 87
+  volume: '363'
+  issued:
+    - year: 2015
+
+- id: branscombLaborLoyaltyCorporate1993
+  type: article-journal
+  title: 'Labor, Loyalty, and the Corporate Campaign'
+  container-title: Boston University Law Review
+  page: '291'
+  volume: '73'
+  author:
+    - family: Branscomb
+      given: Melinda J
+  issued:
+    - year: 1993
+
+- id: IowaCode717A2004
+  type: legislation
+  title: Iowa Code § 717A.1 et seq.
+  container-title: Iowa Code
+  section: 717A.1
+  chapter-number: '2004'
+  issued:
+    - year: 2004
+
+- id: NationalLaborRelations
+  type: legislation
+  title: National Labor Relations Act
+  container-title: U.S.C.
+  volume: '29'
+  section: '151'
+  jurisdiction: us
+  publication-date:
+    date-parts:
+      - - '2018'
+
+- id: AlabamaCode13A111532002
+  type: legislation
+  title: Alabama Code § 13A-11-153
+  container-title: Ala. Code
+  section: 13A-11-153
+  chapter-number: '2002'
+  issued:
+    - year: 2002
+
+- id: MissouriRevStat2012
+  type: legislation
+  title: "Missouri Rev.\_Stat. § 578.013.1"
+  container-title: "Mo. Rev.\_Stat."
+  section: 578.013.1
+  chapter-number: '2012'
+  issued:
+    - year: 2012
+
+- id: IdahoCode1870422014
+  type: legislation
+  title: Idaho Code § 18-7042
+  container-title: Idaho Code
+  section: 18-7042
+  chapter-number: '2014'
+  issued:
+    - year: 2014
+
+- id: KansasStat4718272006
+  type: legislation
+  title: Kansas Stat. § 47-1827
+  container-title: Kan. Stat.
+  section: 47-1827
+  issued:
+    - year: 2006
+
+- id: GenStat99A22015
+  type: legislation
+  title: "N.C. Gen.\_Stat. § 99A-2"
+  container-title: "N.C. Gen.\_Stat."
+  section: 99A-2
+  chapter-number: '2015'
+  number: '2015-50, s.1'
+  issued:
+    - year: 2015
+
+- id: hirschTakingStateProperty2005
+  type: article-journal
+  title: Taking State Property Rights Out of Federal Labor Law
+  container-title: Boston College Law Review
+  page: '891'
+  volume: '47'
+  author:
+    - family: Hirsch
+      given: Jeffrey M
+  issued:
+    - year: 2005
+
+- id: WyomingStat634142015
+  type: legislation
+  title: Wyoming Stat. § 6-3-414
+  container-title: Wyo. Stat.
+  section: 6-3-414
+  chapter-number: '2015'
+  references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
+  issued:
+    - year: 2015
+
+- id: carlsonAgGagLaws2012
+  type: webpage
+  title: 'The Ag Gag Laws: Hiding Factory Farm Abuses From Public Scrutiny'
+  container-title: The Atlantic
+  URL: >-
+    https://www.theatlantic.com/health/archive/2012/03/the-ag-gag-laws-hiding-factory-farm-abuses-from-public-scrutiny/254674/
+  author:
+    - family: Carlson
+      given: Cody
+  issued:
+    - year: 2012
+      month: 3
+      day: 20
+  title-short: The Ag Gag Laws
+
+- id: OhioRevCode2004
+  type: legislation
+  title: "Ohio Rev.\_Code § 901.511"
+  container-title: "Ohio Rev.\_Code"
+  section: '901.511'
+  issued:
+    - year: 2004
+
+- id: hirschNonemployeeAccessEmployer2010
+  type: article-journal
+  title: 'Nonemployee Access to Employer Property: A State or Federal Solution'
+  container-title: 'Transactions: The Tennessee Journal of Business Law'
+  page: '175'
+  volume: '12'
+  author:
+    - family: Hirsch
+      given: Jeffrey M
+  issued:
+    - year: 2010
+  title-short: Nonemployee Access to Employer Property
+
+- id: jarvisPETAOtherAnimal2016
+  type: webpage
+  title: >-
+    PETA and Other Animal Rights Groups Say NC ‘Ag-Gag’ Law Halts Probes of Farm
+    Operations
+  container-title: News & Observer
+  URL: >-
+    http://www.newsobserver.com/news/politics-government/state-politics/article88670927.html
+  author:
+    - family: Jarvis
+      given: Craig
+  issued:
+    - year: 2016
+      month: 7
+      day: 9
+
+- id: merabetSwordShieldSocial2013
+  type: article-journal
+  title: >-
+    The Sword and Shield of Social Networking: Harming Employers’ Goodwill
+    Through Concerted Facebook Activity
+  container-title: Suffolk University Law Review
+  page: '1161'
+  volume: '46'
+  author:
+    - family: Merabet
+      given: Stephanie M
+  issued:
+    - year: 2013
+  title-short: Sword & Shield of Social Networking
+
+- id: UtahCriminalCode2012
+  type: legislation
+  title: Utah Criminal Code § 76-6-112
+  container-title: Utah Criminal Code
+  section: 76-6-112
+  chapter-number: '2012'
+  issued:
+    - year: 2012
+
+- id: WyomingStat40271012015
+  type: legislation
+  title: Wyoming Stat. § 40-27-101
+  container-title: Wyo. Stat.
+  section: 40-27-101
+  chapter-number: '2015'
+  issued:
+    - year: 2015
+
+- id: holifeldAnimalLegalDefense2016
+  type: article-journal
+  title: >-
+    Animal Legal Defense Fund v. Otter: Industrial Food Production Simply Is Not
+    a Private Matter
+  container-title: Journal of Food Law & Policy
+  page: '16'
+  volume: '12'
+  author:
+    - family: Holifeld
+      given: Lucy L.
+  issued:
+    - year: 2016
+
+- id: bollardAgGagUnconstitutionalityLaws2012
+  type: article-journal
+  title: >-
+    Ag-Gag: The Unconstitutionality of Laws Restricting Undercover
+    Investigations on Farms
+  container-title: Environmental Law Reporter News & Analysis
+  page: '10960'
+  volume: '42'
+  author:
+    - family: Bollard
+      given: Lewis
+  issued:
+    - year: 2012
+
+- id: wolfeAnythingAgGagEnding2016
+  type: article-journal
+  title: 'Anything But Ag-Gag: Ending the Industry-Advocate Cycle'
+  container-title: Syracuse Law Review
+  page: '367'
+  volume: '66'
+  author:
+    - family: Wolfe
+      given: Gabriella
+  issued:
+    - year: 2016
+
+- id: morganAgGagChallengedLikelihood2014
+  type: article-journal
+  title: >-
+    Ag-Gag Challenged: The Likelihood of Success of Animal Legal Defense Fund v.
+    Herbert’s First Amendment Claims
+  container-title: Vermont Law Review
+  volume: '39'
+  issue: '241'
+  author:
+    - family: Morgan
+      given: Samantha
+  issued:
+    - year: 2014
+
+- id: kingeryAgriculturalIronCurtain2012
+  type: article-journal
+  title: >-
+    The Agricultural Iron Curtain: Ag Gag Legislation and the Threat to Free
+    Speech, Food Safety, and Animal Welfare
+  container-title: Drake Journal of Agricultural Law
+  volume: '17'
+  issue: '645'
+  author:
+    - family: Kingery
+      given: Sonci
+  issued:
+    - year: 2012
+  title-short: Agricultural Iron Curtain
+
+- id: sheaPunishingAnimalRights2015
+  type: article-journal
+  title: >-
+    Punishing Animal Rights Activists for Animal Abuse: Rapid Reporting and the
+    New Wave of Ag-Gag Laws
+  container-title: Columbia Journal of Law & Social Problems
+  page: '337'
+  volume: '48'
+  author:
+    - family: Shea
+      given: Matthew
+  issued:
+    - year: 2015
+  title-short: Punishing Animal Rights Activists for Animal Abuse
+
+- id: marceauAgGagPresentFuture2015
+  type: article-journal
+  title: Ag-Gag Past and Present and Future
+  container-title: Seattle University Law Review
+  page: '1317'
+  volume: '38'
+  author:
+    - family: Marceau
+      given: Justin F.
+  issued:
+    - year: 2015
+
+- id: reidPuttingGagFarm2015
+  type: article-journal
+  title: >-
+    Putting a Gag on Farm Whistleblowers: The Right to Lie and the Right to
+    Remain Silent Confront State Agricultural Protectionism
+  container-title: Journal of Food Law & Policy
+  page: '31'
+  volume: '11'
+  author:
+    - family: Reid
+      given: Rita-Marie Cain
+    - family: Kingery
+      given: Amber L.
+  issued:
+    - year: 2015
+  title-short: Putting a Gag on Farm Whistleblowers
+
+- id: associationRecentDevelopmentsMedia2016
+  type: article-journal
+  title: 'Recent Developments in Media, Privacy Defamation, and Advertising Law'
+  container-title: Tort Trial & Insurance Practice Law Journal
+  volume: '5'
+  issue: '543'
+  author:
+    - family: Association
+      given: American Bar
+  issued:
+    - year: 2016
+  title-short: Recent Developments
+
+- id: landfriedBoundGaggedPotential2013
+  type: article-journal
+  title: 'Bound & Gagged: Potential First Amendment Challenges to ‘Ag-Gag’ Laws'
+  container-title: Duke Environmental Law & Policy Forum
+  page: '377'
+  volume: '23'
+  author:
+    - family: Landfried
+      given: Jessalee
+  issued:
+    - year: 2013
+  title-short: Bound & Gagged
+
+- id: scrufariWatershedMomentRevealing2017
+  type: article-journal
+  title: >-
+    A Watershed Moment Revealing What’s at Stake: How Ag-Gag Statutes Could
+    Impair Data Collection and Citizen Participation in Agency Rulemaking
+  container-title: UCLA Law Review Discourse
+  page: '2'
+  volume: '65'
+  author:
+    - family: Scrufari
+      given: Carrie A
+  issued:
+    - year: 2017
+
+- id: mcginleyWaterCoolerSpeech2012
+  type: article-journal
+  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
+  container-title: Hofstra Lab. & Emp. LJ
+  page: '75'
+  volume: '30'
+  author:
+    - family: McGinley
+      given: Ann C
+    - family: McGinley-Stempel
+      given: Ryan P
+  issued:
+    - year: 2012
+  title-short: Beyond the Water Cooler
+
+- id: EastBeldenCorp1978
+  type: legal_case
+  title: East Belden Corp.
+  container-title: N.L.R.B.
+  page: '776'
+  volume: '239'
+  references: enfd. 634 F.2d 635 (9th Cir. 1980)
+  issued:
+    - year: 1978
+
+- id: McAllisterBros1986
+  type: legal_case
+  title: McAllister Bros.
+  container-title: N.L.R.B.
+  page: '601'
+  volume: '278'
+  references: enfd. 819 F.2d 439 (4th Cir. 1987)
+  issued:
+    - year: 1986
+
+- id: SullivanLongHagerty1991
+  type: legal_case
+  title: 'Sullivan, Long & Hagerty'
+  container-title: N.L.R.B.
+  page: '1007'
+  volume: '303'
+  issued:
+    - year: 1991
+
+- id: TMobileUSAInc2016
+  type: legal_case
+  title: 'T-Mobile, USA, Inc.'
+  container-title: N.L.R.B.
+  page: No. 171
+  volume: '363'
+  issued:
+    - year: 2016
+
+- id: newmanLegalFoundationsState2013
+  type: article-journal
+  title: >-
+    The Legal Foundations for State Laws Granting Labor Unions Access to
+    Employer Property
+  container-title: Drake Law Review
+  page: '689'
+  volume: '62'
+  author:
+    - family: Newman
+      given: Nathan S
+  issued:
+    - year: 2013
+  title-short: Labor Union Access to Employer Property
+
+- id: CaesarsEntertainmentRio2015
+  type: legal_case
+  title: Caesars Entertainment d/b/a Rio All-Suites Hotel & Casino
+  container-title: N.L.R.B.
+  page: No. 190
+  volume: '362'
+  issued:
+    - year: 2015
+
+- id: FlagstaffMedicalCenter2011
+  type: legal_case
+  title: 'Flagstaff Medical Center, Inc.'
+  container-title: N.L.R.B.
+  page: '659'
+  volume: '357'
+  issued:
+    - year: 2011
+
+- id: KinderCareLearningCenters1990
+  type: legal_case
+  title: 'Kinder-Care Learning Centers, Inc.'
+  container-title: N.L.R.B.
+  page: '1171'
+  volume: '299'
+  issued:
+    - year: 1990
+
+- id: PaintingCo2000
+  type: legal_case
+  title: Painting Co.
+  container-title: N.L.R.B.
+  page: '1000'
+  volume: '330'
+  references: enfd. 298 F.3d 492 (6th Cir. 2002)
+  issued:
+    - year: 2000
+
+- id: ToeringElectricCo2007
+  type: legal_case
+  title: Toering Electric Co.
+  container-title: N.L.R.B.
+  page: '225'
+  volume: '351'
+  issued:
+    - year: 2007
+
+- id: TimesHeraldRecord2001
+  type: legal_case
+  title: Times-Herald Record
+  container-title: N.L.R.B.
+  page: '350'
+  volume: '334'
+  references: enfd. 27 Fed.Appx. 64 (2d Cir. 2001)
+  issued:
+    - year: 2001
+
+- id: WellstreamCorp1994
+  type: legal_case
+  title: Wellstream Corp.
+  container-title: N.L.R.B.
+  page: '698'
+  volume: '313'
+  issued:
+    - year: 1994
+
+- id: WhiteOakManor2009
+  type: legal_case
+  title: White Oak Manor
+  container-title: N.L.R.B.
+  page: '795'
+  volume: '353'
+  issued:
+    - year: 2009
+
+- id: zotero-444
+  type: webpage
+  URL: 'https://juris-m.github.io/editor/#'
+  accessed:
+    - year: 2018
+      month: 12
+      day: 16
+...

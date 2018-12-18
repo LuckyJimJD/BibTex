@@ -2587,11 +2587,13 @@ references:
   issued:
     - year: 2009
 
-- id: zotero-444
-  type: webpage
-  URL: 'https://juris-m.github.io/editor/#'
-  accessed:
-    - year: 2018
-      month: 12
-      day: 16
+- id: PennoyerNeff1878
+  type: legal_case
+  title: Pennoyer v. Neff
+  container-title: US
+  page: '714'
+  volume: '95'
+  jurisdiction: us
+  issued:
+    - year: 1878
 ...

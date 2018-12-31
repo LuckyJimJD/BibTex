@@ -1970,16 +1970,6 @@ references:
       day: 15
   title-short: Groups Sue Over North Carolina’s Ag Gag Law
 
-- id: SampleElectronicCitation2018
-  type: bill
-  title: Sample Electronic Citation Style Act
-  chapter-number: '2018'
-  number: 2018-001
-  issued:
-    - year: 2018
-      month: 12
-      day: 15
-
 - id: broadAnimalProductionAggag2016
   type: article-journal
   title: >-
@@ -2596,4 +2586,959 @@ references:
   jurisdiction: us
   issued:
     - year: 1878
+
+- id: dobbieReorganizingHigherEducation2008
+  type: article-journal
+  title: >-
+    Reorganizing Higher Education in the United States and Canada: The Erosion
+    of Tenure and the Unionization of Contingent Faculty
+  container-title: Labor Studies Journal
+  page: 117-140
+  volume: '33'
+  issue: '2'
+  source: SAGE Journals
+  abstract: >-
+    Every year in Canada and the U.S., the share of higher education faculty who
+    teach off the tenure track grows. One might expect that faculty unionization
+    would limit this process, but the data examined here indicate that this is
+    not so. While Canadian universities are significantly more unionized than
+    their U.S. counterparts, they rely at least as heavily on contingent
+    faculty. Similarly, U.S. states with high levels of unionization do not
+    exhibit lower levels of casualization. Union strategies that
+    institutionalize divisions between tenure-track and non-tenure-track, and/or
+    between part-time and full-time faculty, probably play a role in this
+    outcome. They can and should also play a pivotal role in reversing these
+    trends if they develop the political will to do so.
+  URL: 'https://doi.org/10.1177/0160449X07301241'
+  DOI: 10.1177/0160449X07301241
+  ISSN: 0160-449X
+  language: en
+  author:
+    - family: Dobbie
+      given: David
+    - family: Robinson
+      given: Ian
+  issued:
+    - year: 2008
+      month: 6
+      day: 1
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Reorganizing Higher Education in the United States and Canada
+  container-title-short: Labor Studies Journal
+
+- id: metchickYeshivaFacultyUnionization2004
+  type: article-journal
+  title: Yeshiva and Faculty Unionization in Higher Education
+  container-title: Labor Studies Journal
+  page: 45-65
+  volume: '28'
+  issue: '4'
+  source: SAGE Journals
+  abstract: >-
+    It has been over two decades since the United States Supreme Court handed
+    down the landmark Yeshiva decision. In that case, the faculty in a private
+    university was determined to be "managerial" and not entitled to collective
+    bargaining rights and other protections under federal labor law. Despite
+    Yeshiva's broad and significant impact in deterring faculty organizing at
+    private colleges and universities, successful union organizing drives,
+    though few, have been growing more frequent on campuses across the United
+    States. In this paper, we examine the Yeshiva case and analyze its
+    implications for private and public universities, including current trends
+    such as the increased use of contingent faculty and distance learning. We
+    also examine successful organizing efforts and discuss their implications
+    for organized labor.
+  URL: 'https://doi.org/10.1177/0160449X0402800403'
+  DOI: 10.1177/0160449X0402800403
+  ISSN: 0160-449X
+  language: en
+  author:
+    - family: Metchick
+      given: Robert H.
+    - family: Singh
+      given: Parbudyal
+  issued:
+    - year: 2004
+      month: 1
+      day: 1
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  container-title-short: Labor Studies Journal
+
+- id: porterCausalEffectFaculty2013
+  type: article-journal
+  title: The Causal Effect of Faculty Unions on Institutional Decision-Making
+  container-title: ILR Review
+  page: 1192-1211
+  volume: '66'
+  issue: '5'
+  source: SAGE Journals
+  abstract: >-
+    The author's goal in this article is to estimate the causal effect of
+    unionization on institutional decision-making, using a national survey of
+    presidents and faculty senate leaders to measure the level of shared
+    governance at 341 public universities in 15 different areas. To handle the
+    endogeneity of faculty unionization, an index of state employee collective
+    bargaining rights is used as an instrument for unionization. Findings
+    indicate that unionization greatly increases faculty influence over
+    institutional decision-making, both in compensation and in areas outside of
+    compensation.
+  URL: 'https://doi.org/10.1177/001979391306600508'
+  DOI: 10.1177/001979391306600508
+  ISSN: 0019-7939
+  language: en
+  author:
+    - family: Porter
+      given: Stephen R.
+  issued:
+    - year: 2013
+      month: 10
+      day: 1
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  container-title-short: ILR Review
+
+- id: cainCampusUnionsOrganized2017
+  type: article-journal
+  title: >-
+    Campus Unions: Organized Faculty and Graduate Students in U.S. Higher
+    Education
+  container-title: ASHE Higher Education Report
+  page: 7-163
+  volume: '43'
+  issue: '3'
+  source: Wiley Online Library
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/aehe.20119'
+  DOI: 10.1002/aehe.20119
+  ISSN: 1554-6306
+  language: en
+  author:
+    - family: Cain
+      given: Timothy Reese
+  issued:
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Campus Unions
+
+- id: goldeyUnionProfessorsFraming2010
+  type: article-journal
+  title: >-
+    Union Professors: Framing Processes, Mobilizing Structures, and
+    Participation in Faculty Unions*
+  container-title: Sociological Inquiry
+  page: 331-353
+  volume: '80'
+  issue: '3'
+  source: Wiley Online Library
+  abstract: >-
+    This study traces the development of union loyalties among community college
+    professors. Assuming that activism is motivated by contextual and
+    ideological factors, the paper analyzes the ways that social networks,
+    collegiate workplaces, and framing practices transform political bystanders
+    into committed union members. Using data from a study of junior college
+    professors in Kentucky (N = 329), the study finds that union participation
+    is strongly linked to a distrust of campus administrators and having
+    pro-union friends and colleagues. Likewise, perceptions of union efficacy, a
+    liberal identity as well the professor’s education level predicted the
+    actual joining of their campus’ faculty union.
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.2010.00337.x'
+  DOI: 10.1111/j.1475-682X.2010.00337.x
+  ISSN: 1475-682X
+  language: en
+  author:
+    - family: Goldey
+      given: Gregory
+    - family: Swank
+      given: Eric
+    - family: Hardesty
+      given: Constance
+    - family: Swain
+      given: Randall
+  issued:
+    - year: 2010
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Union Professors
+
+- id: rhoadesReorganizingFacultyWorkforce1996
+  type: article-journal
+  title: Reorganizing the Faculty Workforce for Flexibility
+  container-title: The Journal of Higher Education
+  page: 626-659
+  volume: '67'
+  issue: '6'
+  source: Taylor and Francis+NEJM
+  URL: 'https://doi.org/10.1080/00221546.1996.11774819'
+  DOI: 10.1080/00221546.1996.11774819
+  ISSN: 0022-1546
+  author:
+    - family: Rhoades
+      given: Gary
+  issued:
+    - year: 1996
+      month: 11
+      day: 1
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+
+- id: duncanIndenturedServantsAcademia1998
+  type: article-journal
+  title: >-
+    The Indentured Servants of Academia: The Adjunct Faculty Dilemma and Their
+    Limited Legal Remedies
+  container-title: Indiana Law Journal
+  page: 513-586
+  volume: '74'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/indana74&i=523'
+  language: eng
+  author:
+    - family: Duncan
+      given: John C. Jr.
+  issued:
+    - year: 1998
+    - year: 1999
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: The Indentured Servants of Academia
+  container-title-short: Ind. L.J.
+
+- id: lieberwitzFacultyCorporateUniversity2006
+  type: article-journal
+  title: >-
+    Faculty in the Corporate University: Professional Identity, Law and
+    Collective Action
+  container-title: Cornell Journal of Law and Public Policy
+  page: 263-330
+  volume: '16'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/cjlpp16&i=271'
+  language: eng
+  author:
+    - family: Lieberwitz
+      given: Risa L.
+  issued:
+    - year: 2006
+    - year: 2007
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Faculty in the Corporate University
+  container-title-short: Cornell J. L. & Pub. Pol'y
+
+- id: zhengPrecarityFeministIssue2018
+  type: article-journal
+  title: 'Precarity is a Feminist Issue: Gender and Contingent Labor in the Academy'
+  container-title: Hypatia
+  page: 235-255
+  volume: '33'
+  issue: '2'
+  source: Wiley Online Library
+  abstract: >-
+    Feminist philosophers have challenged a wide range of gender injustices in
+    professional philosophy. However, the problem of precarity, that is, the
+    increasing numbers of contingent faculty who cannot find permanent
+    employment, has received scarcely any attention. What explains this
+    oversight? In this article, I argue, first, that academics are held in the
+    grips of an ideology that diverts attention away from the structural
+    conditions of precarity, and second, that the gendered dimensions of such an
+    ideology have been overlooked. To do so, I identify two myths: the myth of
+    meritocracy and the myth of work as its own reward. I demonstrate that these
+    myths—and the two-tier system itself—manifest an unmistakably gendered
+    logic, such that gender and precarity are mutually reinforcing and
+    co-constitutive. I conclude that feminist philosophers have particular
+    reason to organize against the casualization of academic work.
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/hypa.12401'
+  DOI: 10.1111/hypa.12401
+  ISSN: 1527-2001
+  language: en
+  author:
+    - family: Zheng
+      given: Robin
+  issued:
+    - year: 2018
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Precarity is a Feminist Issue
+
+- id: maitlandBargainingContingentFaculty2005
+  type: article-journal
+  title: Bargaining for Contingent Faculty
+  container-title: The NEA 2005 Almanac of Higher Education
+  page: '10'
+  source: Zotero
+  language: en
+  author:
+    - family: Maitland
+      given: Christine
+    - family: Rhoades
+      given: Gary
+  issued:
+    - year: 2005
+
+- id: mooreDeterminationBargainingUnits1975
+  type: article-journal
+  title: The Determination of Bargaining Units for College Faculties
+  container-title: University of Pittsburgh Law Review
+  page: 43-62
+  volume: '37'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/upitt37&i=55'
+  language: eng
+  author:
+    - family: Moore
+      given: Elizabeth
+  issued:
+    - year: 1975
+    - year: 1976
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  container-title-short: U. Pitt. L. Rev.
+
+- id: headBargainingUnitStatus1979
+  type: article-journal
+  title: Bargaining Unit Status of Part-Time Faculty Labor
+  container-title: Journal of Law & Education
+  page: 361-378
+  volume: '8'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/jle8&i=371'
+  language: eng
+  author:
+    - family: Head
+      given: Ronald B.
+    - family: Leslie
+      given: David W.
+  issued:
+    - year: 1979
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  container-title-short: J.L. & Educ.
+
+- id: carrManagerialEmployeeLabel1979
+  type: article-journal
+  title: 'Managerial Employee: A Label in Search of a Meaningful Definition Note'
+  container-title: University of Cincinnati Law Review
+  page: 435-458
+  volume: '48'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/ucinlr48&i=457'
+  language: eng
+  author:
+    - family: Carr
+      given: Kathleen W.
+  issued:
+    - year: 1979
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Managerial Employee
+  container-title-short: U. Cin. L. Rev.
+
+- id: bodahSignificantLaborEmployment2000
+  type: article-journal
+  title: >-
+    Significant Labor and Employment Law Issues in Higher Education during the
+    Past Decade and What to Look for Now: The Perspective of an Academician
+    Labor Relations
+  container-title: Journal of Law & Education
+  page: 317-332
+  volume: '29'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/jle29&i=327'
+  language: eng
+  author:
+    - family: Bodah
+      given: Matthew M.
+  issued:
+    - year: 2000
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: >-
+    Significant Labor and Employment Law Issues in Higher Education during the
+    Past Decade and What to Look for Now
+  container-title-short: J.L. & Educ.
+
+- id: greenbergImpossibleUnityAdjuncts2014
+  type: article-journal
+  title: 'Impossible Unity: Adjuncts and Tenure-Track Faculty'
+  container-title: New Labor Forum
+  page: 11-13
+  volume: '23'
+  issue: '1'
+  source: SAGE Journals
+  URL: 'https://doi.org/10.1177/1095796013512623'
+  DOI: 10.1177/1095796013512623
+  ISSN: 1095-7960
+  language: en
+  author:
+    - family: Greenberg
+      given: Ivan
+  issued:
+    - year: 2014
+      month: 1
+      day: 1
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Impossible Unity
+  container-title-short: New Labor Forum
+
+- id: herbertWindsChangesShift2016
+  type: report
+  title: >-
+    The Winds of Changes Shift: An Analysis of Recent Growth in Bargaining Units
+    and Representation Efforts in Higher Education
+  genre: SSRN Scholarly Paper
+  source: papers.ssrn.com
+  abstract: >-
+    This article analyzes data accumulated during the first three quarters of
+    2016 regarding completed and pending questions of representation involving
+    faculty and student employees in higher education. It is part of a larger
+    and continuing National Center research project that tracks faculty and
+    graduate student employee unionization growth and representation efforts at
+    private and public institutions of higher learning since January 1, 2013.
+  URL: 'https://papers.ssrn.com/abstract=2906668'
+  number: ID 2906668
+  language: en
+  author:
+    - family: Herbert
+      given: William A.
+  issued:
+    - year: 2016
+      month: 12
+      day: 1
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  publisher-place: 'Rochester, NY'
+  title-short: The Winds of Changes Shift
+
+- id: herbertWilliamHerbertUnionization2017
+  type: article-journal
+  title: >-
+    William Herbert on unionization and collective bargaining in higher
+    education institutions
+  container-title: Radio Higher Ed
+  URL: 'https://scholars.unh.edu/radio/55'
+  author:
+    - family: Herbert
+      given: William
+  issued:
+    - year: 2017
+      month: 3
+      day: 21
+
+- id: herbertEverythingPassesEverything2017
+  type: report
+  title: >-
+    Everything Passes, Everything Changes: Unionization and Collective
+    Bargaining in Higher Education
+  genre: SSRN Scholarly Paper
+  source: papers.ssrn.com
+  abstract: >-
+    This article begins with a brief history of unionization and collective
+    bargaining in higher education.  It then presents data concerning the recent
+    growth in newly certified collective bargaining representatives at private
+    and public-sector institutions of higher education, particularly among
+    non-tenure track faculty.  The data is analyzed in the context of legal
+    decisions concerning employee status and unit composition under applicable
+    federal and state laws.  Lastly, the article presents data concerning strike
+    activities on campuses between January 2013 and May 31, 2017.
+  URL: 'https://papers.ssrn.com/abstract=3085214'
+  number: ID 3085214
+  language: en
+  author:
+    - family: Herbert
+      given: William A.
+    - family: Apkarian
+      given: Jacob
+  issued:
+    - year: 2017
+      month: 12
+      day: 9
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  publisher-place: 'Rochester, NY'
+  title-short: 'Everything Passes, Everything Changes'
+
+- id: elliott-negriThwartingJanusNew2018
+  type: article-journal
+  title: >-
+    Thwarting Janus: New Legislation Makes Adjunct Organizing Easier in New York
+    State
+  container-title: New Labor Forum
+  page: '1095796018817026'
+  source: SAGE Journals
+  URL: 'https://doi.org/10.1177/1095796018817026'
+  DOI: 10.1177/1095796018817026
+  ISSN: 1095-7960
+  language: en
+  author:
+    - family: Elliott-Negri
+      given: Luke
+    - family: Kagan
+      given: Marc
+  issued:
+    - year: 2018
+      month: 12
+      day: 12
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Thwarting Janus
+  container-title-short: New Labor Forum
+
+- id: worthenOrganizingLearningMetro2015
+  type: article-journal
+  title: >-
+    Organizing as Learning: The Metro Strategy and a Community of Practice for
+    Faculty
+  container-title: WorkingUSA
+  page: 421-433
+  volume: '18'
+  issue: '3'
+  source: Wiley Online Library
+  abstract: >-
+    Organizing of adjunct faculty is intensifying, and now is a good time to
+    talk about strategies. This article argues that while the “hot shop”
+    strategy, with its emphasis on getting authorization cards signed and moving
+    swiftly toward an election, is racking up wins, it risks failing to develop
+    the respectful interpersonal relationships that can carry a union through
+    the hard times of bargaining and enforcing a contract. Two other strategies
+    can make a difference. They depend on providing an answer to the question
+    “Who is we?”, which is a counter to the fragmentation of the faculty
+    workforce created by budgets, labor law, administrative fiat, and management
+    tools intended to undermine solidarity. One is the Metro Strategy, which
+    treats a whole regional faculty workforce as a single “we,” recognizing the
+    realities of commute times, parking problems, and conflicting schedules. It
+    recommends setting up a centrally located workers' center that provides both
+    material resources like WiFi, meeting rooms, and toilets, and organizing
+    resources like information. It acknowledges a regional, not
+    institution-bound, workforce. The second strategy addresses the disciplinary
+    achievements of adjunct faculty, who are often invisible within our own
+    institutions. This strategy is drawn from theories of communities of
+    practice generated by the anthropologist, Jean Lave, who investigated how
+    communities as diverse as tailors and midwives passed on the wisdom and
+    skills of their practices from one generation to another. Organizing using
+    this approach as a guide means focusing on what the adjuncts who share a
+    discipline or practice actually do in their professional, academic lives.
+    This allows space for a “we” based on our real work, not on what an
+    institution defines us to be.
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/wusa.12190'
+  DOI: 10.1111/wusa.12190
+  ISSN: 1743-4580
+  language: en
+  author:
+    - family: Worthen
+      given: Helena
+  issued:
+    - year: 2015
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Organizing as Learning
+
+- id: rhoadesAcademicCapitalismSecondary2015
+  type: chapter
+  title: >-
+    Academic Capitalism and (Secondary) Academic Labor Markets: Negotiating a
+    New Academy and Research Agenda
+  container-title: 'Higher Education: Handbook of Theory and Research'
+  collection-title: 'Higher Education: Handbook of Theory and Research'
+  publisher: 'Springer, Cham'
+  page: 383-430
+  source: link.springer.com
+  abstract: >-
+    The chapter examines how academic labor markets in the U.S. are socially
+    structured. These markets express and enhance social stratification, and are
+    reproduced and renegotiated through ongoing social action. First, we review
+    the classic literature on the subject. Then we consider the presence of
+    secondary labor markets in STEM fields, contextualizing our consideration of
+    academic labor markets in developments in the larger labor force.
+    Subsequently, we focus on academic labor markets in terms of “academic
+    capitalism” and the restructuring of academic institutions, “managed
+    professionals” and the restructuring of academic labor, and the efforts of
+    “organizing professionals” to negotiate a new academy. Analytically, we
+    focus on rising secondary labor markets. We also attend to their social
+    demography, noting international and local dimensions that take us beyond
+    and below the national labor markets that are the literature’s overriding
+    focus. Finally, we map a new research agenda, for newly structured academic
+    labor markets.
+  URL: 'https://link.springer.com/chapter/10.1007/978-3-319-12835-1_9'
+  ISBN: 978-3-319-12834-4 978-3-319-12835-1
+  language: en
+  author:
+    - family: Rhoades
+      given: Gary
+    - family: Torres-Olave
+      given: Blanca M.
+  issued:
+    - year: 2015
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  DOI: 10.1007/978-3-319-12835-1_9
+  title-short: Academic Capitalism and (Secondary) Academic Labor Markets
+
+- id: NLRBYeshivaUniv1979
+  type: legal_case
+  title: NLRB v. Yeshiva Univ.
+  container-title: US
+  page: '672'
+  volume: '444'
+  URL: >-
+    https://scholar.google.com/scholar_case?case=1956462493608515947&q=yeshiva+v+nlrb&hl=en&as_sdt=6,34
+  jurisdiction: us
+  issued:
+    - literal: 'Argued October 10, 1979'
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+
+- id: fiskContingentLoyaltyRestricted2012
+  type: article-journal
+  title: >-
+    Contingent Loyalty and Restricted Exit: Commentary on the Restatement of
+    Employment Law Papers from the American Bar Foundation - The Labor Law Group
+    Conference on The Proposed Restatement of Employment Law
+  container-title: Employee Rights and Employment Policy Journal
+  page: 413-464
+  volume: '16'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/emplrght16&i=429'
+  language: eng
+  author:
+    - family: Fisk
+      given: Catherine
+    - family: Barry
+      given: Adam
+  issued:
+    - year: 2012
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Contingent Loyalty and Restricted Exit
+  container-title-short: Emp. Rts. & Emp. Pol'y J.
+
+- id: bodieEmploymentFiduciaryRelationship2016
+  type: article-journal
+  title: Employment as Fiduciary Relationship
+  container-title: Georgetown Law Journal
+  page: 819-870
+  volume: '105'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/glj105&i=835'
+  language: eng
+  author:
+    - family: Bodie
+      given: Matthew T.
+  issued:
+    - year: 2016
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  container-title-short: Geo. L.J.
+
+- id: reidCombatingEnemyRegulating2018
+  type: article-journal
+  title: >-
+    Combating the Enemy within: Regulating Employee Misappropriation of Business
+    Information Notes
+  container-title: Vanderbilt Law Review
+  page: '[i]-1070'
+  volume: '71'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/vanlr71&i=1067'
+  language: eng
+  author:
+    - family: Reid
+      given: Danielle J.
+  issued:
+    - year: 2018
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  title-short: Combating the Enemy within
+  container-title-short: Vand. L. Rev.
+
+- id: hydeBriefUserGuide2017
+  type: article-journal
+  title: >-
+    A Brief User's Guide to Restatement of Employment Law Chapter I, Employee
+    Obligations and Restrictive Covenants The Labor Law Group Symposium on the
+    Restatement of Employment Law
+  container-title: Employee Rights and Employment Policy Journal
+  page: 623-644
+  volume: '21'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=629'
+  language: eng
+  author:
+    - family: Hyde
+      given: Alan
+  issued:
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 20
+  container-title-short: Emp. Rts. & Emp. Pol'y J.
+
+- id: kazaglisNorthCarolinaReinforces2015
+  type: webpage
+  title: >-
+    North Carolina Reinforces Property Protection Law, Giving Employers Right to
+    Sue
+  container-title: Jackson Lewis
+  abstract: >-
+    The protection of property, be it patient records, financial information,
+    consumer data, merchandise, or intellectual property, is a serious issue for
+    North Carolina companies of all sizes. Beginning on January 1, 2016, North
+    Carolina employers will be able to recover monetary damages resulting from
+    employees’ unauthorized access to and theft of their property.
+  URL: >-
+    https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
+  note: >-
+    The protection of property, be it patient records, financial information,
+    consumer data, merchandise, or intellectual property, is a serious issue for
+    North Carolina companies of all sizes. Beginning on January 1, 2016, North
+    Carolina employers will be able to recover monetary damages resulting from
+    employees’ unauthorized access to and theft of their property.
+  language: en
+  author:
+    - family: Kazaglis
+      given: Ted Nick
+  issued:
+    - year: 2015
+      month: 7
+      day: 16
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+
+- id: blizzardNCPropertyProtection2017
+  type: webpage
+  title: 'NC''s Property Protection Act: Gives Employers Right to Sue'
+  container-title: CAI Blog
+  URL: >-
+    https://www.capital.org/s/content/a0Y41000005798ZEAQ/blogncs-property-protection-act-gives-employers-right-to-sue
+  author:
+    - family: Blizzard
+      given: Doug
+  issued:
+    - year: 2017
+      month: 9
+      day: 12
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+
+- id: frazierBoneheadedAggagLaw
+  type: webpage
+  title: N.C.’s boneheaded ‘ag-gag’ law protects corporate wrongdoing from exposure
+  container-title: Charlotte Observer
+  abstract: >-
+    When an animal rights group videotaped a worker at one of its suppliers
+    kicking, stomping and throwing chickens, the Perdue poultry company thanked
+    the activists for uncovering what it called “clear animal abuse.”
+  URL: >-
+    https://www.charlotteobserver.com/opinion/opn-columns-blogs/o-pinion/article53141640.html
+  note: >-
+    When an animal rights group videotaped a worker at one of its suppliers
+    kicking, stomping and throwing chickens, the Perdue poultry company thanked
+    the activists for uncovering what it called “clear animal abuse.”
+  language: en
+  author:
+    - family: Frazier
+      given: Eric
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+
+- id: vogelerCourtRevivesAg2018
+  type: webpage
+  title: Court Revives 'Ag Gag' Lawsuit in North Carolina
+  container-title: FindLaw
+  abstract: >-
+    For all the attention on North Carolina's ag-gag law, the U.S. Fourth
+    Circuit Court of Appeals saw... - Court News
+  URL: >-
+    https://blogs.findlaw.com/fourth_circuit/2018/06/court-revives-ag-gag-lawsuit-in-north-carolina.html
+  note: >-
+    For all the attention on North Carolina's ag-gag law, the U.S. Fourth
+    Circuit Court of Appeals saw the challengers' case as straightforward. They
+    have standing to sue, the appeals court said in People for the Ethical
+    Treatment of Animals...
+  author:
+    - family: Vogeler
+      given: William
+    - literal: Esq.
+  issued:
+    - year: 2018
+      month: 6
+      day: 14
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+
+- id: vogelerCourtCutsBack2018
+  type: webpage
+  title: Court Cuts Back Idaho's 'Ag Gag' Law
+  container-title: FindLaw
+  abstract: >-
+    Torturing cows was bad enough, but then Idaho tortured the First Amendment.
+    That's a short reading of... - Property Law
+  URL: >-
+    https://blogs.findlaw.com/ninth_circuit/2018/01/court-cuts-back-idahos-ag-gag-law.html
+  note: >-
+    Torturing cows was bad enough, but then Idaho tortured the First Amendment.
+    That's a short reading of Animal Legal Defense Fund v. Wasden. Animal rights
+    activists sued to invalidate a law against surreptitious recording enacted
+    after videos exposed mistreatment...
+  author:
+    - family: Vogeler
+      given: William
+    - literal: Esq.
+  issued:
+    - year: 2018
+      month: 1
+      day: 5
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+
+- id: ball-blakelyCAFOsPlaguingNorth2017
+  type: article-journal
+  title: >-
+    CAFOs: Plaguing North Carolina Communities of Color Animal Welfare in the
+    Context of Human Development
+  container-title: Sustainable Development Law & Policy
+  page: 4-48
+  volume: '18'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/sdlp18&i=4'
+  language: eng
+  author:
+    - family: Ball-Blakely
+      given: Christine
+  issued:
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+  title-short: CAFOs
+  container-title-short: Sustainable Dev. L. & Pol'y
+
+- id: hannekenPrinciplesLimitingRecovery2016
+  type: article-journal
+  title: >-
+    Principles Limiting Recovery against Undercover Investigators in Ag-Gag
+    States: Law, Policy, and Logic Comments
+  container-title: John Marshall Law Review
+  page: 649-712
+  volume: '50'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/jmlr50&i=639'
+  language: eng
+  author:
+    - family: Hanneken
+      given: Sarah
+  issued:
+    - year: 2016
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+  title-short: >-
+    Principles Limiting Recovery against Undercover Investigators in Ag-Gag
+    States
+  container-title-short: J. Marshall L. Rev.
+
+- id: colemanALDFOtterWhat2017
+  type: article-journal
+  title: ALDF v. Otter What Does It Mean for Other State's Ag-gag Laws
+  container-title: Journal of Food Law and Policy
+  page: 198-228
+  volume: '13'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/jfool13&i=202'
+  language: eng
+  author:
+    - family: Coleman
+      given: Jacob
+  issued:
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+  container-title-short: J. Food L. & Pol'y
+
+- id: weilBigAgExceptionalismEnding2017
+  type: article-journal
+  title: >-
+    Big-Ag Exceptionalism: Ending the Special Protection of the Agricultural
+    Industry
+  container-title: Drexel Law Review
+  page: 183-238
+  volume: '10'
+  source: HeinOnline
+  URL: 'https://heinonline.org/HOL/P?h=hein.journals/drexel10&i=189'
+  language: eng
+  author:
+    - family: Weil
+      given: Sonia
+  issued:
+    - year: 2017
+  accessed:
+    - year: 2018
+      month: 12
+      day: 24
+  title-short: Big-Ag Exceptionalism
+  container-title-short: Drexel L. Rev.
 ...

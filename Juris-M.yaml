@@ -1885,6 +1885,7 @@ references:
   jurisdiction: us
   issued:
     - year: 1995
+  authority: U.S.
   title-short: Town & Country Electric
 
 - id: NLRBBrowningFerrisIndustries1982
@@ -3541,4 +3542,239 @@ references:
       day: 24
   title-short: Big-Ag Exceptionalism
   container-title-short: Drexel L. Rev.
+
+- id: FluorDanielInc1993
+  type: legal_case
+  title: 'Fluor Daniel, Inc.'
+  container-title: N.L.R.B.
+  page: '498'
+  volume: '311'
+  jurisdiction: us
+  issued:
+    - year: 1993
+
+- id: lamLifeUndercoverUnion2016
+  type: webpage
+  title: Life as an Undercover Union Organizer
+  container-title: The Atlantic
+  abstract: >-
+    For two years, the writer and labor advocate James Walsh got jobs at casinos
+    to help their employees unionize.
+  URL: >-
+    https://www.theatlantic.com/business/archive/2016/03/undercover-union-organizer/474387/
+  language: en-US
+  author:
+    - family: Lam
+      given: Bourree
+  issued:
+    - year: 2016
+      month: 3
+      day: 21
+  accessed:
+    - year: 2019
+      month: 1
+      day: 6
+
+- id: walshDoubleLifeUndercover2016
+  type: webpage
+  title: The Double Life of an Undercover Union Organizer
+  container-title: New York Magazine Intelligencer
+  abstract: >-
+    My time covertly trying to help labor get a foothold in the casinos in
+    Florida.
+  URL: >-
+    http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
+  language: en
+  author:
+    - family: Walsh
+      given: James D.
+  issued:
+    - year: 2016
+      month: 2
+      day: 19
+  accessed:
+    - year: 2019
+      month: 1
+      day: 6
+
+- id: johnsonNoSaltAdded2017
+  type: webpage
+  title: No Salt Added
+  container-title: Jacobin
+  URL: 'http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor'
+  language: en-US
+  author:
+    - family: Johnson
+      given: Nick
+  issued:
+    - year: 2017
+      month: 3
+      day: 22
+  accessed:
+    - year: 2019
+      month: 1
+      day: 6
+
+- id: AerotekInc2018
+  type: legal_case
+  title: 'Aerotek, Inc. v. N.L.R.B.'
+  issue: No. 16-4520
+  number: '16-4520, 17-1206'
+  jurisdiction: us
+  issued:
+    - year: 2018
+      month: 2
+      day: 21
+  authority: 8th Cir.
+
+- id: nationalrighttoworkcommitteeSaltingCoerciveBig2003
+  type: article
+  title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
+  publisher: National Right to Work Committee
+  author:
+    - family: National Right to Work Committee
+      given: ''
+      literal: National Right to Work Committee
+  issued:
+    - year: 2003
+
+- id: formanLetGetWork2017
+  type: webpage
+  title: Let’s Get to Work
+  container-title: Jacobin
+  URL: >-
+    http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
+  language: en-US
+  author:
+    - family: Forman
+      given: Erik
+  issued:
+    - year: 2017
+      month: 2
+      day: 7
+  accessed:
+    - year: 2019
+      month: 1
+      day: 7
+
+- id: dallSaltingEarthOrganizing2002
+  type: article-journal
+  title: 'Salting the Earth: Organizing for the Long Haul'
+  container-title: New Labor Forum
+  page: 36-41
+  issue: '10'
+  source: JSTOR
+  archive: JSTOR
+  URL: 'http://www.jstor.org/stable/40342338'
+  ISSN: 1095-7960
+  author:
+    - family: Dall
+      given: Carey
+    - family: Cohen
+      given: Jonathan
+  issued:
+    - year: 2002
+      month: 4
+  accessed:
+    - year: 2019
+      month: 1
+      day: 7
+  title-short: Salting the Earth
+
+- id: walshPlayingHouseDramatic2016
+  type: book
+  title: >-
+    Playing Against the House: The Dramatic World of an Undercover Union
+    Organizer
+  publisher: Simon and Schuster
+  number-of-pages: '279'
+  source: Google Books
+  abstract: >-
+    In the tradition of Barbara Ehrenreich’s classic Nickel and Dimed, a
+    talented young journalist goes undercover as a casino labor-union organizer
+    in this rare inside look at the ongoing struggle of hourly-wage service
+    workers to survive in America.“Salting” is a simple concept—get hired at a
+    non-union company, do the job you were hired to do, and, with the help of
+    organizers on the outside, unionize your coworkers from the inside. James
+    Walsh spent two years as a “salt” in two casinos in South Florida, working
+    as a buffet server and a bartender. Neither his employers nor the union knew
+    of Walsh’s intentions to write about his experience. Now he reveals hard-won
+    and little-known truths about how unions fight to organize service workers,
+    the vigorous corporate opposition against them, and how workers get caught
+    in the middle. As a salt, Walsh witnessed the cultish nature of labor
+    organization and was constantly grilled by his union organizer as to whether
+    he had enough grit and determination to win converts to the cause while
+    remaining undercover. At work, Walsh witnessed the oddities of casino life
+    and management’s stunning mistreatment of service industry employees, most
+    of whom were hanging on to economic survival by their fingernails. His
+    meticulous reporting reveals supervisors berating workers for the smallest
+    infractions, even as employees submit to relentless scrutiny, ever-changing
+    work schedules, and the callous behavior of casino customers. A clear-eyed
+    and balanced account, Playing Against the House explores the trials of
+    day-to-day life for the working poor and the face of twenty-first-century
+    union organizing and union busting in unprecedented detail.
+  ISBN: 978-1-4767-7837-2
+  language: en
+  author:
+    - family: Walsh
+      given: James D.
+  issued:
+    - year: 2016
+      month: 2
+      day: 16
+  title-short: Playing Against the House
+
+- id: ExaminingUnionSalting2004
+  type: bill
+  title: >-
+    Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
+    Economy
+  genre: Hearing
+  chapter-number: 108th Congress
+  note: >-
+    Subcommitte on Employer-Employee Relations of the House Committe on
+    Education and the Workforce
+  jurisdiction: us
+  issued:
+    - year: 2004
+      month: 5
+      day: 10
+
+- id: BudAntleInc1994
+  type: legal_case
+  title: 'Bud Antle, Inc. v. Barbosa'
+  container-title: F. 3d
+  page: '1261'
+  volume: '45'
+  jurisdiction: us
+  issued:
+    - literal: 'Deptember 9, 1994'
+  authority: 9th Cir.
+
+- id: AnimalLegalDefense2018
+  type: legal_case
+  title: Animal Legal Defense Fund v. Wasden
+  container-title: F. 3d
+  page: '1184'
+  volume: '878'
+  jurisdiction: 'us:c9'
+  issued:
+    - year: 2018
+      month: 1
+      day: 4
+  authority: 9th Cir.
+
+- id: AnimalLegalDefense2018a
+  type: legal_case
+  title: Animal Legal Defense Fund v. Wasden
+  container-title: F. Supp. 3d
+  page: '939'
+  volume: '312'
+  number: 'Case No. 1:14-cv-00104-BLW'
+  jurisdiction: 'us:c9:id.d'
+  issued:
+    - year: 2018
+      month: 5
+      day: 8
+  authority: D. Idaho
 ...

@@ -1,6 +1,6 @@
 ---
 references:
-- id: 1543Reasonable
+- id: 1543Reasonable_nd
   accessed:
     - year: 2020
       month: 2
@@ -12,7 +12,7 @@ references:
   URL: >-
     https://1.next.westlaw.com/Document/I706dee9e602411e5b03de1adef3203f0/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI94cda88592fe11e1b11ea85d0b248d27%26midlineIndex%3D2%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26category%3DkcCitingReferences%26origRank%3D7%26origDocSource%3D8df780d429024ae48b43a06f503c2226&listSource=RelatedInfo&list=CitingReferences&rank=2&docFamilyGuid=Ie16ebc71602711e58cc1d617b39e42da&overruleRisk=true&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.Search%29
 
-- id: 2020AttorneyFees
+- id: 2020AttorneyFees_nd
   abstract: >-
     Attorney's hourly fees range between $100 and $400. Fees for criminal cases
     and misdemeanors cost around $1,000, while a complex divorce costs $5,000 or
@@ -24,16 +24,15 @@ references:
   container-title: Thervo
   language: en
   note: >-
-    source: thervo.com
-
     Attorney's hourly fees range between $100 and $400. Fees for criminal cases
     and misdemeanors cost around $1,000, while a complex divorce costs $5,000 or
     more.
+  source: thervo.com
   title: 2020 Attorney Fees | Average Hourly Rates & Standard Costs
   type: webpage
   URL: 'https://thervo.com/costs/attorney-fees'
 
-- id: 2020HourlyRate
+- id: 2020HourlyRate_nd
   accessed:
     - year: 2020
       month: 2
@@ -158,6 +157,40 @@ references:
   type: article-journal
   volume: '45'
 
+- id: Adkins2019
+  abstract: >-
+    Since the financial crisis of 2007-08 there has been a growing interest
+    within sociology as well as within allied social science disciplines in debt
+    and indebtedness. This has resulted in a range of analyses which, in various
+    ways, attempt to outline the social conditions of indebtedness, that is, to
+    define or map indebtedness in sociological terms. In so doing, such analyses
+    have touched on a range of critical issues including austerity, the expanded
+    powers of financial and banking institutions, and the relationship between
+    the state and financial capital. In this chapter, I will suggest that to
+    date much of the
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Adkins
+      given: Lisa
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.6
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 27-48
+  publisher: Bristol University Press
+  source: JSTOR
+  title: 'Debt, complexity and the sociological imagination'
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.6'
+
 - id: AerotekInc2018
   issue: No. 16-4520
   issued:
@@ -199,6 +232,311 @@ references:
   type: legal_case
   volume: '271'
 
+- id: ALMEIDA2019
+  abstract: >-
+    This book has introduced readers to the basic features of social movements
+    and the specialized subfields within the discipline. The Conclusion offers
+    suggestions on future directions of social movements and the mounting crises
+    excluded groups face in the twenty-first century. While the new social media
+    communication technologies continue to produce recordbreaking national and
+    transnational protests in the scale of mobilizations and provide evidence of
+    the power in numbers, other challenges remain. The dark side of the new
+    millennium includes rising inequality, a resurgence of authoritarian
+    populism, and a deepening ecological crisis. Before turning briefly to these
+    issues, we will look
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 173-180
+  publisher: University of California Press
+  source: JSTOR
+  title: 'Conclusion:: Mounting Crises and the Pathway Forward'
+  title-short: Conclusion
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.13'
+
+- id: ALMEIDA2019a
+  abstract: >-
+    The previous chapter defined and discussed social movements in basic terms.
+    The present chapter explores the process of researching social movements.
+    The exploration begins with a concise classification scheme of social
+    movement activity from the micro-to the macrolevel. This categorization
+    system runs from everyday forms of resistance to revolutions and
+    transnational movements. The second half of the chapter covers the main
+    types of methods used by social scientists, anthropologists, and historians
+    to study social movements. Historical archives, surveys, observation,
+    interviews, and content analysis along with document coding are all
+    introduced. Each category of movement activity corresponds to different
+    methodological tools
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 19-43
+  publisher: University of California Press
+  source: JSTOR
+  title: 'How to Study Social Movements:: Classification and Methods'
+  title-short: How to Study Social Movements
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.6'
+
+- id: ALMEIDA2019b
+  abstract: >-
+    Why do some individuals join social movements while many more stay at home
+    and do not participate? This is the fundamental question of individual
+    recruitment and participation in social movements. Chapter 4 focused on
+    movement emergence and diffusion at the group or macrolevel of collective
+    action. Movement participation addresses the individual level of social
+    movements. Obviously, this is a critical level to explore. How is collective
+    action even possible if  *individuals*  do not take the time and risk to
+    join in social movement activities? Hence, this microlevel of political and
+    social life is vital to the understanding of the origins
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 101-120
+  publisher: University of California Press
+  source: JSTOR
+  title: Individual Recruitment and Participation
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.10'
+
+- id: ALMEIDA2019c
+  abstract: >-
+    Up to this point, this text has largely focused on social movement
+    mobilization, not on outcomes. We have covered basic terms, methods,
+    theories, and components of the emergence and spread of collective action.
+    Even the discussions of framing and movement participation (chapters 5 and 6
+    ) centered on the mobilizing process and how individuals become recruited to
+    protest campaigns. This chapter addresses potentially the most important
+    questions overall in relation to social movements. How do we observe and
+    document social movements creating social change? What are the conditions
+    associated with successful movements that achieve some of their demands and
+    goals?
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 121-146
+  publisher: University of California Press
+  source: JSTOR
+  title: Movement Outcomes
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.11'
+
+- id: ALMEIDA2019d
+  abstract: >-
+    This chapter provides focused attention on social movement mobilization in
+    the global South. Previous chapters generally examined social movement
+    dynamics in the global North with some notable exceptions. The “global
+    South” refers to countries in the developing world outside of the
+    industrialized democracies of North America, western Europe, Japan, and
+    Australia. The label “South” is used as the majority of developing countries
+    are geographically located in the southern hemisphere.¹ Making sweeping
+    statements about social movement dynamics in the global South presents
+    several dangers given the diversity of countries in this wide categorical
+    grouping. Indeed, the global South includes countries ranging
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 147-172
+  publisher: University of California Press
+  source: JSTOR
+  title: 'Pushing the Limits:: Social Movements in the Global South'
+  title-short: Pushing the Limits
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.12'
+
+- id: ALMEIDA2019e
+  abstract: >-
+    The previous chapter on movement theories provided abstract models on the
+    core frameworks explaining collective action dynamics. This chapter examines
+    the most investigated dimension of collective mobilization: when and where
+    social movements are most likely to surface. The first sections focus on
+    three arenas shaping the formation of social movements: common interests,
+    organizational building blocks, and group identities. The chapter concludes
+    by discussing diffusion processes after a movement begins to establish
+    itself. In other words, it addresses how protest campaigns spread and
+    multiply across cities, states, and even nations. The struggle of fast-food
+    workers in the United States completes the
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 63-79
+  publisher: University of California Press
+  source: JSTOR
+  title: >-
+    Social Movement Emergence:: Interests, Resource Infrastructures, and
+    Identities
+  title-short: Social Movement Emergence
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.8'
+
+- id: ALMEIDA2019f
+  abstract: >-
+    The voluntary coming together of people in joint action has served as a
+    major engine of social transformation throughout human history. From the
+    spread of major world religions to community-led public health campaigns for
+    reducing debilitating vector-borne diseases at the village level, collective
+    mobilization may lead to profound changes in a wide variety of contexts and
+    societies. At key historical moments, groups have unified in struggle in
+    attempts to overthrow and dismantle systems of oppression and subordination,
+    as observed in indigenous peoples’ resistance to colonialism and in
+    rebellions launched by enslaved populations. In the twenty-first century,
+    collective action by ordinary
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 1-18
+  publisher: University of California Press
+  source: JSTOR
+  title: 'Social Movements:: The Structure of Collective Action'
+  title-short: Social Movements
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.5'
+
+- id: ALMEIDA2019g
+  abstract: >-
+    The previous chapter introduced the main conditions associated with movement
+    emergence and diffusion. Besides the brief attention given to oppositional
+    consciousness and collective identities, chapter 4 largely emphasized
+    structural and material factors such as interests, organizations, and
+    resource infrastructures. The present chapter introduces the framing
+    process, which focuses on cognitive dynamics (what is in people’s heads) in
+    the act of promoting social movement mobilization.  The discussion of
+    framing provides an analytical means to study the ideological components
+    related to social movement mobilizing. Framing involves the battle over
+    ideas. Imagine the uphill struggle excluded social groups face in trying to
+    organize
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 80-100
+  publisher: University of California Press
+  source: JSTOR
+  title: The Framing Process
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.9'
+
+- id: ALMEIDA2019h
+  abstract: >-
+    The previous chapter focused on the methods of social movement research. We
+    examined how to classify different levels of collective action and various
+    approaches to collecting systematic information on the multiple dimensions
+    of movement activities. In this chapter, we shift from concrete tools for
+    observing social movements to more abstract theories explaining their
+    origins and trajectories. Theories reduce the social world into the most
+    important causal dimensions in explaining empirical patterns and outcomes.
+    Scholars strive for parsimony in their explanations of the dynamics of
+    social change. For social movements, we employ conceptual frameworks to
+    understand specific subfields such as movement
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ALMEIDA
+      given: PAUL
+  collection-title: The Structure of Collective Mobilization
+  container-title: Social Movements
+  edition: '1'
+  ISBN: 978-0-520-29091-4
+  issued:
+    - year: 2019
+  page: 44-62
+  publisher: University of California Press
+  source: JSTOR
+  title: Theories of Social Movement Mobilization
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvd1c7d7.7'
+
 - id: AmericanBarAssociation2016
   author:
     - family: American Bar Association
@@ -213,6 +551,17 @@ references:
   title-short: Recent Developments
   type: article-journal
   volume: '5'
+
+- id: AmicusCuraeBrief2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 20
+  title: >-
+    Amicus Curae Brief of the Idaho Building Trades Council and the Idaho
+    AFL-CIO, in Support of Appellee and for Affirmance
+  title-short: Idaho BTC & AFL-CIO Amicus Brief
+  type: article
 
 - id: Anderson2019
   abstract: >-
@@ -390,39 +739,47 @@ references:
   title-short: The Economists' Hour
   type: book
 
-- id: April232016
+- id: Applebaum2019
   abstract: >-
-    Billing surveys allow attorneys to evaluate how their billing practices
-    compare to other law firms. The following are the billing surveys available
-    at Jenkins.Law review and journal articles may give further insight on
-    billing. Jenkins members can use HeinOnline and LegalTrac to search for
-    articles.
-  accessed:
-    - year: 2020
-      month: 2
-      day: 28
+    The familiar story of Soviet power in Cold War Eastern Europe focuses on
+    political repression and military force. But in Empire of Friends, Rachel
+    Applebaum shows how the Soviet Union simultaneously promoted a policy of
+    transnational friendship with its Eastern Bloc satellites to create a
+    cohesive socialist world. This friendship project resulted in a new type of
+    imperial control based on cross-border contacts between ordinary citizens.
+    In a new and fascinating story of cultural diplomacy, interpersonal
+    relations, and the trade of consumer-goods, Applebaum tracks the rise and
+    fall of the friendship project in Czechoslovakia, as the country evolved
+    after World War II from the Soviet Union's most loyal satellite to its most
+    rebellious.Throughout Eastern Europe, the friendship project shaped the most
+    intimate aspects of people's lives, influencing everything from what they
+    wore to where they traveled to whom they married. Applebaum argues that in
+    Czechoslovakia, socialist friendship was surprisingly durable, capable of
+    surviving the ravages of Stalinism and the Soviet invasion that crushed the
+    1968 Prague Spring. Eventually, the project became so successful that it
+    undermined the very alliance it was designed to support: as Soviets and
+    Czechoslovaks got to know one another, they discovered important cultural
+    and political differences that contradicted propaganda about a cohesive
+    socialist world. Empire of Friends reveals that the sphere of everyday life
+    was central to the construction of the transnational socialist system in
+    Eastern Europe—and, ultimately, its collapse.
   author:
-    - family: April 23
-      given: Michelle Buhalo • Last Updated
-    - literal: '2018'
-  container-title: Jenkins Law Library
+    - family: Applebaum
+      given: Rachel
+  ISBN: 978-1-5017-3559-2
   issued:
-    - year: 2016
-      month: 10
+    - year: 2019
+      month: 4
       day: 15
   language: en
-  note: >-
-    source: www.jenkinslaw.org
-
-    Billing surveys allow attorneys to evaluate how their billing practices
-    compare to other law firms. The following are the billing surveys available
-    at Jenkins.Law review and journal articles may give further insight on
-    billing. Jenkins members can use HeinOnline and LegalTrac to search for
-    articles.
-  title: Billing Surveys
-  type: webpage
-  URL: >-
-    https://www.jenkinslaw.org/research/guides/attorney-fees-salary-surveys-and-rankings/billing-surveys
+  number-of-pages: '203'
+  publisher: Cornell University Press
+  source: Google Books
+  title: >-
+    Empire of Friends: Soviet Power and Socialist Internationalism in Cold War
+    Czechoslovakia
+  title-short: Empire of Friends
+  type: book
 
 - id: Arce-Ibarra2008
   abstract: >-
@@ -631,8 +988,9 @@ references:
       month: 7
       day: 21
   language: en
-  note: "source: civil.sog.unc.edu\nAs civil litigators in North Carolina know, in order to support most motions for attorney fees (pursuant to statutes that authorize them), a party must present evidence as to the time and labor expended, the skill required, the experience and ability of the attorney, and the customary fee for like work.\_ See, e.g., Cotton v. …"
+  note: "As civil litigators in North Carolina know, in order to support most motions for attorney fees (pursuant to statutes that authorize them), a party must present evidence as to the time and labor expended, the skill required, the experience and ability of the attorney, and the customary fee for like work.\_ See, e.g., Cotton v. …"
   section: Civil Practice
+  source: civil.sog.unc.edu
   title: Attorney Fee Motions and Judicial Notice of “Customary Fee for Like Work”
   type: post-weblog
   URL: >-
@@ -1038,6 +1396,44 @@ references:
   URL: 'http://www.jstor.org/stable/1228030'
   volume: '23'
 
+- id: Billig1995
+  abstract: >-
+    Alberto Melucci, in his book *Nomads of the Present,* pointed to a gap in
+    current ways of studying social movements. According to Melucci,
+    structuralist theories try to explain collective protest by discovering the
+    strains in social systems. In so doing, the structuralist approach fails to
+    describe how social movements are established. On the other hand, resource
+    mobilization theorists devote their attention to examining how collective
+    action is accomplished. In their turn, such theorists overlook the meaning
+    of collective action for the participants. Melucci argues that both
+    approaches ignore how social movements produce new collective identities and
+    cognitive interpretations. He claims
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Billig
+      given: Michael
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 64-82
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: 'Rhetorical Psychology, Ideological Thinking, and Imagining Nationhood'
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.7'
+  volume: '4'
+
 - id: Binker2015
   accessed:
     - year: 2019
@@ -1060,7 +1456,7 @@ references:
   URL: >-
     https://www.wral.com/lawmakers-override-mccrory-veto-on-controversial-private-property-bill/14687952/
 
-- id: bisom-rapp_exceeding_2003
+- id: Bisom-Rapp2003
   author:
     - family: Bisom-Rapp
       given: Susan
@@ -1074,6 +1470,68 @@ references:
     Export of American Lawyering Styles to the Global Worksite
   type: article-journal
   volume: '25'
+
+- id: BITTMANN2014
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: BITTMANN
+      given: SIMON
+  container-title: >-
+    European Journal of Sociology / Archives Européennes de Sociologie /
+    Europäisches Archiv für Soziologie
+  container-title-short: Eur. J. Sociol. Arch. Eur. Sociol. Eur. Arch. Für Soziol.
+  editor:
+    - family: Trumbull
+      given: Gunnar
+  ISSN: 0003-9756
+  issue: '3'
+  issued:
+    - year: 2014
+  page: 423-427
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: THE LEGITIMACY OF CONSUMER DEBT
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/24467534'
+  volume: '55'
+
+- id: Bjerg2019
+  abstract: >-
+    The holy grail of orthodox and even most of heterodox macroeconomics is to
+    provide an answer to the following question: How can we increase growth in
+    our economy? The idea is that growth increases the volume of wealth that is
+    available for distribution and consumption in society. It is a means to
+    achieve employment, stability and to increase overall well-being.
+    Neoclassical supply-side economists argue that growth can only be achieved
+    by fostering competition to increase efficiency and innovation, thus
+    increasing the productive capacity of the economy and the supply of goods
+    and services, which in turn creates its own demand
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Bjerg
+      given: Ole
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.7
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 49-68
+  publisher: Bristol University Press
+  source: JSTOR
+  title: Debt drive and the imperative of growth
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.7'
 
 - id: Blanc2019
   abstract: >-
@@ -1481,7 +1939,7 @@ references:
   title: A Dictionary of Marxist Thought
   type: book
 
-- id: boukalas_politics_2013
+- id: Boukalas2013
   author:
     - family: Boukalas
       given: Christos
@@ -1497,7 +1955,7 @@ references:
   type: article-journal
   volume: '22'
 
-- id: bouza_police_1985
+- id: Bouza1985
   author:
     - family: Bouza
       given: Anthony V
@@ -1508,6 +1966,43 @@ references:
   page: 241-280
   title: 'Police Unions: Paper Tigers or Roaring Lions'
   type: article-journal
+
+- id: Bowsher2019
+  abstract: >-
+    By 2015, the harsh economic austerity measures enforced upon Greece by the
+    ‘Troika’ – made up of the International Monetary Fund (IMF), the European
+    Commission and the European Central Bank (ECB) – in return for bailout loans
+    designed to keep the country afloat had resulted in widespread
+    impoverishment for the Greek people. Between 2009-14 severe material
+    deprivation in Greece rose from 11% to 21.5% of the population, and the
+    poorest 10% of the population lost 56.5% of their income (Truth Committee on
+    the Public Debt [TCPD], 2015: 40). The disastrous social consequences of
+    austerity fomented an allout confrontation between Greece and its
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Bowsher
+      given: Joshua
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.8
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 69-90
+  publisher: Bristol University Press
+  source: JSTOR
+  title: >-
+    Memory, counter-memory and resistance:: notes on the ‘Greek Debt Truth
+    Commission’
+  title-short: 'Memory, counter-memory and resistance'
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.8'
 
 - id: Branscomb1993
   author:
@@ -1708,18 +2203,6 @@ references:
   URL: 'https://heinonline.org/HOL/P?h=hein.journals/afamlpol12&i=111'
   volume: '12'
 
-- id: Browning-FerrisIndustries1982
-  container-title: F. 2d
-  container-title-short: F 2d
-  issued:
-    - year: 1982
-  jurisdiction: 'us:c3'
-  page: '1117'
-  title: NLRB v. Browning-Ferris Industries
-  title-short: Browning-Ferris Industries
-  type: legal_case
-  volume: '691'
-
 - id: BudAntleInc1994
   container-title: F. 3d
   container-title-short: F 3d
@@ -1731,6 +2214,38 @@ references:
   title-short: 'Bud Antle, Inc.'
   type: legal_case
   volume: '45'
+
+- id: Buhalo2016
+  abstract: >-
+    Billing surveys allow attorneys to evaluate how their billing practices
+    compare to other law firms. The following are the billing surveys available
+    at Jenkins.Law review and journal articles may give further insight on
+    billing. Jenkins members can use HeinOnline and LegalTrac to search for
+    articles.
+  accessed:
+    - year: 2020
+      month: 2
+      day: 28
+  author:
+    - family: Buhalo
+      given: Michelle
+  container-title: Jenkins Law Library
+  issued:
+    - year: 2016
+      month: 10
+      day: 15
+  language: en
+  note: >-
+    Billing surveys allow attorneys to evaluate how their billing practices
+    compare to other law firms. The following are the billing surveys available
+    at Jenkins.Law review and journal articles may give further insight on
+    billing. Jenkins members can use HeinOnline and LegalTrac to search for
+    articles.
+  source: www.jenkinslaw.org
+  title: Billing Surveys
+  type: webpage
+  URL: >-
+    https://www.jenkinslaw.org/research/guides/attorney-fees-salary-surveys-and-rankings/billing-surveys
 
 - id: Buhle2005
   abstract: >-
@@ -1834,7 +2349,7 @@ references:
   title: 'United States Consumer Bankruptcy Law Attorney Fee Survey Report, 2017-18'
   type: report
 
-- id: BurdgeLawOffice
+- id: BurdgeLawOffice_nd
   abstract: >-
     The professionals at the Burdge Law Office help our clients in all areas of
     Consumer Law in all Ohio and Kentucky state and federal courts.
@@ -1845,10 +2360,9 @@ references:
   container-title: Burdge Law Office
   language: en-US
   note: >-
-    source: burdgelaw.com
-
     The professionals at the Burdge Law Office help our clients in all areas of
     Consumer Law in all Ohio and Kentucky state and federal courts.
+  source: burdgelaw.com
   title: Burdge Law Office -The Consumer Law Lawyers-Lemon Law & Auto Fraud
   type: webpage
   URL: 'https://burdgelaw.com/'
@@ -2086,7 +2600,7 @@ references:
     https://read.dukeupress.edu/public-culture/article/31/1/69/137316/Banana-BrokersCommunicative-Labor-Translocal
   volume: '31'
 
-- id: capulong_client_2009
+- id: Capulong2009
   author:
     - family: Capulong
       given: Eduardo RC
@@ -2099,7 +2613,7 @@ references:
   type: article-journal
   volume: '16'
 
-- id: carasik_think_2008
+- id: Carasik2008
   author:
     - family: Carasik
       given: Lauren
@@ -2147,7 +2661,7 @@ references:
   type: article-journal
   volume: '11'
 
-- id: carolin_when_2014
+- id: Carolin2014
   author:
     - family: Carolin
       given: Jeff
@@ -2246,7 +2760,7 @@ references:
   title-short: Ag-Gag Across America
   type: article
 
-- id: centerforhistoryandnewmediaZoteroQuickStart
+- id: CenterforHistoryandNewMedia_nd
   author:
     - literal: Center for History and New Media
   title: Zotero Quick Start Guide
@@ -2296,6 +2810,59 @@ references:
   title: 'Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism'
   title-short: Bad Samaritans
   type: book
+
+- id: Cherednychenko2019
+  abstract: >-
+    More than a decade after the outbreak of the global financial crisis,
+    consumers across the EU have been increasing their level of debt in terms of
+    both volume and value of consumer credit products. Among the reasons for
+    this trend are the low interest rate environment, the novel business
+    practices of lenders aimed at finding new revenue sources, such as fees and
+    charges on loans, and the innovative business models emerging in an
+    increasingly digital marketplace, such as peer-to-peer lending. These
+    developments present new risks to consumers and pose new challenges for
+    regulators in terms of how to address them. This article aims to uncover the
+    problematic aspects of consumer credit provision in the post-crisis lending
+    environment across the EU and to assess to what extent the 2008 Consumer
+    Credit Directive currently in force, which aims to ensure adequate consumer
+    protection against irresponsible lending, is fit for its purpose today. In
+    this context, the article explores the general meaning of “responsible
+    lending” with emphasis on consumer credit, identifies the most imminent
+    irresponsible lending practices in the consumer credit markets, and
+    tentatively analyses their key drivers. It also reveals some important
+    limitations of the Consumer Credit Directive in providing adequate consumer
+    protection against irresponsible lending and offers tentative
+    recommendations for improvement. In the authors’ view, the time now seems
+    ripe for striking a different balance between access to credit and consumer
+    protection in European consumer credit law.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  author:
+    - family: Cherednychenko
+      given: Olha O.
+    - family: Meindertsma
+      given: Jesse M.
+  container-title: Journal of Consumer Policy
+  container-title-short: J Consum Policy
+  DOI: 10.1007/s10603-019-09421-4
+  ISSN: 1573-0700
+  issue: '4'
+  issued:
+    - year: 2019
+      month: 12
+      day: 1
+  language: en
+  page: 483-519
+  source: Springer Link
+  title: >-
+    Irresponsible Lending in the Post-Crisis Era: Is the EU Consumer Credit
+    Directive Fit for Its Purpose?
+  title-short: Irresponsible Lending in the Post-Crisis Era
+  type: article-journal
+  URL: 'https://doi.org/10.1007/s10603-019-09421-4'
+  volume: '42'
 
 - id: Cobble1992
   abstract: "\"Rich in detail, studded with telling anecdotes, Dishing It Out \_\_\_\_ \_\_\_is just as vivid and evocative as its title suggests. . . . This book \_\_\_\_\_\_\_ speaks with clarity and good sense to the major debates in the history \_\_\_\_\_\_\_ of work and gender and will become a landmark in our growing understanding \_\_\_\_\_\_\_ of the relationships between the two.\" \_\_\_\_\_\_\_ -- Susan Porter Benson, author of Counter Cultures \_\_\_\_\_ \"In this imaginative study of waitresses, work, and unionism, Cobble \_\_\_\_\_\_\_ challenges us all to rethink the conventional wisdom about the relationship \_\_\_\_\_\_\_ between craft unionism and the possibilities for women workers' collective \_\_\_\_\_\_\_ action. Women's labor history will never be the same.\" \_\_\_\_\_\_\_ -- Ruth Milkman, author of Gender at Work: The Dynamics of Job \_\_\_\_\_\_\_ Segregation by Sex during World War II"
@@ -2549,33 +3116,6 @@ references:
   URL: www.jstor.org/stable/24052125
   volume: '23'
 
-- id: crime
-  abstract: >-
-    Consumer advocates say there's an accelerating effort within the $11 billion
-    debt collection industry to make profits from debts the financial industry
-    once wrote off.
-  accessed:
-    - year: 2019
-      month: 12
-      day: 17
-  author:
-    - family: crime
-      given: Renae Merle closeRenae MerleReporter
-      dropping-particle: covering white-collar
-    - family: StreetEmailEmailBioBioFollowFollow
-      given: Wall
-  container-title: Washington Post
-  language: en
-  note: >-
-    Consumer advocates say there's an accelerating effort within the $11 billion
-    debt collection industry to make profits from debts the financial industry
-    once wrote off.
-  title: 'Zombie debt: How collectors trick consumers into reviving dead debts'
-  title-short: Zombie debt
-  type: webpage
-  URL: >-
-    https://www.washingtonpost.com/business/2019/08/07/zombie-debt-how-collectors-trick-consumers-into-reviving-dead-debts/
-
 - id: Cross2002
   abstract: >-
     The unqualified victory of consumerism in America was not a foregone
@@ -2750,7 +3290,7 @@ references:
   URL: www.jstor.org/stable/24052427
   volume: '26'
 
-- id: DaringFireballMarkdown
+- id: DaringFireballMarkdown_nd
   accessed:
     - year: 2017
       month: 3
@@ -2797,7 +3337,47 @@ references:
   title: Social Movements and Organization Theory
   type: book
 
-- id: DeborahHurwitz
+- id: Davis2019
+  abstract: >-
+    The systemic necessity to take on ever more unsecured credit simply to go
+    about the business of everyday life in a financialised society is still
+    positioned as a personal choice rather than an unavoidable means of
+    survival. For young people endeavouring to make the transition to
+    ‘adulthood’ – a state often associated with financial independence and
+    self-sufficiency – the accumulation of debt has become an integral part of
+    this transitional process, especially at a time of continued economic
+    instability and with state support greatly atrophied in the name of
+    ‘austerity’.  In this chapter, we assess the lived experiences of indebted
+    lives in
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Davis
+      given: Mark
+    - family: Cartwright
+      given: Laura
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.9
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 91-118
+  publisher: Bristol University Press
+  source: JSTOR
+  title: >-
+    ‘Deferred lives’:: money, debt and the financialised futures of young
+    temporary workers
+  title-short: ‘Deferred lives’
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.9'
+
+- id: DeborahHurwitz_nd
   abstract: >-
     Designed for University of Melbourne staff and students on the various
     methods of reference management within LaTeX documents. The basics of a
@@ -2813,12 +3393,11 @@ references:
       literal: Deborah Hurwitz
   language: en
   note: >-
-    source: unimelb.libguides.com
-
     Designed for University of Melbourne staff and students on the various
     methods of reference management within LaTeX documents. The basics of a
     LaTeX bibliography is explained with reference to more popular editors such
     as Overleaf
+  source: unimelb.libguides.com
   title: 'Library Guides: LaTeX and BibTeX: Zotero'
   title-short: Library Guides
   type: webpage
@@ -2909,6 +3488,41 @@ references:
   title-short: Evicted
   type: book
 
+- id: Deville2019
+  abstract: >-
+    This chapter introduces a particularly ragged edge of debt involving
+    companies seeking to exploit sets of social and technical relations that
+    often, on the face of it, appear to bear quite little connection to finance.
+    I call this assortment of socio-economic practices ‘digital subprime’. In
+    introducing this phenomenon, I hope to provide a window into how a small but
+    expanding set of startup businesses, in competition with both each other and
+    the wider credit market, are attempting to refashion monetary ontologies,
+    and in particular the relationship between money and credit.  In the study
+    of money and credit, there is, as
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Deville
+      given: Joe
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.11
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 145-174
+  publisher: Bristol University Press
+  source: JSTOR
+  title: 'Digital subprime:: tracking the credit trackers'
+  title-short: Digital subprime
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.11'
+
 - id: Dewi2019
   accessed:
     - year: 2019
@@ -2937,7 +3551,7 @@ references:
   URL: 'https://doi.org/10.1177/1095796019837933'
   volume: '28'
 
-- id: Didthiscompanytrytocollectadebtfromyou?2019
+- id: DidThisCompany2019
   accessed:
     - year: 2019
       month: 12
@@ -2960,7 +3574,7 @@ references:
   URL: >-
     https://www.masslive.com/boston/2019/11/did-portfolio-recovery-associates-try-to-collect-a-debt-from-you-company-agrees-to-4m-settlement-with-mass-ag-for-deceptive-and-unfair-practices.html
 
-- id: DigitalSimulationTeaching
+- id: DigitalSimulationTeaching_nd
   accessed:
     - year: 2019
       month: 9
@@ -3189,6 +3803,269 @@ references:
   title-short: Triangle
   type: book
 
+- id: DSouza2018
+  abstract: >-
+    An important premise of this book is that property and ‘human’ rights are
+    contingent and constitute a comprehensive regime of rights. Another premise
+    is that real changes in real relations in the real world precede formal
+    legal rights and their institutionalisation. If first generation rights like
+    representative democracy and popular sovereignty were re-scripted as ‘right
+    to free and fair elections’ and ‘rights of victims’, as Chapters 4 and 5
+    argued, what were the drivers of those changes? If capitalism is the
+    generative mechanism for modern societies, how did TMF capitalism
+    reconfigure a new regime of property and ‘human’ rights?  The
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.11
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 129-155
+  publisher: Pluto Press
+  source: JSTOR
+  title: 'Intangible Property Rights:: The IMF as Underwriters'
+  title-short: Intangible Property Rights
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.11'
+
+- id: DSouza2018a
+  abstract: >-
+    Dominant narratives describe rights in evolutionary terms. First generation
+    rights refer to seventeenth- and eighteenth-century rights on democracy and
+    civil liberties, second generation rights to socio-economic rights
+    introduced after WWII and third generation rights to group and collective
+    rights arising from challenges to individualism of rights by Third World and
+    indigenous peoples in the 1970s. Whatever happened to the so-called first
+    generation rights four centuries later? This chapter examines representative
+    democracy and elections and the next considers citizens’ authority to revoke
+    their mandates to public officials and political leaders to govern, both
+    foundational ideas in European democracies. The emergence of
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.9
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 75-102
+  publisher: Pluto Press
+  source: JSTOR
+  title: >-
+    International Election Monitoring:: From ‘Will of the People’ to the ‘Right
+    to Free and Fair Elections’
+  title-short: International Election Monitoring
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.9'
+
+- id: DSouza2018b
+  abstract: >-
+    This book opened with the paradox of rights resurgence walking hand in hand
+    with LPG reforms. It ends with the reverse paradox: rights and democracy are
+    rolled back as I write this conclusion and reversal of LPG reforms is in the
+    air in the very birthplaces of Trumanism and Keynesianism, Reaganism and
+    Thatcherism. Brexit has happened and Trumpism is triumphant. The Law
+    Commission in the UK has recommended harsh punishments for whistleblowers,²
+    and the UK Parliament has passed what activists have called the ‘Snoopers
+    Charter’ authorising enhanced powers of state surveillance.³ In the US,
+    claims of ‘fake news’ is a
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.13
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 185-209
+  publisher: Pluto Press
+  source: JSTOR
+  title: Rights and Social Movements in the ‘Epoch of Imperialism’
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.13'
+
+- id: DSouza2018c
+  abstract: >-
+    The Narmada Bachao Andolan (Save Narmada Movement, or the NBA) is perhaps
+    amongst the more well-known and written about movements. It is an early
+    example of an INGO networking model of organising.² Mobilising ‘bottom-up’
+    for over a decade since the late 1970s, the NBA worked tirelessly to hold
+    the state accountable for rehabilitation and resettlement of people
+    displaced by the World Bank (WB)-funded Narmada dam project, a vast complex
+    of projects straddling four states in India. As a neo-Gandhian movement, the
+    NBA was committed to non-violence and constitutionalism. The NBA knocked on
+    the doors of the government and the WB
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.12
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 156-182
+  publisher: Pluto Press
+  source: JSTOR
+  title: Rights in International Neoliberal Risk-governance Regime
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.12'
+
+- id: DSouza2018d
+  abstract: >-
+    *What do rights actually do in the real world?* Framing the question about
+    rights in this way as *rights-in-action* draws attention to the different
+    actors advocating this or that right, their motivations for doing so, their
+    theorisation and re-theorisation of rights in particular contexts, the
+    mechanisms they adopt for achieving their goals and the outcome of their
+    deliberations and interventions for the world. In other words, the question
+    brings rights from the exalted world of ideas to the murky world of
+    contesting actors, mechanisms, theories and practices. Bringing rights down
+    to earth requires, first and foremost, an understanding of the
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.8
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 45-72
+  publisher: Pluto Press
+  source: JSTOR
+  title: Rights in the ‘Epoch of Imperialism’
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.8'
+
+- id: DSouza2018e
+  abstract: >-
+    This book is about rights, not ‘human’ rights. Throughout this book ‘human’
+    in human rights is used in inverted commas, so as not to reduce rights, a
+    broader concept, to ‘human’ rights, and also to remind the reader not to
+    lapse into reading rights as ‘human’ rights from sheer force of habit. The
+    book is about what is entailed in reducing rights to ‘human’ rights.  At
+    least since the 1990s the motto of most contemporary social movements
+    appears to be ‘every wrong must have a corresponding “human” right’. Even a
+    cursory survey of contemporary social movements is enough to see
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.6
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 3-22
+  publisher: Pluto Press
+  source: JSTOR
+  title: 'Social Movements, Law and Liberal Imaginations'
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.6'
+
+- id: DSouza2018f
+  abstract: >-
+    This chapter considers the authority to punish political leaders and public
+    officials, which is the other side of the representative democracy coin in
+    classical liberalism. The state’s authority to act in classical liberalism
+    required *authorisation* by citizens. Authorisation is a political act and
+    signifies that the locus of political power rests with the citizens.
+    Authorisation in politics, so central to representative democracy in liberal
+    theory, was buried unnoticed in the post-WWII era. Its place is filled,
+    instead, by *accountability* , a concept better suited to the institutional
+    architecture of TMF capitalism. Accountability is conceptually and
+    etymologically a very different idea from
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.10
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 103-128
+  publisher: Pluto Press
+  source: JSTOR
+  title: 'The Rights of Victims:: From Authorisation to Accountability'
+  title-short: The Rights of Victims
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.10'
+
+- id: DSouza2018g
+  abstract: >-
+    1989 was a ‘happening’ year, astonishingly so in retrospect. It was the year
+    when the Berlin Wall was pulled down, when Poland and Russia conducted their
+    first Euro-American-style multi-party elections, when the Tiananmen Square
+    events, known as the ’89 Democracy Movement’ played out as millions of
+    Chinese gathered at the square to demand freedoms inspired by Euro-American
+    liberal democracies, the year when Romania, the former Czechoslovakia,
+    Hungary, countries across Central and Eastern Europe with the exception of
+    the Balkan states witnessed a resurgence of movements for rights, democracy
+    and constitutionalism not seen on the European continent since the
+    revolutions of
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: D’Souza
+      given: Radha
+  collection-title: Radha D'Souza
+  container-title: 'Social Movements, Law and Liberal Imaginations'
+  DOI: 10.2307/j.ctt1zk0mmx.7
+  ISBN: 978-0-7453-3541-4
+  issued:
+    - year: 2018
+  page: 23-44
+  publisher: Pluto Press
+  source: JSTOR
+  title: What’s Wrong With Rights?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1zk0mmx.7'
+
 - id: Dubofsky1991
   accessed:
     - year: 2019
@@ -3348,40 +4225,6 @@ references:
   title-short: $2.00 a Day
   type: book
 
-- id: Editor-in-Chief2016
-  abstract: >-
-    This is the standard text on labor arbitration that no labor relations
-    specialist, union representative, labor law attorney, professor, or
-    arbitrator should be without. Elkouri & Elkouri: How Arbitration Works is
-    the most comprehensive and authoritative treatise available on this subject.
-    The reference of first resort, it has been utilized and cited by advocates,
-    arbitrators, and judges more than any other arbitration book published. This
-    essential reference for labor relations practitioners covers issues
-    including retiree health insurance, employer intellectual property
-    protections, union recognition, and more. References include citations to
-    hundreds of arbitration awards and judicial decisions. It includes tables of
-    all discussed or cited arbitration awards, statutory authorities, and
-    arbitrators.
-  author:
-    - family: Editor-in-Chief
-      given: Kenneth May
-  edition: 8th edition
-  editor:
-    - family: May
-      given: Kenneth
-  ISBN: 978-1-68267-057-6
-  issued:
-    - year: 2016
-      month: 11
-      day: 21
-  language: English
-  number-of-pages: '1994'
-  publisher: Bloomberg BNA
-  publisher-place: 'Arlington, VA'
-  source: Amazon
-  title: 'How Arbitration Works, Eighth Edition'
-  type: book
-
 - id: Ehrenreich2011
   abstract: >-
     Our sharpest and most original social critic goes "undercover" as an
@@ -3479,6 +4322,42 @@ references:
   title-short: Thwarting Janus
   type: article-journal
   URL: 'https://doi.org/10.1177/1095796018817026'
+
+- id: Ellis2017
+  abstract: >-
+    Debt can have devastating impacts upon individuals and families. To be
+    trapped in a cycle of debt is an all-consuming torment for some. Constant
+    demands for payment or the threat of bailiffs banging on the door to remove
+    property produces an internalised, almost siege-like existence for debtors
+    in what can seem a hopeless war of attrition. At the heart of the typical
+    creditor/debtor relationship lies an unequal distribution of power.
+    Creditors may enforce a claim upon debtors that is legitimated by the weight
+    of the law, compelling payment in one form or another. An inability by a
+    debtor to therefore
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Ellis
+      given: David
+  container-title: The Violence of Austerity
+  DOI: 10.2307/j.ctt1pv8988.14
+  editor:
+    - family: Cooper
+      given: Vickie
+    - family: Whyte
+      given: David
+  ISBN: 978-0-7453-3746-3
+  issued:
+    - year: 2017
+  page: 110-116
+  publisher: Pluto Press
+  source: JSTOR
+  title: The Violence of the Debtfare State
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1pv8988.14'
 
 - id: Epstein1983
   author:
@@ -4030,7 +4909,7 @@ references:
   title-short: Captains of Consciousness
   type: book
 
-- id: ExaminingUnionSaltingAbuses2004
+- id: ExaminingUnionSalting2004
   committee: >-
     Subcommittee on Employer-Employee Relations of the House Committee on
     Education and the Workforce
@@ -4045,6 +4924,49 @@ references:
     Economy
   title-short: Examining Union Salting Abuses
   type: report
+
+- id: Fantasia1995
+  abstract: >-
+    Theorists recently have made strides in answering key questions about social
+    movement dynamics—why they begin when they do, why people join them, how
+    they are organized, why they succeed or fail—by taking account of the
+    subjective dimension of movement mobilization (Ferree and Miller 1985;
+    Friedman and McAdam 1992; Gamson 1992a; Johnston 1991; Klandermans 1992;
+    Melucci 1989; Morris 1984; Snow et al. 1986; Snow and Benford 1992; Tarrow
+    1992a; Taylor and Whittier 1992). The attention to culture and the
+    subjective experience of movement participation fills a theoretical need
+    resulting from the influence of resource mobilization theory, a perspective
+    that
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Fantasia
+      given: Rick
+    - family: Hirsch
+      given: Eric L.
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 144-160
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: >-
+    Culture in Rebellion:: The Appropriation and Transformation of theVeil in
+    the Algerian Revolution
+  title-short: Culture in Rebellion
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.11'
+  volume: '4'
 
 - id: Fassbender2013
   abstract: >-
@@ -4139,6 +5061,101 @@ references:
   type: article-journal
   URL: 'https://scholarship.shu.edu/lib_pub/134'
 
+- id: Featherstone2019
+  abstract: >-
+    In the late 1990s the French philosopher, Jean Baudrillard, wrote a short
+    essay, ‘In the Shadow of the Millennium’ (1998), concerned with the
+    historical significance of the approaching year 2000. Given what has
+    happened since what was called Y2K, it is hard to properly convey the low
+    level panic that accompanied the impending arrival of the new millennium,
+    but Baudrillard captured this through reference to the Beaubourg Clock,
+    housed at the Pompidou Centre in Paris. In his piece, he explains that the
+    Beaubourg Clock, which counted down the time to Y2K by the millisecond, is a
+    symbol of impending catastrophe
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Featherstone
+      given: Mark
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.14
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 231-250
+  publisher: Bristol University Press
+  source: JSTOR
+  title: Ecologies of indebtedness
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.14'
+
+- id: Featherstone2019a
+  abstract: >-
+    There can be little doubt that thinking through the problem of debt and the
+    related experience of indebtedness has become central for understanding
+    social, economic, political, and cultural conditions in the early 21st
+    century. Following the 2007-08 financial crash, consequent credit crunch,
+    and subsequent turn to austerity in many of the world’s major economic
+    powers, the apparent need to ‘balance the books’ and ‘live within our means’
+    in a world characterised by low economic growth has pushed the problem of
+    unsustainable public and private debt centre stage. Against this backdrop,
+    indebtedness and financial and economic insecurity have become a kind
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Featherstone
+      given: Mark
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.5
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 1-26
+  publisher: Bristol University Press
+  source: JSTOR
+  title: 'Introduction:: towards a sociology of debt'
+  title-short: Introduction
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.5'
+
+- id: Featherstone2019d
+  abstract: >-
+    The Sociology of Debt considers the lived experience of being in debt as
+    well as the more nebulous processes of global finance, showing how debt
+    functions at both micro- and macroeconomic levels. Featherstone links the
+    problem of debt to the terminal condition of a system premised on deferral
+    and projection into the future with the looming portent of apocalyptic
+    system collapse and eventual rebirth. This book includes contributions from
+    a range of authors in a variety of disciplines who approach debt from
+    holistic perspectives, providing accounts that span both social scientific
+    as well as economic analysis.
+  editor:
+    - family: Featherstone
+      given: Mark
+  ISBN: 978-1-4473-3952-6
+  issued:
+    - year: 2019
+      month: 6
+      day: 8
+  language: English
+  number-of-pages: '224'
+  publisher: Policy Press
+  source: Amazon
+  title: The Sociology of Debt
+  type: book
+
 - id: Feinman1991
   author:
     - family: Feinman
@@ -4153,6 +5170,52 @@ references:
   title: The Development of the Employment-at-Will Rule Revisited
   type: article-journal
   volume: '23'
+
+- id: Feldacker2014
+  abstract: >-
+    Labor Guide to Labor Law is a comprehensive survey of labor law in the
+    private sector, written from the labor perspective for labor relations
+    students and for unions and their members. This thoroughly revised and
+    updated fifth edition covers new statutes, current issues, and the latest
+    developments in labor and employment law.The text emphasizes issues of
+    greatest importance to unions and employees. Where the law permits a union
+    to make certain tactical choices, those choices are pointed out. Material is
+    included on internal union matters that tend to be ignored in management
+    texts. Bruce S. Feldacker and Michael J. Hayes cover applicable labor law
+    principles from a union's initial organizing campaign to the mature
+    bargaining relationship, including such subjects as the employee right to
+    engage in protected concerted activity, the duty to bargain, labor
+    arbitration, the use of strikes, picketing and other economic weapons in
+    resolving a labor dispute, the duty of fair representation, internal union
+    regulation, and employment discrimination.This book is also a useful
+    reference and review for full-time union officers and representatives who
+    have a working knowledge of labor law but wish to brush up on certain points
+    as needed in their work. Both authors have extensive experience in the
+    construction field, and they have been careful to include material on those
+    aspects of labor law that are unique to that field.Labor Guide to Labor Law
+    is structured to present an unbiased and comprehensive explanation of labor
+    law principles for anyone interested in the field. Thus, labor relations
+    educators, as well as practitioners in the field representing labor,
+    management, or individual employees, should also find the text suitable for
+    their use. Each chapter includes a summary, review questions and answers, a
+    restatement of "Basic Legal principles" with citations to key cases, and a
+    bibliography for additional research.
+  author:
+    - family: Feldacker
+      given: Bruce S.
+    - family: Hayes
+      given: Michael J.
+  ISBN: 978-0-8014-5458-5
+  issued:
+    - year: 2014
+      month: 8
+      day: 12
+  language: en
+  number-of-pages: '657'
+  publisher: Cornell University Press
+  source: Google Books
+  title: Labor Guide to Labor Law
+  type: book
 
 - id: Felstiner2011
   accessed:
@@ -4214,7 +5277,7 @@ references:
   URL: 240.html
   volume: '8'
 
-- id: feuille_police_1976
+- id: Feuille1976
   author:
     - family: Feuille
       given: Peter
@@ -4229,6 +5292,47 @@ references:
   title: Police Professionalization and Police Unions
   type: article-journal
   volume: '3'
+
+- id: Fine1995
+  abstract: >-
+    Culture is a concept that, like mushrooms on a dewy summer morning, is now
+    discovered everywhere. Suddenly it has emerged through the sociological
+    underbrush, a reality to which this volume’s theme pays heed. Social
+    movements are, in several senses, cultural movements, underpinned by
+    discursive practices.  The concept of culture is admittedly broad, useful
+    both for macro- and microanalyses of social movements. From a “macro”
+    perspective on culture, sociologists recognize that a social movement is not
+    only politically and socially situated, but culturally situated as well
+    (Eder 1982; Horowitz 1977; Marx and Holzner 1975). The proposals, tactics,
+    and organization of a
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Fine
+      given: Gary Alan
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 127-143
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: >-
+    Public Narration and Group Culture:: Discerning Discourse in Social
+    Movements
+  title-short: Public Narration and Group Culture
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.10'
+  volume: '4'
 
 - id: Fink2001
   author:
@@ -4328,18 +5432,6 @@ references:
   author:
     - family: Fink
       given: Eric M.
-    - family: Zullo
-      given: Roland
-  issued:
-    - year: 2014
-  publisher-place: 'Washington, D.C.'
-  title: 'Federal Student Loan Servicing: Contract Problems and Public Solutions'
-  type: report
-
-- id: Fink2014a
-  author:
-    - family: Fink
-      given: Eric M.
   container-title: Nevada Law Journal
   container-title-short: Nev. Law J.
   issued:
@@ -4348,6 +5440,18 @@ references:
   title: 'Sewer Syndicalism: Worker Control in Public Services'
   type: article-journal
   volume: '14'
+
+- id: Fink2014a
+  author:
+    - family: Fink
+      given: Eric M.
+    - family: Zullo
+      given: Roland
+  issued:
+    - year: 2014
+  publisher-place: 'Washington, D.C.'
+  title: 'Federal Student Loan Servicing: Contract Problems and Public Solutions'
+  type: report
 
 - id: Fink2016
   author:
@@ -4400,7 +5504,7 @@ references:
   URL: www.jstor.org/stable/4135788
   volume: '113'
 
-- id: FisheriesLawsRegulations
+- id: FisheriesLawsRegulations_nd
   accessed:
     - year: 2019
       month: 7
@@ -4516,7 +5620,7 @@ references:
   type: legal_case
   volume: '715'
 
-- id: fleming_police_2001
+- id: Fleming2001
   author:
     - family: Fleming
       given: Jenny
@@ -4535,7 +5639,7 @@ references:
   type: article-journal
   volume: '9'
 
-- id: fleming_standing_2006
+- id: Fleming2006
   author:
     - family: Fleming
       given: Jenny
@@ -4740,29 +5844,6 @@ references:
     - family: Foner
       given: Philip S.
   edition: New edition edition
-  ISBN: 978-0-7178-0562-4
-  issued:
-    - year: 1979
-      month: 6
-      day: 1
-  language: English
-  number-of-pages: '290'
-  publisher: Intl Pub
-  publisher-place: New York
-  source: Amazon
-  title: >-
-    History of the Labor Movement in the United States, Vol. 5: The AFL in the
-    Progressive Era, 1910-1915
-  type: book
-
-- id: Foner1979a
-  abstract: >-
-    Traces the history of labor unions and the labor movement from America's
-    colonial era, through the Industrial Revolution, to the present
-  author:
-    - family: Foner
-      given: Philip S.
-  edition: New edition edition
   ISBN: 978-0-7178-0376-7
   issued:
     - year: 1979
@@ -4779,6 +5860,29 @@ references:
   title-short: 'History of the Labor Movement in the United States, Vol. 1'
   type: book
 
+- id: Foner1979a
+  abstract: >-
+    Traces the history of labor unions and the labor movement from America's
+    colonial era, through the Industrial Revolution, to the present
+  author:
+    - family: Foner
+      given: Philip S.
+  edition: New edition edition
+  ISBN: 978-0-7178-0562-4
+  issued:
+    - year: 1979
+      month: 6
+      day: 1
+  language: English
+  number-of-pages: '290'
+  publisher: Intl Pub
+  publisher-place: New York
+  source: Amazon
+  title: >-
+    History of the Labor Movement in the United States, Vol. 5: The AFL in the
+    Progressive Era, 1910-1915
+  type: book
+
 - id: Foner1981
   author:
     - family: Foner
@@ -4793,6 +5897,28 @@ references:
   type: book
 
 - id: Foner1987
+  abstract: This book IS in stock. There were pickingerrors in filling your order.
+  author:
+    - family: Foner
+      given: Philip S.
+  edition: 1st ed edition
+  ISBN: 978-0-7178-0627-0
+  issued:
+    - year: 1987
+      month: 5
+      day: 12
+  language: English
+  number-of-pages: '410'
+  publisher: International Publishers Co
+  publisher-place: 'New York, NY'
+  source: Amazon
+  title: >-
+    History of the Labor Movement in the United States, Vol. 7: Labor and World
+    War I, 1914-1918
+  title-short: History of the Labor Movement in the United States
+  type: book
+
+- id: Foner1987a
   abstract: >-
     Traces the history of labor unions and the labor movement from America's
     colonial era, through the Industrial Revolution, to the present
@@ -4813,28 +5939,6 @@ references:
   title: >-
     History of the Labor Movement in the United Statesm, Vol. 8: Postwar
     Struggles 1918 -1920
-  title-short: History of the Labor Movement in the United States
-  type: book
-
-- id: Foner1987a
-  abstract: This book IS in stock. There were pickingerrors in filling your order.
-  author:
-    - family: Foner
-      given: Philip S.
-  edition: 1st ed edition
-  ISBN: 978-0-7178-0627-0
-  issued:
-    - year: 1987
-      month: 5
-      day: 12
-  language: English
-  number-of-pages: '410'
-  publisher: International Publishers Co
-  publisher-place: 'New York, NY'
-  source: Amazon
-  title: >-
-    History of the Labor Movement in the United States, Vol. 7: Labor and World
-    War I, 1914-1918
   title-short: History of the Labor Movement in the United States
   type: book
 
@@ -4998,8 +6102,8 @@ references:
   issued:
     - year: 1999
   jurisdiction: us
-  note: 'source: Google Scholar'
   page: '505'
+  source: Google Scholar
   title: 'Food Lion, Inc. v. Capital Cities/ABC, Inc.'
   type: legal_case
   URL: >-
@@ -5079,6 +6183,48 @@ references:
   URL: www.jstor.org/stable/44441230
   volume: '54'
 
+- id: Frade2015
+  abstract: >-
+    Abstract In recent years, Southern European households have been facing
+    acute economic hardship involving falling incomes, rising unemployment,
+    devalued investment portfolios, and a growing burden of debt. This means
+    most households have been forced to make unusual adjustments to their
+    expenditure and living standards. However, Portuguese society has revealed
+    the capacity to deal with austerity through the way households are resorting
+    to self-mobilization and solidarity-based strategies. These adjustment
+    strategies are inscribed in a cultural framework in which familial values,
+    prevalent in Southern European societies, stand out in supporting a strong,
+    operative welfare society. This feature is confirmed hereby through
+    empirical research on the coping mechanisms mobilized by households, via
+    survey questionnaire and interview techniques.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Frade
+      given: Catarina
+    - family: Coelho
+      given: Lina
+  container-title: Indiana Journal of Global Legal Studies
+  container-title-short: Indiana J. Glob. Leg. Stud.
+  DOI: 10.2979/indjglolegstu.22.2.631
+  ISSN: 1080-0727
+  issue: '2'
+  issued:
+    - year: 2015
+  page: 631-664
+  publisher: Indiana University Press
+  source: JSTOR
+  title: >-
+    Surviving the Crisis and Austerity: The Coping Strategies of Portuguese
+    Households
+  title-short: Surviving the Crisis and Austerity
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/10.2979/indjglolegstu.22.2.631'
+  volume: '22'
+
 - id: Frank1998
   abstract: >-
     While the youth counterculture remains the most evocative and
@@ -5154,7 +6300,7 @@ references:
   title-short: Bananeras
   type: book
 
-- id: Frazier
+- id: Frazier_nd
   abstract: >-
     When an animal rights group videotaped a worker at one of its suppliers
     kicking, stomping and throwing chickens, the Perdue poultry company thanked
@@ -5479,6 +6625,43 @@ references:
   title: Police Unions
   type: book
 
+- id: Gamson1995
+  abstract: >-
+    Movement activists are media junkies. “Advocates of causes,” Edelman reminds
+    us, “are an avid audience for the political spectacle” (1988: 6). Along with
+    other political actors, they eagerly monitor public discourse, using it
+    along with other resources to construct meaning on issues they care about.
+    Media discourse provides them with “weekly, daily, sometimes hourly triumphs
+    and defeats, grounds for hope and for fear, a potpourri of happenings that
+    mark trends and aberrations, some of them historic.”  The more sophisticated
+    among them recognize that many in their constituency—the potential
+    challengers whom they would like to reach—are different from them.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Gamson
+      given: William A.
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 85-106
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: Constructing Social Protest
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.8'
+  volume: '4'
+
 - id: Gandrud2016
   abstract: >-
     All the Tools for Gathering and Analyzing Data and Presenting Results
@@ -5508,6 +6691,39 @@ references:
   title: Reproducible Research with R and R Studio
   type: book
   URL: 'https://www.taylorfrancis.com/books/9781498715386'
+
+- id: Gane2019
+  abstract: >-
+    Just over ten years since the start of the global financial crisis, many
+    advanced capitalist societies are witnessing the rise of private debt to
+    levels previously seen in 2008, and in some cases (most notably Australia,
+    see Keen, 2017: 67) to levels higher than at any point during the crisis.
+    This has led to a renewed sense of unease among key figures of the central
+    banking community, as a new crisis, fuelled (like the previous one) by
+    indebtedness and the threat of mass default, appears to be edging closer. In
+    the summer of 2017, as unsecured consumer credit in the
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Gane
+      given: Nicholas
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.12
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 175-194
+  publisher: Bristol University Press
+  source: JSTOR
+  title: 'Debt, usury and the ongoing crises of capitalism'
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.12'
 
 - id: Garcia2013
   abstract: >-
@@ -5570,17 +6786,6 @@ references:
   URL: 'https://heinonline.org/HOL/P?h=hein.journals/stlulj63&i=67'
   volume: '63'
 
-- id: Garmon1959
-  container-title: U.S.
-  issued:
-    - year: 1959
-  jurisdiction: us
-  page: '236'
-  title: San Diego Building Trades Council v. Garmon
-  title-short: Garmon
-  type: legal_case
-  volume: '359'
-
 - id: Geoghegan2016
   abstract: >-
     Is labor’s day over or is labor the only real answer for our time? National
@@ -5638,7 +6843,7 @@ references:
   title-short: Which Side Are You On?
   type: book
 
-- id: gerber_justifying_2016
+- id: Gerber2016
   author:
     - family: Gerber
       given: Monica M
@@ -5700,6 +6905,43 @@ references:
   title-short: Restoring the Power of Unions
   type: book
 
+- id: Getman2016
+  abstract: >-
+    Labor unions and courts have rarely been allies. From their earliest efforts
+    to organize, unions have been confronted with hostile judges and antiunion
+    doctrines. In this book, Julius G. Getman argues that while the role of the
+    Supreme Court has become more central in shaping labor law, its opinions
+    betray a profound ignorance of labor relations along with a persisting bias
+    against unions. In The Supreme Court on Unions, Getman critically examines
+    the decisions of the nation's highest court in those areas that are crucial
+    to unions and the workers they represent: organizing, bargaining, strikes,
+    and dispute resolution.As he discusses Supreme Court decisions dealing with
+    unions and labor in a variety of different areas, Getman offers an
+    interesting historical perspective to illuminate the ways in which the Court
+    has been an influence in the failures of the labor movement. During more
+    than sixty years that have seen the Supreme Court take a dominant role, both
+    unions and the institution of collective bargaining have been substantially
+    weakened. While it is difficult to measure the extent of the Court’s
+    responsibility for the current weak state of organized labor and many other
+    factors have, of course, contributed, it seems clear to Getman that the
+    Supreme Court has played an important role in transforming the law and
+    defeating policies that support the labor movement.
+  author:
+    - family: Getman
+      given: Julius G.
+  ISBN: 978-1-5017-0364-5
+  issued:
+    - year: 2016
+      month: 6
+      day: 14
+  language: en
+  number-of-pages: '240'
+  publisher: Cornell University Press
+  source: Google Books
+  title: 'The Supreme Court on Unions: Why Labor Law Is Failing American Workers'
+  title-short: The Supreme Court on Unions
+  type: book
+
 - id: Giddens1981
   author:
     - family: Giddens
@@ -5757,7 +6999,7 @@ references:
   title-short: The Emergence Of Modern Jewish Politics
   type: book
 
-- id: GitHub
+- id: GitHub_nd
   accessed:
     - year: 2017
       month: 3
@@ -5785,7 +7027,7 @@ references:
   type: article-journal
   volume: '20'
 
-- id: Glover
+- id: Glover_nd
   abstract: >-
     This pricing and legal fee guide for solo and small law firms will teach you
     how to set your rates for your legal services and explain new and
@@ -6410,6 +7652,40 @@ references:
   type: article-journal
   volume: '62'
 
+- id: Haiven2019
+  abstract: >-
+    This chapter provides a reading and a contextualisation of three recent
+    performative public artworks to map the way unpayable debts manifest across
+    politics, economics, culture and society under the global order of
+    financialised capitalism. By unpayable debts here I have in mind both, on
+    the one hand, the proliferation of financial debts that cannot be repaid
+    and, on the other, the subterranean collective moral or political debts
+    that, though they cannot be quantified, are no less real or important for
+    that. Starting with a brief consideration of the power and materiality of
+    the imagination as a key dimension of capitalism’s
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Haiven
+      given: Max
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.13
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 195-230
+  publisher: Bristol University Press
+  source: JSTOR
+  title: The art of unpayable debts
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.13'
+
 - id: Hanneken2017
   accessed:
     - year: 2019
@@ -6604,6 +7880,22 @@ references:
   URL: 'https://papers.ssrn.com/abstract=2906668'
 
 - id: Herbert2017
+  author:
+    - family: Herbert
+      given: William
+  container-title: Radio Higher Ed
+  container-title-short: Radio High. Ed
+  issued:
+    - year: 2017
+      month: 3
+      day: 21
+  title: >-
+    William Herbert on unionization and collective bargaining in higher
+    education institutions
+  type: article-journal
+  URL: 'https://scholars.unh.edu/radio/55'
+
+- id: Herbert2017a
   abstract: >-
     This article begins with a brief history of unionization and collective
     bargaining in higher education.  It then presents data concerning the recent
@@ -6637,22 +7929,6 @@ references:
   title-short: 'Everything Passes, Everything Changes'
   type: report
   URL: 'https://papers.ssrn.com/abstract=3085214'
-
-- id: Herbert2017a
-  author:
-    - family: Herbert
-      given: William
-  container-title: Radio Higher Ed
-  container-title-short: Radio High. Ed
-  issued:
-    - year: 2017
-      month: 3
-      day: 21
-  title: >-
-    William Herbert on unionization and collective bargaining in higher
-    education institutions
-  type: article-journal
-  URL: 'https://scholars.unh.edu/radio/55'
 
 - id: Herrine2019
   abstract: >-
@@ -6895,6 +8171,23 @@ references:
   type: article-newspaper
   URL: 'https://www.nytimes.com/2019/09/25/us/match-com-lawsuit-ftc.html'
 
+- id: HowGroupStudent_nd
+  abstract: >-
+    The Debt Collective, a new generation of financial activists, is using
+    workplace unions as an organizing tool against banks.
+  accessed:
+    - year: 2019
+      month: 12
+      day: 17
+  container-title: GQ
+  language: en
+  note: >-
+    The Debt Collective, a new generation of financial activists, is using
+    workplace unions as an organizing tool.
+  title: How a Group of Student Debtors Took on the Banks—and Won
+  type: webpage
+  URL: 'https://www.gq.com/story/debt-collective-union-organizing'
+
 - id: Hoy2018
   accessed:
     - year: 2019
@@ -6957,6 +8250,26 @@ references:
   type: book
 
 - id: Hudson2018
+  abstract: "Selected \"Best Books of 2018: Economics\" by The Financial TimesIn ...and forgive them their debts, renowned economist Michael Hudson – one of the few who could see the 2008 financial crisis coming – takes us on an epic journey through the economies of ancient civilizations and reveals their relevance for us today. For the past 40 years, in conjunction with Harvard’s Peabody Museum, he and his colleagues have documented how interest-bearing debt was invented in Bronze Age Mesopotamia, and then disseminated to the ancient world. What the Bronze Age rulers understood was that avoiding economic instability required regular royal debt cancellations. Professor Hudson documents dozens of these these royal edicts and traces the archeological record and history of debt, and how societies have dealt with (or failed to deal with) the proliferation of debts that cannot be paid – and their consequences. In the pages of ...and forgive them their debts, readers will discover how debt played a central role in shaping ancient societies, and how it continues to shape our world – often destructively.The Big Question: What happens when debts cannot be paid? Will there be a writedown in favor of debtors (as is routinely done for large corporations), or will creditors be allowed to foreclose (as is done to personal debtors and mortgagees), leading to the creditors' political takeover of the economy’s assets – and ultimately the government itself? Historically, the remedy of record was the royal Clean Slate proclamation, or biblical Jubilee Year of debt forgiveness.The Real Message of Jesus: Jesus’s first sermon announced that he had come to proclaim a Clean Slate debt cancellation (the Jubilee Year), as was first described in the Bible (Leviticus 25), and had been used in Babylonia since Hammurabi’s dynasty. This message – more than any other religious claim – is what threatened his enemies, and is why he was put to death. This interpretation has been all but expunged from our contemporary understanding of the phrase, “…and forgive them their debts,” in The Lord’s Prayer. It has been changed to “…and forgive them their trespasses (or sins),” depending on the particular Christian tradition that influenced the translation from the Greek opheilēma/opheiletēs (debts/debtors).Contrary to the message of Jesus, also found in the Old Testament of\_the Bible and in other ancient texts, debt repayment has become sanctified and mystified as a way of moralizing claims on borrowers, allowing creditor elites and oligarchs the leverage to take over societies and privatize personal and public assets – especially in hard times. Historically, no monarchy or government has survived takeover by creditor elites and oligarchs (viz: Rome). Perhaps most striking is that – according to a nearly complete consensus of Assyriologists and biblical scholars – the Bible is preoccupied with debt forgiveness more than with sin.In a time of increasing economic and political polarization, and a global economy deeper in debt than at the height of the 2008 financial crisis, ...and forgive them their debts documents what individuals, governments and societies can learn from the ancient past for restoring economic and social stability today."
+  author:
+    - family: Hudson
+      given: Michael
+  ISBN: 978-3-9818260-2-9
+  issued:
+    - year: 2018
+      month: 10
+      day: 30
+  language: English
+  number-of-pages: '340'
+  publisher: ISLET
+  source: Amazon
+  title: >-
+    ...and forgive them their debts: Lending, Foreclosure and Redemption From
+    Bronze Age Finance to the Jubilee Year
+  title-short: ...and forgive them their debts
+  type: book
+
+- id: Hudson2018a
   abstract: >-
     History and analysis of the economic and social development of debt,
     interest-bearing loans, royal remission of debts, and economic renewal
@@ -6982,27 +8295,7 @@ references:
   title-short: Debt and Economic Renewal in the Ancient Near East
   type: book
 
-- id: Hudson2018a
-  abstract: "Selected \"Best Books of 2018: Economics\" by The Financial TimesIn ...and forgive them their debts, renowned economist Michael Hudson – one of the few who could see the 2008 financial crisis coming – takes us on an epic journey through the economies of ancient civilizations and reveals their relevance for us today. For the past 40 years, in conjunction with Harvard’s Peabody Museum, he and his colleagues have documented how interest-bearing debt was invented in Bronze Age Mesopotamia, and then disseminated to the ancient world. What the Bronze Age rulers understood was that avoiding economic instability required regular royal debt cancellations. Professor Hudson documents dozens of these these royal edicts and traces the archeological record and history of debt, and how societies have dealt with (or failed to deal with) the proliferation of debts that cannot be paid – and their consequences. In the pages of ...and forgive them their debts, readers will discover how debt played a central role in shaping ancient societies, and how it continues to shape our world – often destructively.The Big Question: What happens when debts cannot be paid? Will there be a writedown in favor of debtors (as is routinely done for large corporations), or will creditors be allowed to foreclose (as is done to personal debtors and mortgagees), leading to the creditors' political takeover of the economy’s assets – and ultimately the government itself? Historically, the remedy of record was the royal Clean Slate proclamation, or biblical Jubilee Year of debt forgiveness.The Real Message of Jesus: Jesus’s first sermon announced that he had come to proclaim a Clean Slate debt cancellation (the Jubilee Year), as was first described in the Bible (Leviticus 25), and had been used in Babylonia since Hammurabi’s dynasty. This message – more than any other religious claim – is what threatened his enemies, and is why he was put to death. This interpretation has been all but expunged from our contemporary understanding of the phrase, “…and forgive them their debts,” in The Lord’s Prayer. It has been changed to “…and forgive them their trespasses (or sins),” depending on the particular Christian tradition that influenced the translation from the Greek opheilēma/opheiletēs (debts/debtors).Contrary to the message of Jesus, also found in the Old Testament of\_the Bible and in other ancient texts, debt repayment has become sanctified and mystified as a way of moralizing claims on borrowers, allowing creditor elites and oligarchs the leverage to take over societies and privatize personal and public assets – especially in hard times. Historically, no monarchy or government has survived takeover by creditor elites and oligarchs (viz: Rome). Perhaps most striking is that – according to a nearly complete consensus of Assyriologists and biblical scholars – the Bible is preoccupied with debt forgiveness more than with sin.In a time of increasing economic and political polarization, and a global economy deeper in debt than at the height of the 2008 financial crisis, ...and forgive them their debts documents what individuals, governments and societies can learn from the ancient past for restoring economic and social stability today."
-  author:
-    - family: Hudson
-      given: Michael
-  ISBN: 978-3-9818260-2-9
-  issued:
-    - year: 2018
-      month: 10
-      day: 30
-  language: English
-  number-of-pages: '340'
-  publisher: ISLET
-  source: Amazon
-  title: >-
-    ...and forgive them their debts: Lending, Foreclosure and Redemption From
-    Bronze Age Finance to the Jubilee Year
-  title-short: ...and forgive them their debts
-  type: book
-
-- id: HugoFastModern
+- id: HugoFastModern_nd
   accessed:
     - year: 2017
       month: 3
@@ -7011,7 +8304,7 @@ references:
   type: webpage
   URL: 'http://gohugo.io/'
 
-- id: huq_litigating_2016
+- id: Huq2016
   author:
     - family: Huq
       given: Aziz Z
@@ -7048,6 +8341,36 @@ references:
   URL: 'https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=629'
   volume: '21'
 
+- id: Hyman2012
+  abstract: >-
+    Facing a crisis of idle capital during the Great Depression, policy-makers
+    developed new ways to promote private investment for public ends. Throughout
+    the twentieth century, the use of state power to guide investment has been a
+    powerful, and now largely ignored, tool of economic policy.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Hyman
+      given: Louis
+  container-title: The Annals of the American Academy of Political and Social Science
+  container-title-short: Ann. Am. Acad. Pol. Soc. Sci.
+  ISSN: 0002-7162
+  issued:
+    - year: 2012
+  page: 40-49
+  publisher: '[Sage Publications, Inc., American Academy of Political and Social Science]'
+  source: JSTOR
+  title: >-
+    The Politics of Consumer Debt: U.S. State Policy and the Rise of Investment
+    in Consumer Credit, 1920—2008
+  title-short: The Politics of Consumer Debt
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/23316141'
+  volume: '644'
+
 - id: IdahoAgGag2014
   chapter-number: '2014'
   container-title: Idaho Code
@@ -7058,17 +8381,6 @@ references:
   section: 18-7042
   title-short: Idaho AgGag
   type: legislation
-
-- id: IdahoBTC&AFL-CIOAmicusBrief2016
-  issued:
-    - year: 2016
-      month: 6
-      day: 20
-  title: >-
-    Amicus Curae Brief of the Idaho Building Trades Council and the Idaho
-    AFL-CIO, in Support of Appellee and for Affirmance
-  title-short: Idaho BTC & AFL-CIO Amicus Brief
-  type: article
 
 - id: Ingalls1997
   accessed:
@@ -7095,7 +8407,7 @@ references:
   URL: www.jstor.org/stable/40583649
   volume: '81'
 
-- id: IntroductionInternationalFisheries
+- id: IntroductionInternationalFisheries_nd
   accessed:
     - year: 2019
       month: 7
@@ -7348,7 +8660,7 @@ references:
   URL: >-
     http://www.newsobserver.com/news/politics-government/state-politics/article88670927.html
 
-- id: Jekyll
+- id: Jekyll_nd
   accessed:
     - year: 2017
       month: 3
@@ -7357,7 +8669,7 @@ references:
   type: webpage
   URL: 'https://jekyllrb.com/'
 
-- id: JennieMurack
+- id: JennieMurack_nd
   abstract: >-
     A guide describing software to help with citation management, writing, and
     other parts of the research process.
@@ -7371,14 +8683,52 @@ references:
       literal: Jennie Murack
   language: en
   note: >-
-    source: libguides.mit.edu
-
     A guide describing software to help with citation management, writing, and
     other parts of the research process.
+  source: libguides.mit.edu
   title: 'LibGuides: Citation Management and Writing Tools: LaTeX and BibTeX'
   title-short: LibGuides
   type: webpage
   URL: 'https://libguides.mit.edu/cite-write/bibtex'
+
+- id: Jenson1995
+  abstract: >-
+    A notable theme of public discourse in Canada is the naming of nations.
+    Denominating nations involves much more than the ethnic labeling familiar in
+    polyethnic states like the United States, where Italian-Americans,
+    Asian-Americans, and so on seek political recognition.¹ As in other
+    multinational states, much of Canadian politics in the past three decades
+    has involved competing assertions of nationhood, some of which reject the
+    very label “Canadian.”  As Benedict Anderson tells us, nations are “imagined
+    communities” that claim sovereignty and recognize a limited number of people
+    as members (1991: 6-7). They identify an “us,” which can be distinguished
+    from the
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Jenson
+      given: Jane
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 107-126
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: 'What’s in a Name?: Nationalist Movements and Public Discours'
+  title-short: What’s in a Name?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.9'
+  volume: '4'
 
 - id: Jentoft2005
   abstract: >-
@@ -7487,6 +8837,108 @@ references:
   type: webpage
   URL: 'http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor'
 
+- id: Johnston1995
+  abstract: >-
+    In social movement analysis, the framing perspective has been at the
+    forefront of renewed interest in cultural and ideational processes. But
+    several persistent problems in frame analysis remain: how to do it
+    systematically, for example, and how to verify the content and relationships
+    between the concepts within frames that have been identified. This chapter
+    is a methodological essay— both practical and conceptual—that introduces one
+    way by which frames can be studied. It specifies certain procedures that
+    allow the analyst to demonstrate the relations between concepts, knowledge,
+    and experience that constitutute social movement frames, and to speak more
+    convincingly about
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Johnston
+      given: Hank
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 217-246
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: 'A Methodology for Frame Analysis:: From Discourse to Cognitive Schemata'
+  title-short: A Methodology for Frame Analysis
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.14'
+  volume: '4'
+
+- id: Johnston1995a
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 269-272
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: Contributors
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.16'
+  volume: '4'
+
+- id: Johnston1995b
+  abstract: >-
+    The pendulum of Kuhn’s normal science now seems to swing toward culture,
+    gathering speed in what may well be a paradigmatic shift. Mueller (1992) in
+    her introductory essay to *Frontiers in Social Movement Theory* —in more
+    than one sense the predecessor of this volume—refers to a broader paradigm,
+    more sensitive to cultural factors, that is developing. In the collection
+    she and Morris edited (Morris and Mueller 1992), culture as such is not yet
+    central stage, but by placing culture at the center of our concerns the
+    current volume clearly embraces and labels a theoretical trend that was
+    already emerging
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 3-24
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: The Cultural Analysis of Social Movements
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.4'
+  volume: '4'
+
 - id: Jones1983
   abstract: >-
     From the end of the Civil War until her death in 1930 at the age of 100,
@@ -7512,16 +8964,37 @@ references:
   title-short: Mother Jones Speaks
   type: book
 
-- id: juris_impact_1973
+- id: Julin2016
+  abstract: >-
+    This article offers a Nietzschean analysis of Occupy Wall Street offshoot
+    Strike Debt to defend the movement as an authentic application of his moral
+    theory. In addition, it argues that Strike Debt's tactics, independent of
+    any Nietzschean justification, offer a just, nonviolent, and effective means
+    to empower debtors against the exploitative and oppressive forces of debt
+    culture.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
   author:
-    - family: Juris
-      given: Hervey A
-    - family: Feuille
-      given: Peter
+    - family: Julin
+      given: Grant
+  container-title: 'Soundings: An Interdisciplinary Journal'
+  container-title-short: Sound. Interdiscip. J.
+  DOI: 10.5325/soundings.99.2.0171
+  ISSN: 0038-1861
+  issue: '2'
   issued:
-    - year: 1973
-  title: 'The Impact of Police Unions: Summary Report.'
+    - year: 2016
+  page: 171-192
+  publisher: Penn State University Press
+  source: JSTOR
+  title: 'Occupy Strikes Back: Strike Debt''s Slave Revolt'
+  title-short: Occupy Strikes Back
   type: article-journal
+  URL: 'https://www.jstor.org/stable/10.5325/soundings.99.2.0171'
+  volume: '99'
 
 - id: Juris1973
   author:
@@ -7535,7 +9008,18 @@ references:
   title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
   type: book
 
-- id: JurisM
+- id: Juris1973a
+  author:
+    - family: Juris
+      given: Hervey A
+    - family: Feuille
+      given: Peter
+  issued:
+    - year: 1973
+  title: 'The Impact of Police Unions: Summary Report.'
+  type: article-journal
+
+- id: JurisM_nd
   accessed:
     - year: 2017
       month: 3
@@ -7697,6 +9181,50 @@ references:
   title-short: The Tragedy of a Generation
   type: book
 
+- id: Katz2017
+  abstract: >-
+    This comprehensive textbook provides an introduction to collective
+    bargaining and labor relations with a focus on developments in the United
+    States. It is appropriate for students, policy analysts, and labor relations
+    professionals including unionists, managers, and neutrals. A three-tiered
+    strategic choice framework unifies the text, and the authors’ thorough
+    grounding in labor history and labor law assists students in learning the
+    basics. In addition to traditional labor relations, the authors address
+    emerging forms of collective representation and movements that address
+    income inequality in novel ways.Harry C. Katz, Thomas A. Kochan, and
+    Alexander J. S. Colvin provide numerous contemporary illustrations of
+    business and union strategies. They consider the processes of contract
+    negotiation and contract administration with frequent comparisons to
+    nonunion practices and developments, and a full chapter is devoted to
+    special aspects of the public sector. An Introduction to U.S. Collective
+    Bargaining and Labor Relations has an international scope, covering labor
+    rights issues associated with the global supply chain as well as the growing
+    influence of NGOs and cross-national unionism. The authors also compare how
+    labor relations systems in Germany, Japan, China, India, Brazil, and South
+    Africa compare to practices in the United States.The textbook is
+    supplemented by a website (ilr.cornell.edu/scheinman-institute) that
+    features an extensive Instructor’s Manual with a test bank, PowerPoint
+    chapter outlines, mock bargaining exercises, organizing cases, grievance
+    cases, and classroom-ready current events materials.
+  author:
+    - family: Katz
+      given: Harry C.
+    - family: Kochan
+      given: Thomas A.
+    - family: Colvin
+      given: Alexander J. S.
+  ISBN: 978-1-5017-1389-7
+  issued:
+    - year: 2017
+      month: 9
+      day: 15
+  language: en
+  number-of-pages: '542'
+  publisher: Cornell University Press
+  source: Google Books
+  title: An Introduction to U.S. Collective Bargaining and Labor Relations
+  type: book
+
 - id: Kaufman2006
   abstract: >-
     One of the best-known and most-quoted books ever written on labor unions is
@@ -7807,7 +9335,7 @@ references:
   URL: 'https://doi.org/10.1080/0270319X.2015.1038143'
   volume: '34'
 
-- id: keller_political_2015
+- id: Keller2015
   author:
     - family: Keller
       given: A Grace
@@ -7816,7 +9344,7 @@ references:
   title: 'A Political Medicine: Trust and Power in Ferguson'
   type: article-journal
 
-- id: kelling_police_1995
+- id: Kelling1995
   author:
     - family: Kelling
       given: George L
@@ -7831,7 +9359,7 @@ references:
   title: 'Police Unions, Police Culture, the Friday Crab Club, & Police Use of Force'
   type: paper-conference
 
-- id: kelling_police_1996
+- id: Kelling1996
   author:
     - family: Kelling
       given: GEORGE L
@@ -8081,6 +9609,84 @@ references:
   title-short: Meltdown
   type: book
 
+- id: Kirwan2017
+  abstract: >-
+    My diary of participating in the Citizens Advice training programme is
+    littered with these experiences. Notes on Debt Relief Order procedure are
+    followed by my own worries about forgotten credit cards or the Council Tax
+    Bill – debt in the abstract intertwining with debt as personal anxiety. We
+    are used to thinking of debt as a question of morality (I am frequently
+    reminded by friends that both Swedish and German hold the same word for
+    ‘debt’ as for ‘guilt’), or of time: debt as the purchasing of today’s
+    consumption with tomorrow’s labour. It is unusual to think of debt as a
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Kirwan
+      given: Samuel
+    - family: Clarke
+      given: John
+  collection-title: Reflections on challenging times for advice agencies
+  container-title: Advising in austerity
+  DOI: 10.2307/j.ctt1t8997p.23
+  edition: '1'
+  editor:
+    - family: KIRWAN
+      given: SAMUEL
+  issued:
+    - year: 2017
+  page: 147-156
+  publisher: Bristol University Press
+  source: JSTOR
+  title: >-
+    “ADVICE ON THE LAW BUT NOT LEGAL ADVICE SO MUCH”:: WEAVING LAW AND LIFE INTO
+    DEBT ADVICE
+  title-short: “ADVICE ON THE LAW BUT NOT LEGAL ADVICE SO MUCH”
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt1t8997p.23'
+
+- id: Kirwan2019
+  abstract: >-
+    From conversations overheard on the bus or in the gym, to warnings voiced by
+    macroeconomists and major financial institutions (Keen, 2017; Brazier,
+    2017); everything is, it seems, about debt. Looming behind the formidable
+    spectres haunting Europe (ecological catastrophe, resurgent nationalisms) is
+    a rising tide of indebted households. This chapter focuses upon the United
+    Kingdom, where a perfect storm of measures has caused not only a ballooning
+    of overall private debt levels, but moreover a fundamental change in the
+    very meaning of ‘household debt’.  Yet, if everything is about debt, from
+    our experience, debt is (almost) always about something else. This
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Kirwan
+      given: Samuel
+    - family: Dawney
+      given: Leila
+    - family: Walker
+      given: Rosie
+  container-title: The sociology of debt
+  DOI: 10.2307/j.ctvggx2fq.10
+  edition: '1'
+  editor:
+    - family: Featherstone
+      given: Mark
+  issued:
+    - year: 2019
+  page: 119-144
+  publisher: Bristol University Press
+  source: JSTOR
+  title: '‘Choose your moments’:: discipline and speculation in the indebted everyday'
+  title-short: ‘Choose your moments’
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvggx2fq.10'
+
 - id: Kochan1993
   abstract: 'Book by Kochan, Thomas A., Katz, Harry C., McKersie, Robert B.'
   author:
@@ -8104,7 +9710,7 @@ references:
   title: The Transformation of American Industrial Relations
   type: book
 
-- id: kooken_police_1954
+- id: Kooken1954
   author:
     - family: Kooken
       given: Don L
@@ -8119,6 +9725,27 @@ references:
   title: Police Unions and the Public Safety
   type: article-journal
   volume: '291'
+
+- id: Krapfl2013
+  abstract: >-
+    In this social and cultural history of Czechoslovakia's "gentle revolution,"
+    James Krapfl shifts the focus away from elites to ordinary citizens who
+    endeavored to establish a new, democratic political culture.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 9
+  author:
+    - family: Krapfl
+      given: James
+  issued:
+    - year: 2013
+  language: en-US
+  publisher: Cornell University Press
+  title: >-
+    Revolution with a Human Face: Politics, Culture, and Community in
+    Czechoslovakia, 1989–1992
+  type: book
 
 - id: Kraus1993
   accessed:
@@ -8174,7 +9801,7 @@ references:
   title-short: A Troublemaker's Handbook
   type: book
 
-- id: LaffeyMatrix
+- id: LaffeyMatrix_nd
   accessed:
     - year: 2020
       month: 2
@@ -8268,14 +9895,14 @@ references:
   URL: www.jstor.org/stable/43681850
   volume: '116'
 
-- id: LaTeXDocumentPreparation
+- id: LaTeXDocumentPreparation_nd
   accessed:
     - year: 2017
       month: 3
       day: 9
   title: LaTeX - A document preparation system
   type: webpage
-  URL: 'http://www.latex-project.org/'
+  URL: 'http://www.tex-project.org/'
 
 - id: Leach1994
   abstract: >-
@@ -8324,6 +9951,26 @@ references:
   title-short: Fables Of Abundance
   type: book
 
+- id: LegalServicesHourly_nd
+  abstract: >-
+    This statistic depicts the hourly rates of lawyers in the United States from
+    2017 to 2019, broken down by greater metropolitan areas.
+  accessed:
+    - year: 2020
+      month: 2
+      day: 28
+  container-title: Statista
+  language: en
+  note: >-
+    This statistic depicts the hourly rates of lawyers in the United States from
+    2017 to 2019, broken down by greater metropolitan areas.
+  source: www.statista.com
+  title: 'U.S. legal services: hourly rates by metropolitan region 2019'
+  title-short: U.S. legal services
+  type: webpage
+  URL: >-
+    https://www.statista.com/statistics/941146/legal-services-hourly-rates-metropolitan-region-united-states/
+
 - id: Lehr2017
   accessed:
     - year: 2019
@@ -8349,6 +9996,42 @@ references:
   type: article-journal
   URL: 'https://heinonline.org/HOL/P?h=hein.journals/davlr51&i=667'
   volume: '51'
+
+- id: Leon2015
+  abstract: >-
+    "Right to work" states weaken collective bargaining rights and limit the
+    ability of unions to effectively advocate on behalf of workers. As more and
+    more states consider enacting right-to-work laws, observers trace the
+    contemporary attack on organized labor to the 1980s and the Reagan era. In
+    The Origins of Right to Work, however, Cedric de Leon contends that this
+    antagonism began a century earlier with the Northern victory in the U.S.
+    Civil War, when the political establishment revised the English common-law
+    doctrine of conspiracy to equate collective bargaining with the enslavement
+    of free white men. In doing so, de Leon connects past and present, raising
+    critical questions that address pressing social issues. Drawing on the
+    changing relationship between political parties and workers in
+    nineteenth-century Chicago, de Leon concludes that if workers’ collective
+    rights are to be preserved in a global economy, workers must chart a course
+    of political independence and overcome long-standing racial and ethnic
+    divisions.
+  author:
+    - family: Leon
+      given: Cedric
+      dropping-particle: de
+  ISBN: 978-0-8014-5587-2
+  issued:
+    - year: 2015
+      month: 5
+      day: 21
+  language: en
+  number-of-pages: '185'
+  publisher: Cornell University Press
+  source: Google Books
+  title: >-
+    The Origins of Right to Work: Antilabor Democracy in Nineteenth-Century
+    Chicago
+  title-short: The Origins of Right to Work
+  type: book
 
 - id: Leonard1986
   author:
@@ -8428,7 +10111,7 @@ references:
   URL: 'https://academic.oup.com/em/article/43/4/635/338739'
   volume: '43'
 
-- id: LexisNexisCounselBenchmarking
+- id: LexisNexisCounselBenchmarking_nd
   accessed:
     - year: 2020
       month: 2
@@ -8763,7 +10446,7 @@ references:
   URL: www.jstor.org/stable/90017047
   volume: '38'
 
-- id: LiteratureLatteScrivener
+- id: LiteratureLatteScrivener_nd
   accessed:
     - year: 2017
       month: 3
@@ -8771,6 +10454,27 @@ references:
   title: Literature and Latte - Scrivener Writing Software
   type: webpage
   URL: 'https://www.literatureandlatte.com/scrivener.php'
+
+- id: LivedEconomiesDefault_nd
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  container-title: CRC Press
+  language: en
+  note: >-
+    Consumer credit borrowing – using credit cards, store cards and personal
+    loans – is an important and routine part of many of our lives. But what
+    happens when these everyday forms of borrowing go ‘bad’, when people start
+    to default on their loans and when they cannot, or will not, repay? It i
+  source: www.routledge.com
+  title: >-
+    Lived Economies of Default: Consumer Credit, Debt Collection and the Capture
+    of Affect
+  title-short: Lived Economies of Default
+  type: webpage
+  URL: >-
+    https://www.routledge.com/Lived-Economies-of-Default-Consumer-Credit-Debt-Collection-and-the-Capture/Deville/p/book/9780367867225
 
 - id: Lloret2013
   abstract: >-
@@ -8838,7 +10542,44 @@ references:
   type: article-journal
   volume: '10'
 
-- id: logan_union_2006
+- id: Lofland1995
+  abstract: >-
+    In this chapter I will discuss topics and questions important to address in
+    the task of charting the structure of social movement culture in terms of
+    degree or extent. The phrase “charting the structure” is the earmark of what
+    I will discuss—and therefore of what I will not discuss. As usefully mapped
+    by Wuthnow and Witten, sociological studies of culture vary along the two
+    major dimensions of (1) conceiving culture as an “implicit feature of social
+    life” as opposed to viewing it as an “explicit social construction” and (2)
+    focus on “social contexts in which culture is produced” (i.e.,
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Lofland
+      given: John
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 188-216
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: 'Charting Degrees of Movement Culture:: Tasks of the Cultural Cartographer'
+  title-short: Charting Degrees of Movement Culture
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.13'
+  volume: '4'
+
+- id: Logan2006
   author:
     - family: Logan
       given: John
@@ -8851,6 +10592,34 @@ references:
   title: The Union Avoidance Industry in the United States
   type: article-journal
   volume: '44'
+
+- id: Lombardi_nd
+  abstract: >-
+    Household debt levels relative to GDP have risen rapidly in many countries
+    over the past decade. We investigate the macroeconomic impact of such
+    increases by employing a novel estimation technique proposed by Chudik et al
+    (2016), which tackles the problem of endogeneity present in traditional
+    regressions. Using data on 54 economies over 1990‒2015, we show that
+    household debt boosts consumption and GDP growth in the short run, mostly
+    within one year. By contrast, a 1 percentage point increase in the household
+    debt-to-GDP ratio tends to lower growth in the long run by 0.1 percentage
+    point. Our results suggest that the negative long-run effects on consumption
+    tend to intensify as the household debt-to-GDP ratio exceeds 60%. For GDP
+    growth, that intensification seems to occur when the ratio exceeds 80%.
+    Finally, we find that the degree of legal protection of creditors is able to
+    account for the cross-country variation in the long-run impact.
+  author:
+    - family: Lombardi
+      given: Marco
+    - family: Mohanty
+      given: Madhusudan
+    - family: Shim
+      given: Ilhyock
+  language: en
+  page: '42'
+  source: Zotero
+  title: The real effects of household debt in the short and long run
+  type: article-journal
 
 - id: Loomis2015
   abstract: >-
@@ -8977,7 +10746,7 @@ references:
   title: A History of America in Ten Strikes
   type: book
 
-- id: LorenaOEnglish
+- id: LorenaOEnglish_nd
   accessed:
     - year: 2020
       month: 2
@@ -8990,8 +10759,7 @@ references:
   note: >-
     LibGuides: Zotero @ the WSU Libraries: Using Zotfile for Tablet Syncing and
     More
-
-    source: libguides.libraries.wsu.edu
+  source: libguides.libraries.wsu.edu
   title: >-
     LibGuides: Zotero @ the WSU Libraries: Using Zotfile for Tablet Syncing and
     More
@@ -8999,7 +10767,7 @@ references:
   type: webpage
   URL: //libguides.libraries.wsu.edu/c.php?g=768677&p=5514204
 
-- id: Luguri2019a
+- id: Luguri2019
   abstract: >-
     Dark patterns are user interfaces whose designers knowingly confuse users,
     make it difficult for users to express their actual preferences, or
@@ -9158,7 +10926,7 @@ references:
   title: 'Renegade Lawyer: The Life of J L Cohen'
   type: book
 
-- id: Machinists1976
+- id: MachinistsWisconsinEmployment1976
   container-title: U.S.
   issued:
     - year: 1976
@@ -9169,7 +10937,7 @@ references:
   type: legal_case
   volume: '427'
 
-- id: magenau_police_1996
+- id: Magenau1996
   author:
     - family: Magenau
       given: John M
@@ -9217,6 +10985,29 @@ references:
   title-short: 'Simulations, Learning and the Metaverse'
   type: article-journal
 
+- id: Mahmud2012
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Mahmud
+      given: Tayyab
+  container-title: American Quarterly
+  container-title-short: Am. Q.
+  ISSN: 0003-0678
+  issue: '3'
+  issued:
+    - year: 2012
+  page: 469-494
+  publisher: The Johns Hopkins University Press
+  source: JSTOR
+  title: Debt and Discipline
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/23273531'
+  volume: '64'
+
 - id: Maitland2005
   author:
     - family: Maitland
@@ -9233,7 +11024,7 @@ references:
   title: Bargaining for Contingent Faculty
   type: article-journal
 
-- id: Malinowski
+- id: Malinowski_nd
   accessed:
     - year: 2020
       month: 2
@@ -9338,7 +11129,7 @@ references:
   title-short: The Meritocracy Trap
   type: book
 
-- id: marks_police_2007
+- id: Marks2007
   author:
     - family: Marks
       given: Monique
@@ -9350,7 +11141,7 @@ references:
   title: 'Police Unions and Their Influence: Subculture or Counter Culture'
   type: article-journal
 
-- id: marks_voices_2008
+- id: Marks2008
   author:
     - family: Marks
       given: Monique
@@ -9530,6 +11321,43 @@ references:
 
 - id: Marx1993a
   abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  edition: Reprint edition
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital : A Critique of Political Economy'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+
+- id: Marx1993b
+  abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
     Frederick Engels in 1894, the third volume of Capital strives to combine the
@@ -9571,43 +11399,6 @@ references:
       given: David
   type: book
 
-- id: Marx1993b
-  abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  edition: Reprint edition
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital : A Critique of Political Economy'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-
 - id: Mauss1972
   author:
     - family: Mauss
@@ -9619,6 +11410,37 @@ references:
   publisher: 'W. W. Norton <imprint: Norton Library>'
   publisher-place: New York
   title: A General Theory of Magic
+  type: book
+
+- id: May2016
+  abstract: >-
+    This is the standard text on labor arbitration that no labor relations
+    specialist, union representative, labor law attorney, professor, or
+    arbitrator should be without. Elkouri & Elkouri: How Arbitration Works is
+    the most comprehensive and authoritative treatise available on this subject.
+    The reference of first resort, it has been utilized and cited by advocates,
+    arbitrators, and judges more than any other arbitration book published. This
+    essential reference for labor relations practitioners covers issues
+    including retiree health insurance, employer intellectual property
+    protections, union recognition, and more. References include citations to
+    hundreds of arbitration awards and judicial decisions. It includes tables of
+    all discussed or cited arbitration awards, statutory authorities, and
+    arbitrators.
+  edition: 8th edition
+  editor:
+    - family: May
+      given: Kenneth
+  ISBN: 978-1-68267-057-6
+  issued:
+    - year: 2016
+      month: 11
+      day: 21
+  language: English
+  number-of-pages: '1994'
+  publisher: Bloomberg BNA
+  publisher-place: 'Arlington, VA'
+  source: Amazon
+  title: 'How Arbitration Works, Eighth Edition'
   type: book
 
 - id: Mayer1989
@@ -10462,6 +12284,44 @@ references:
   URL: 'http://www.jstor.org/stable/1512168'
   volume: '36'
 
+- id: Melucci1995
+  abstract: >-
+    Interest in cultural analysis has grown in the past two decades together
+    with an extraordinary cultural transformation of planetary society. We are
+    witnessing, with mixed feelings of amazement and fear, the impressive
+    development of communication technologies, the creation of a world media
+    system, the breakdown of historical political cleavages, the impact of
+    cultural differences on national societies and at the world scale. Never
+    before have human cultures been exposed to such a massive reciprocal
+    confrontation, and never has the cultural dimension of human action been
+    directly addressed as the core resource for production and consumption. It
+    is not surprising therefore
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Melucci
+      given: Alberto
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 41-63
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: The Process of Collective Identity
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.6'
+  volume: '4'
+
 - id: Merabet2013
   author:
     - family: Merabet
@@ -10477,6 +12337,30 @@ references:
   title-short: Sword & Shield of Social Networking
   type: article-journal
   volume: '46'
+
+- id: Merle_nd
+  abstract: >-
+    Consumer advocates say there's an accelerating effort within the $11 billion
+    debt collection industry to make profits from debts the financial industry
+    once wrote off.
+  accessed:
+    - year: 2019
+      month: 12
+      day: 17
+  author:
+    - family: Merle
+      given: Renae
+  container-title: Washington Post
+  language: en
+  note: >-
+    Consumer advocates say there's an accelerating effort within the $11 billion
+    debt collection industry to make profits from debts the financial industry
+    once wrote off.
+  title: 'Zombie debt: How collectors trick consumers into reviving dead debts'
+  title-short: Zombie debt
+  type: webpage
+  URL: >-
+    https://www.washingtonpost.com/business/2019/08/07/zombie-debt-how-collectors-trick-consumers-into-reviving-dead-debts/
 
 - id: Mertz1994
   author:
@@ -10599,6 +12483,38 @@ references:
     House of Debt: How They (and You) Caused the Great Recession, and How We Can
     Prevent It from Happening Again
   title-short: House of Debt
+  type: book
+
+- id: Micklitz2016
+  abstract: >-
+    This book analyses the dichotomy between the goal of social inclusion and
+    the effect of social exclusion through over-indebtedness since 2008 in
+    Europe. Filling a vital gap in the current literature on the effects of the
+    financial and economic crisis, this volume puts into context academic
+    discussion with the real-life dimension of over-indebtedness. Reports from
+    six European countries provide socio-economic and legal information on
+    over-indebtedness as well as the regulatory and judicial responses to the
+    problems entailed by over-indebtedness. They form the empirical background
+    for five analyses of different aspects of the inclusion-exclusion dichotomy.
+    It becomes clear that in the context of credit expansion, individual
+    over-indebtedness has turned into a social issue, which the current design
+    of the consumer credit and mortgage system in Europe has helped to produce
+    while disregarding the consequential danger of social exclusion.
+  author:
+    - family: Micklitz
+      given: Hans-W.
+    - family: Domurath
+      given: Irina
+  ISBN: 978-1-317-16125-7
+  issued:
+    - year: 2016
+      month: 3
+      day: 9
+  language: en
+  number-of-pages: '273'
+  publisher: Routledge
+  source: Google Books
+  title: Consumer Debt and Social Exclusion in Europe
   type: book
 
 - id: Milanovic2012
@@ -10777,17 +12693,46 @@ references:
   title-short: Montana AgGag
   type: legislation
 
-- id: MontereyCountyB&CTradesCouncil1953
-  container-title: F. 2d
-  container-title-short: F 2d
+- id: Montgomerie2019
+  abstract: >-
+    There is growing public policy concern over the historically unprecedented
+    level of household debt, but little by way of proposed solutions to deal
+    with it. Current high household debt levels are the result of over two
+    decades of promoting finance-led growth, in which easy credit fuelled asset
+    bubbles and drove consumer demand despite stagnant wage growth.  Finance-led
+    growth refers to the shifting pattern of accumulation from productive to
+    financial activities since the 1980s. The 2008 global finance crisis exposed
+    the fragile balancing act required to manage finance-led growth. The basic
+    contradiction lies in rapidly growing private debt stock and stagnating
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Montgomerie
+      given: Johnna
+  collection-title: Policy Ideas for the Many
+  container-title: Rethinking Britain
+  DOI: 10.2307/j.ctvpbnq1p.39
+  edition: '1'
+  editor:
+    - family: Konzelmann
+      given: Sue
+    - family: Himmelweit
+      given: Susan
+    - family: Smith
+      given: Jeremy
+    - family: Weeks
+      given: John
   issued:
-    - year: 1953
-  jurisdiction: 'us:c9'
-  page: '927'
-  title: NLRB v. Monterey County B. & C. Trades Council
-  title-short: Monterey County B&C Trades Council
-  type: legal_case
-  volume: '335'
+    - year: 2019
+  page: 141-146
+  publisher: Bristol University Press
+  source: JSTOR
+  title: How can we tackle the UK’s private debt crisis?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvpbnq1p.39'
 
 - id: Montgomery1989
   abstract: >-
@@ -10923,7 +12868,7 @@ references:
   URL: www.jstor.org/stable/24052588
   volume: '33'
 
-- id: moss_challinor_1991
+- id: Moss1991
   author:
     - family: Moss
       given: David J
@@ -11106,26 +13051,6 @@ references:
   URL: 'https://www.emeraldinsight.com/doi/full/10.1108/EL-03-2012-0031'
   volume: '31'
 
-- id: Nast
-  abstract: >-
-    The Debt Collective, a new generation of financial activists, is using
-    workplace unions as an organizing tool against banks.
-  accessed:
-    - year: 2019
-      month: 12
-      day: 17
-  author:
-    - family: Nast
-      given: Condé
-  container-title: GQ
-  language: en
-  note: >-
-    The Debt Collective, a new generation of financial activists, is using
-    workplace unions as an organizing tool.
-  title: How a Group of Student Debtors Took on the Banks—and Won
-  type: webpage
-  URL: 'https://www.gq.com/story/debt-collective-union-organizing'
-
 - id: NationalRighttoWorkCommittee2003
   author:
     - family: National Right to Work Committee
@@ -11150,22 +13075,6 @@ references:
   type: legislation
 
 - id: Newman2013
-  author:
-    - family: Newman
-      given: Nathan S
-  container-title: Drake Law Review
-  container-title-short: Drake Law Rev.
-  issued:
-    - year: 2013
-  page: '689'
-  title: >-
-    The Legal Foundations for State Laws Granting Labor Unions Access to
-    Employer Property
-  title-short: Labor Union Access to Employer Property
-  type: article-journal
-  volume: '62'
-
-- id: Newman2013a
   abstract: >-
     Digital journals have been widely adopted by academic researchers and have
     nearly replaced printed journals in many contexts. The adoption of digital
@@ -11207,6 +13116,22 @@ references:
   URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1087/20130208'
   volume: '26'
 
+- id: Newman2013a
+  author:
+    - family: Newman
+      given: Nathan S
+  container-title: Drake Law Review
+  container-title-short: Drake Law Rev.
+  issued:
+    - year: 2013
+  page: '689'
+  title: >-
+    The Legal Foundations for State Laws Granting Labor Unions Access to
+    Employer Property
+  title-short: Labor Union Access to Employer Property
+  type: article-journal
+  volume: '62'
+
 - id: NLRA1935
   container-title: US Code
   issued:
@@ -11220,6 +13145,18 @@ references:
   type: legislation
   volume: '29'
 
+- id: NLRBBrowningFerrisIndustries1982
+  container-title: F. 2d
+  container-title-short: F 2d
+  issued:
+    - year: 1982
+  jurisdiction: 'us:c3'
+  page: '1117'
+  title: NLRB v. Browning-Ferris Industries
+  title-short: Browning-Ferris Industries
+  type: legal_case
+  volume: '691'
+
 - id: NLRBCalMaineFarms1993
   container-title: F. 2d
   container-title-short: F 2d
@@ -11231,6 +13168,29 @@ references:
   type: legal_case
   volume: '998'
 
+- id: NLRBMontereyCounty1953
+  container-title: F. 2d
+  container-title-short: F 2d
+  issued:
+    - year: 1953
+  jurisdiction: 'us:c9'
+  page: '927'
+  title: NLRB v. Monterey County B. & C. Trades Council
+  title-short: Monterey County B&C Trades Council
+  type: legal_case
+  volume: '335'
+
+- id: NLRBTownCountry1995
+  container-title: U.S.
+  issued:
+    - year: 1995
+  jurisdiction: us
+  page: '85'
+  title: 'NLRB v. Town & Country Elec., Inc.'
+  title-short: Town & Country Electric
+  type: legal_case
+  volume: '516'
+
 - id: NLRBYeshivaUniv1979
   container-title: US
   issued:
@@ -11241,7 +13201,7 @@ references:
   type: legal_case
   volume: '444'
 
-- id: noaafisheriesComparativeAnalysisFederal2019
+- id: NOAAFisheries2019
   accessed:
     - year: 2019
       month: 7
@@ -11322,7 +13282,7 @@ references:
   title-short: North Dakota AgGag
   type: legislation
 
-- id: Notepad
+- id: Notepad_nd
   accessed:
     - year: 2017
       month: 3
@@ -11358,7 +13318,7 @@ references:
   title: The Jewish Labor Bund in Poland
   type: book
 
-- id: obrien_effect_1996
+- id: OBrien1996
   author:
     - family: O'Brien
       given: Kevin M
@@ -11561,7 +13521,7 @@ references:
   URL: 'https://doi.org/10.1080/0270319X.2016.1227205'
   volume: '35'
 
-- id: OSF
+- id: OSF_nd
   accessed:
     - year: 2017
       month: 3
@@ -11570,7 +13530,32 @@ references:
   type: webpage
   URL: 'https://osf.io/'
 
-- id: paik_lawyers_2007
+- id: Ott2013
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Ott
+      given: Julia
+    - family: Hyman
+      given: Louis
+  container-title: New Labor Forum
+  ISSN: 1095-7960
+  issue: '2'
+  issued:
+    - year: 2013
+  page: 28-38
+  publisher: 'Sage Publications, Inc.'
+  source: JSTOR
+  title: 'The Politics of Debt: How Labor Should Think About the Debt Question'
+  title-short: The Politics of Debt
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/24718429'
+  volume: '22'
+
+- id: Paik2007
   author:
     - family: Paik
       given: Anthony
@@ -11599,7 +13584,7 @@ references:
   type: legal_case
   volume: '330'
 
-- id: PaintingPrintIncorporating
+- id: PaintingPrintIncorporating_nd
   accessed:
     - year: 2019
       month: 9
@@ -11610,7 +13595,7 @@ references:
   type: webpage
   URL: 'https://www.alwd.org/lcr-archives/fall-2004-volume-2/240-painting-with-print'
 
-- id: Pandoc
+- id: Pandoc_nd
   accessed:
     - year: 2017
       month: 3
@@ -12222,6 +14207,44 @@ references:
   URL: 'http://www.jstor.org/stable/27641352'
   volume: '24'
 
+- id: Poppe2016
+  abstract: >-
+    This paper looks at how financial problems may occur among households even
+    under favourable economic conditions. Norway is a good case for studying
+    such processes because of its exceptionally stable economy. Based on data on
+    debt settlements in Oslo in 1999, 2004 and 2011 the composition of debt
+    portfolios is investigated as instances of how risk mechanisms operate and
+    change over time. It is demonstrated that the most dangerous and expensive
+    forms of loans and credit are allocated to the most exposed households. The
+    analysis also suggests that during economic upturns, the potentials for a
+    much larger and deeper problem accumulate as households borrow to invest in
+    asset-based welfare. This raises important questions about the market, and
+    challenges the welfare state.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  author:
+    - family: Poppe
+      given: Christian
+    - family: Lavik
+      given: Randi
+    - family: Borgeraas
+      given: Elling
+  container-title: Acta Sociologica
+  container-title-short: Acta Sociol.
+  ISSN: 0001-6993
+  issue: '1'
+  issued:
+    - year: 2016
+  page: 19-33
+  publisher: 'Sage Publications, Ltd.'
+  source: JSTOR
+  title: The dangers of borrowing in the age of financialization
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/24708309'
+  volume: '59'
+
 - id: Porter2013
   abstract: >-
     The author's goal in this article is to estimate the causal effect of
@@ -12642,7 +14665,7 @@ references:
   type: chapter
   URL: 'https://link.springer.com/chapter/10.1007/978-3-319-12835-1_9'
 
-- id: rickford_black_2016
+- id: Rickford2016
   author:
     - family: Rickford
       given: Russell
@@ -12783,6 +14806,224 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/27672711
 
+- id: ROSS2013
+  abstract: >-
+    In the aftermath of the 2008 crash, the financial engineering of Wall Street
+    was subject to sweeping censure, and some regulatory bills—though destined
+    to be gutted or diluted—were pushed into the legislative hopper. Seldom was
+    there a better time for the advocates of alternatives to the debt-money
+    system to get a fair hearing. Yet the recession bit so deep, decimating the
+    workforce in so many countries, that policy efforts to jumpstart economic
+    recovery were almost all aimed at regenerating consumption growth along
+    lines that required the resumption of debt-financing. Restoring a positive
+    GDP track was the ubiquitous goal,
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.9
+  issued:
+    - year: 2013
+  page: 216-251
+  publisher: OR Books
+  source: JSTOR
+  title: DISSOLVING THE MARRIAGE OF DEBT AND GROWTH
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.9'
+
+- id: ROSS2013a
+  abstract: >-
+    Plainly alarmed by the growth and deepening of civic activism over the
+    course of the previous decade, the authors of the 1975 Trilateral Commission
+    report, *The Crisis of Democracy* , recommended that “the effective
+    operation of a democratic political system usually requires some measure of
+    apathy and noninvolvement on the part of some individuals and groups.” Given
+    the prominent role that student protest had lately played in plaguing the
+    political establishment, it was no surprise that the college-educated
+    population, which had surged in the wake of the GI Bill and the 1965 Higher
+    Education Act, merited special attention. Weighing the reasons
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.6
+  issued:
+    - year: 2013
+  page: 103-143
+  publisher: OR Books
+  source: JSTOR
+  title: EDUCATION FOR FREE PEOPLE
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.6'
+
+- id: ROSS2013b
+  abstract: >-
+    At the height of the Congressional feeding frenzy over the “fiscal cliff,”
+    austerity hawks coined a new label—“debt deniers.” Minted to belittle
+    lawmakers who were opposed to social spending cuts prompted by the cynical
+    manipulation of federal debt, it was subsequently used as Tea Party
+    ammunition during the government shutdown over raising the debt ceiling in
+    the fall of 2013. The label was a savvy way for the deficit scolds to turn
+    the tables on Democrats who had gotten traction out of depicting the GOP as
+    hopelessly afflicted by “climate denial.” Whose heads were buried deeper in
+    the sand?
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.8
+  issued:
+    - year: 2013
+  page: 181-215
+  publisher: OR Books
+  source: JSTOR
+  title: HONORING CLIMATE DEBTS
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.8'
+
+- id: ROSS2013c
+  abstract: >-
+    From April to June 2013, U.S. banks recorded their highest-ever profits for
+    a quarter—$42.2 billion. Even those who routinely cheer every report of
+    higher earnings had reason to pause. Maybe this was one piece of upside
+    financial news that should not be ballyhooed. For one thing, the lion’s
+    share of the profits went to just six banks (Bank of America, Citigroup,
+    Wells Fargo, JPMorgan Chase, Goldman Sachs, and Morgan Stanley), all of them
+    larger and more powerful than they were before their institutional greed
+    helped to decimate the global economy in 2008. Five years after the
+    financial collapse, their
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.3
+  issued:
+    - year: 2013
+  page: 9-29
+  publisher: OR Books
+  source: JSTOR
+  title: INTRODUCTION
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.3'
+
+- id: ROSS2013d
+  abstract: >-
+    Household debts have little in common with public debts, but that hasn’t
+    stopped policymakers, especially those looking to justify austerity
+    measures, from making comparisons between them. Barack Obama trotted out a
+    textbook example in his 2010 State of the Union speech when he chose to
+    announce the end of his administration’s stimulus efforts and the onset of
+    “fiscal discipline” in the form of austerity:  “Families across the country
+    are tightening their belts and making tough decisions. The federal
+    government should do the same. So tonight, I’m proposing specific steps to
+    pay for the trillion dollars that it took to rescue
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.5
+  issued:
+    - year: 2013
+  page: 68-102
+  publisher: OR Books
+  source: JSTOR
+  title: MORAL ECONOMY OF THE HOUSEHOLD
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.5'
+
+- id: ROSS2013e
+  abstract: >-
+    In the course of industrialization, the conflict over wages tends to occupy
+    center stage. It still does in manufacturing zones in many developing
+    countries, and it is hardly a thing of the past in economies considered to
+    be post-industrial in their development. But in societies that are heavily
+    financialized, the struggle over debt is increasingly the frontline
+    conflict. Not because wage conflict is over (it never will be), but because
+    debts, for most people, are the wages of the future, to which creditors lay
+    claim far in advance. Each new surrender of a part of our lives to
+    debtfinancing further
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.7
+  issued:
+    - year: 2013
+  page: 144-180
+  publisher: OR Books
+  source: JSTOR
+  title: WAGES OF THE FUTURE
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.7'
+
+- id: ROSS2013f
+  abstract: >-
+    In 1975, an infamous report for the Trilateral Commission suggested that
+    Western elites were confronting a new menace that the authors described as
+    an “excess of democracy.” According to the report, electorates were no
+    longer content to be passively governed, and so all kinds of demands were
+    being made by newly emboldened populations—women, gays, ethnic minorities,
+    the urban poor, students, and the aspiring citizenry of decolonized
+    countries. This “overloading” of government by ordinarily apathetic citizens
+    was unhealthy, in the opinion of the report’s authors. The industrialized
+    countries, they concluded, needed “a greater degree of moderation in
+    democracy.” Otherwise, all
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: ROSS
+      given: ANDREW
+  collection-title: And the Case for Debt Refusal
+  container-title: Creditocracy
+  DOI: 10.2307/j.ctt207g7zn.4
+  issued:
+    - year: 2013
+  page: 30-67
+  publisher: OR Books
+  source: JSTOR
+  title: WE ARE ALL REVOLVERS
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctt207g7zn.4'
+
 - id: Rothstein2018
   abstract: "New York Times Bestseller • Notable Book of the Year • Editors' Choice Selection One of Bill Gates’ “Amazing Books” of the Year One of Publishers Weekly’s 10 Best Books of the Year Longlisted for the National Book Award for Nonfiction An NPR Best Book of the Year Winner of the Hillman Prize for Nonfiction Gold Winner • California Book Award (Nonfiction) Finalist • Los Angeles Times Book Prize (History) Finalist • Brooklyn Public Library Literary PrizeThis “powerful and disturbing history” exposes how American governments deliberately imposed racial segregation on metropolitan areas nationwide (New York Times Book Review).\_ Widely heralded as a “masterful” (Washington Post) and “essential” (Slate) history of the modern American metropolis, Richard Rothstein’s The Color of Law offers “the most forceful argument ever published on how federal, state, and local governments gave rise to and reinforced neighborhood segregation” (William Julius Wilson). Exploding the myth of de facto segregation arising from private prejudice or the unintended consequences of economic forces, Rothstein describes how the American government systematically imposed residential segregation: with undisguised racial zoning; public housing that purposefully segregated previously mixed communities; subsidies for builders to create whites-only suburbs; tax exemptions for institutions that enforced segregation; and support for violent resistance to African Americans in white neighborhoods. A groundbreaking, “virtually indispensable” study that has already transformed our understanding of twentieth-century urban history (Chicago Daily Observer), The Color of Law forces us to face the obligation to remedy our unconstitutional past. 13 illustrations"
   author:
@@ -12869,7 +15110,7 @@ references:
   URL: www.jstor.org/stable/2523590
   volume: '41'
 
-- id: rushin_using_2016
+- id: Rushin2016
   author:
     - family: Rushin
       given: Stephen
@@ -12961,6 +15202,17 @@ references:
   title: 'Sanderson Farms, Inc. v. NLRB'
   type: legal_case
   volume: '335'
+
+- id: SanDiegoBuilding1959
+  container-title: U.S.
+  issued:
+    - year: 1959
+  jurisdiction: us
+  page: '236'
+  title: San Diego Building Trades Council v. Garmon
+  title-short: Garmon
+  type: legal_case
+  volume: '359'
 
 - id: Sarat2005
   author:
@@ -13058,6 +15310,486 @@ references:
   type: article-journal
   volume: '15'
 
+- id: Schlozman2018
+  abstract: >-
+    Having painted a bleak picture of the skew in political voice toward the
+    affluent and well educated, the obvious question is whether we can do
+    anything about it. With political, educational, and social change, can we
+    overcome some of the inequalities in political voice?  Our conclusions are
+    not especially upbeat. Many proposed reforms would not have much impact on
+    inequalities of political voice. Voting by mail, for example, seems to have
+    the effect of raising the level of activity without decreasing inequalities
+    of political voice.¹ In fact, because most people are not especially active
+    in politics, the channels that transmit
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.16
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 227-254
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Can We Do Anything about It?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.16'
+
+- id: Schlozman2018a
+  abstract: >-
+    Digital technologies have changed the way we shop, navigate unfamiliar
+    streets, listen to music, make airline reservations, keep up with friends,
+    and look for romance. The ongoing technological revolution has also opened
+    up new possibilities for citizen politics: for gaining political information
+    more quickly and easily than ever before; for broadcasting opinions about
+    political subjects to friends, to the media, and to public officials; and
+    for disseminating messages to large numbers of like–minded people and
+    coordinating them for joint action; and for undertaking such political
+    actions as registering to vote, making a campaign contribution, or signing a
+    petition from
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.10
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 112-128
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Do Digital Technologies Make a Difference?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.10'
+
+- id: Schlozman2018b
+  abstract: >-
+    When it comes to money, Americans are very unequal. Economic inequality has
+    grown over the last generation, and as we have shown repeatedly,
+    participatory inequalities are grounded in disparities in income. Those who
+    are economically well-off speak more loudly in politics by giving more money
+    and by engaging more frequently in almost all forms of political
+    participation—even ones that cost nothing. The affluent are also better
+    represented and more active when it comes to political voice through the
+    organizations that hire professionals as lobbyists.  Political and economic
+    inequalities intersect in several ways. Not only is money a critical
+    resource
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.14
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 187-205
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Growing Economic Inequality and Its (Partially) Political Roots
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.14'
+
+- id: Schlozman2018c
+  abstract: >-
+    Inequality of political voice violates the democratic ideal of equal
+    consideration of the needs and preferences of all citizens, but inequality
+    that continues over time poses an even greater challenge to that democratic
+    ideal. Persistently loud political voice from politically significant
+    categories of citizens coupled with persistent quiescence of others is a
+    deeper transgression. Policymakers inclined to listen to the messages they
+    receive would be especially likely to pay attention to the voices they hear
+    over and over. They would have particular incentives to heed the
+    communications from those whose support they might solicit in the future. In
+    this chapter,
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.15
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 206-226
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Has It Always Been This Way?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.15'
+
+- id: Schlozman2018d
+  abstract: >-
+    Democracies require mechanisms for the free expression of political voice so
+    that members of the public can communicate information about their
+    experiences, needs, and preferences and hold public officials accountable
+    for their conduct in office. Working individually or collectively, they can
+    communicate their concerns and opinions to policymakers in order to have a
+    direct effect on public policy, or they can attempt to affect policy
+    indirectly by influencing electoral outcomes. They can donate their time or
+    their money. They can use conventional techniques or protest tactics. They
+    can work locally or nationally. They can even have political input when, for
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.5
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 1-20
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Introduction
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.5'
+
+- id: Schlozman2018e
+  abstract: >-
+    As shown in Chapter 8, the free rider problem and the resource problem tilt
+    the set of organizations active in national politics toward the advantaged.
+    In this chapter we use this already skewed baseline to assess the
+    representativeness of political voice through organizations. The Washington
+    Representatives Study uses data from a variety of sources to measure whether
+    organizations are involved in politics—and, if so, how much they do.² These
+    extensive systematic empirical data allow us to describe the political voice
+    emerging from organized involvement in national politics.  The Founders
+    deliberately designed the governing structure in Washington to establish
+    multiple,
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.13
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 169-184
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Representing Interests through Organizational Activity
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.13'
+
+- id: Schlozman2018f
+  abstract: >-
+    From the colonial era to the present day, political outsiders have
+    undertaken joint actions, often disruptive, to challenge the status quo and
+    those in power. Social movements inevitably involve grassroots mobilization
+    and bring new issues and new perspectives into politics. Might social
+    movements interrupt the patterns of educational and income advantage deeply
+    embedded in the processes that shape political voice? Whether composed of
+    animal rights activists, environ mentalists, advocates of school prayer,
+    backers of same-sex marriage, or opponents of immigration, do such movements
+    function as vehicles for the political activation of those who would
+    otherwise be quiescent?¹  To determine whether
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.11
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 129-144
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Social Movements and Ordinary Recruitment
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.11'
+
+- id: Schlozman2018g
+  abstract: >-
+    Franklin Delano Roosevelt grew up in privilege. Yet as governor of New York
+    and as president of the United States, he spoke for the “forgotten man at
+    the bottom of the economic pyramid.” Despite the inequality of political
+    participation graphically depicted in Chapter 4, might rich people speak for
+    those at the bottom? Is it possible that at the very least, on average those
+    who participate in politics have the same preferences, needs, and concerns
+    as those who do not?  Consider voters first. Are there politically
+    significant policy differences between voters and nonvoters? In an important
+    book on citizen activity,
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.9
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 94-111
+  publisher: Princeton University Press
+  source: JSTOR
+  title: 'The Noisy and the Silent:: Divergent Preferences and Needs'
+  title-short: The Noisy and the Silent
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.9'
+
+- id: Schlozman2018h
+  abstract: >-
+    Why are people active in politics? We find it helpful to invert this
+    question and to ask instead: Why don’t people take part in politics?¹ Three
+    answers immediately come to mind: because they can’t, because they don’t
+    want to, or because nobody asked:   “They can’t” suggests a paucity of
+    necessary resources—time to take part, money to contribute to campaigns and
+    other political causes, and skills to use time and money effectively.  
+    “They don’t want to” focuses attention on the absence of psychological
+    engagement with politics—little interest in politics or little concern about
+    public issues, a belief
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.7
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 50-80
+  publisher: Princeton University Press
+  source: JSTOR
+  title: 'The Roots of Citizen Participation:: The Civic Voluntarism Model'
+  title-short: The Roots of Citizen Participation
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.7'
+
+- id: Schlozman2018i
+  abstract: >-
+    During the debate in the House of Representatives over the Bill of Rights in
+    1789, the politically astute Elbridge Gerry of Massachusetts—who
+    twenty–three years later would lend his name to the politically motivated
+    carving of electoral districts eponymously known as gerrymandering—asserted
+    that citizen voice must help legislators become informed about the public’s
+    opinions:  We cannot, I apprehend, be too well informed of the true state,
+    condition, and sentiment of our constituents. . . . I hope we shall never
+    shut our ears against that information which is to be derived from the
+    petitions and instructions of our
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.17
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 255-278
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Unequal Voice in an Unequal Age
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.17'
+
+- id: Schlozman2018j
+  abstract: >-
+    If political voice is essential to the democratic process through which
+    policymakers learn about and respond to citizen preferences and needs, we
+    need to understand what it is and why it matters. This chapter discusses the
+    multiple ways that individuals and organizations express political voice and
+    lays out some of the difficulties in assessing the extent to which political
+    voice is unequal. We then tackle the complicated issue of whether there are
+    actual policy consequences of the inequalities of political voice that we
+    investigate in detail in the chapters to come.  The American people do not
+    speak in a single
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.6
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 23-49
+  publisher: Princeton University Press
+  source: JSTOR
+  title: What Do We Mean by Political Voice? Does Equal Voice Matter?
+  title-short: What Do We Mean by Political Voice?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.6'
+
+- id: Schlozman2018k
+  abstract: >-
+    After thirteen white male Republican senators were named to a panel to
+    revise a health-care law passed by the House in early May 2017, CNN host
+    Erin Burnett asked “Why couldn’t they find one woman to represent the
+    concerns of 126 million female adults in the United States of America? What
+    can they realistically bring to the table when the conversation turns to,
+    let’s just say, childbirth, maternity leave, ovarian cancer or breast
+    cancer?”¹ A GOP aide responded by saying:  We have no interest in playing
+    the games of identity politics, that’s not what this is about; it’s about
+    getting
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.8
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 83-93
+  publisher: Princeton University Press
+  source: JSTOR
+  title: Who Exercises Political Voice?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.8'
+
+- id: Schlozman2018l
+  abstract: >-
+    Even before Tocqueville famously noted the American propensity to form
+    associations in pursuit of joint ends, political and otherwise,
+    organizational activity served as an important channel for the expression of
+    political voice. In parallel with political acts by individual citizens,
+    organized interests send out a flood of messages to policymakers. Collective
+    political efforts raise the same kinds of questions about inequalities of
+    political voice that we have been considering with respect to individual
+    activity. We want to know what kinds of organizations are involved, for whom
+    they speak, and how much they say. We explore these problems in this
+    chapter.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Schlozman
+      given: Kay Lehman
+    - family: Brady
+      given: Henry E.
+    - family: Verba
+      given: Sidney
+  collection-title: Political Inequality and the People's Voice in the New Gilded Age
+  container-title: Unequal and Unrepresented
+  DOI: 10.2307/j.ctvc7772p.12
+  ISBN: 978-0-691-18055-7
+  issued:
+    - year: 2018
+  page: 147-168
+  publisher: Princeton University Press
+  source: JSTOR
+  title: >-
+    Who Sings in the Heavenly Chorus?: The Shape of the Organized Interest
+    System
+  title-short: Who Sings in the Heavenly Chorus?
+  type: chapter
+  URL: 'https://www.jstor.org/stable/j.ctvc7772p.12'
+
 - id: Schrader2019
   accessed:
     - year: 2019
@@ -13113,18 +15845,6 @@ references:
   source: Amazon
   title: 'Capitalism, Socialism, and Democracy: Third Edition'
   title-short: 'Capitalism, Socialism, and Democracy'
-  type: book
-
-- id: Schwartz1852
-  author:
-    - family: Schwartz
-      given: Robert M.
-  issued:
-    - year: 1852
-  publisher: Work Rights Pr
-  source: Amazon
-  title: 'Just Cause: A Union Guide to Winning Discipline Cases by Robert M. Schwartz'
-  title-short: Just Cause
   type: book
 
 - id: Schwartz1995
@@ -13187,6 +15907,18 @@ references:
   publisher-place: 'Cambridge, Mass'
   source: Amazon
   title: The Legal Rights of Union Stewards
+  type: book
+
+- id: Schwartz2012
+  author:
+    - family: Schwartz
+      given: Robert M.
+  issued:
+    - year: 2012
+  publisher: Work Rights Pr
+  source: Amazon
+  title: 'Just Cause: A Union Guide to Winning Discipline Cases by Robert M. Schwartz'
+  title-short: Just Cause
   type: book
 
 - id: Scott1987
@@ -13457,7 +16189,7 @@ references:
   type: article-journal
   volume: '48'
 
-- id: sheppard_black_2015
+- id: Sheppard2015
   author:
     - family: Sheppard
       given: Barry
@@ -13587,7 +16319,7 @@ references:
   type: article-journal
   URL: 'https://scholarship.richmond.edu/law-faculty-publications/1117'
 
-- id: skogan_why_2008
+- id: Skogan2008
   author:
     - family: Skogan
       given: Wesley G
@@ -13620,6 +16352,45 @@ references:
   source: Amazon
   title: 'Sweat and Blood: A History of U.S. Labor Unions'
   title-short: Sweat and Blood
+  type: book
+
+- id: Slater2017
+  abstract: >-
+    From the dawn of the twentieth century to the early 1960s, public-sector
+    unions generally had no legal right to strike, bargain, or arbitrate, and
+    government workers could be fired simply for joining a union. Public Workers
+    is the first book to analyze why public-sector labor law evolved as it did,
+    separate from and much more restrictive than private-sector labor law, and
+    what effect this law had on public-sector unions, organized labor as a
+    whole, and by extension all of American politics. Joseph E. Slater shows how
+    public-sector unions survived, represented their members, and set the stage
+    for the most remarkable growth of worker organization in American history.
+    Slater examines the battles of public-sector unions in the workplace,
+    courts, and political arena, from the infamous Boston police strike of 1919,
+    to teachers in Seattle fighting a yellow-dog rule, to the BSEIU in the 1930s
+    representing public-sector janitors, to the fate of the powerful Transit
+    Workers Union after New York City purchased the subways, to the long
+    struggle by AFSCME that produced the nation's first public-sector labor law
+    in Wisconsin in 1959. Slater introduces readers to a determined and
+    often-ignored segment of the union movement and expands our knowledge of
+    working men and women, the institutions they formed, and the organizational
+    obstacles they faced.
+  author:
+    - family: Slater
+      given: Joseph E.
+  ISBN: 978-1-5017-0747-6
+  issued:
+    - year: 2017
+      month: 4
+      day: 15
+  language: en
+  number-of-pages: '271'
+  publisher: Cornell University Press
+  source: Google Books
+  title: >-
+    Public Workers: Government Employee Unions, the Law, and the State,
+    1900–1962
+  title-short: Public Workers
   type: book
 
 - id: Slaughter2003
@@ -13855,7 +16626,7 @@ references:
   URL: www.jstor.org/stable/40862813
   volume: '18'
 
-- id: southworth_professional_2005
+- id: Southworth2005
   author:
     - family: Southworth
       given: Ann
@@ -13880,8 +16651,6 @@ references:
   genre: Master’s Thesis
   issued:
     - year: 2013
-      month: 12
-      day: 13
   publisher: University of San Francisco
   publisher-place: 'San Francisco, CA'
   title: >-
@@ -13908,8 +16677,9 @@ references:
       month: 7
       day: 9
   language: en-US
-  note: "source: www.ncbusinesslitigationreport.com\nI have been complaining about\_ the fees approved by the NC Business Court for those lawyers obtaining disclosure only settlements since there was a"
+  note: "I have been complaining about\_ the fees approved by the NC Business Court for those lawyers obtaining disclosure only settlements since there was a"
   section: Class Actions
+  source: www.ncbusinesslitigationreport.com
   title: >-
     It May Not Be Worth It For Plaintiffs' Lawyers To Come To North Carolina And
     To Seek Fees Based On Disclosure Only Class Settlements
@@ -14292,6 +17062,43 @@ references:
   title: 'Fair Shares: Unions, Pay and Politics in Sweden and West Germany'
   type: book
 
+- id: Swidler1995
+  abstract: >-
+    Culture has always been important for the kinds of processes students of
+    social movements study. But as culture moves to the forefront of social
+    movement research, it is important to address directly the theories,
+    methods, and assumptions different approaches to the sociology of culture
+    carry with them.  I begin by reviewing the basic theoretical approaches in
+    the sociology of culture and go on to suggest that traditional Weberian
+    approaches, which focus on powerful, internalized beliefs and values held by
+    individual actors (what I call culture from the “inside out”) may ultimately
+    provide less explanatory leverage than newer approaches that see
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Swidler
+      given: Ann
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 25-40
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: Cultural Power and Social Movements
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.5'
+  volume: '4'
+
 - id: Tahir2019
   accessed:
     - year: 2019
@@ -14421,6 +17228,48 @@ references:
   URL: www.jstor.org/stable/26652185
   volume: '119'
 
+- id: Taylor1995
+  abstract: >-
+    All social movements, to varying degrees, produce culture. Scholars who have
+    studied the processes that make it possible for individuals and groups to
+    come together to mount a concerted campaign for social change recognize that
+    those who challenge the status quo face a formidable task. Most analysts
+    agree that the mobilization of protest is facilitated by a group’s ability
+    to develop and maintain a set of beliefs and loyalties that contradict those
+    of dominant groups. Scholars have referred to the spheres of cultural
+    autonomy necessary to the rise of social movements as “cultures of
+    solidarity” (Fantasia 1988), “social movement communities”
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Taylor
+      given: Verta
+    - family: Whittier
+      given: Nancy
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  page: 163-187
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: >-
+    Analytical Approaches to Social Movement Culture:: The Culture of the
+    Women’s Movement
+  title-short: Analytical Approaches to Social Movement Culture
+  type: chapter
+  URL: 'https://www.jstor.org/stable/10.5749/j.ctttt0p8.12'
+  volume: '4'
+
 - id: Taylor2019
   abstract: "By the late 1960s and early 1970s, reeling from a wave of urban uprisings, politicians finally worked to end the practice of redlining. Reasoning that the turbulence could be calmed by turning Black city-dwellers into homeowners, they passed the Housing and Urban Development Act of 1968, and set about establishing policies to induce mortgage lenders and the real estate industry to treat Black homebuyers equally. The disaster that ensued revealed that racist exclusion had not been eradicated, but rather transmuted into a new phenomenon of\_predatory inclusion.\_Race for Profit\_uncovers how exploitative real estate practices continued well after housing discrimination was banned. The same racist structures and individuals remained intact after redlining's end, and close relationships between regulators and the industry created incentives to ignore improprieties.\_Meanwhile, new policies meant to encourage low-income homeownership created new methods to exploit Black homeowners. The federal government guaranteed urban mortgages in an attempt to overcome resistance to lending to Black buyers – as if unprofitability, rather than racism, was the cause of housing segregation. Bankers, investors, and real estate agents took advantage of the perverse incentives, targeting the Black women most likely to fail to keep up their home payments and slip into foreclosure, multiplying their profits. As a result, by the end of the 1970s, the nation's first programs to encourage Black homeownership ended with tens of thousands of foreclosures in Black communities across the country. The push to uplift Black homeownership had descended into a goldmine for realtors and mortgage lenders, and a ready-made cudgel for the champions of deregulation to wield against government intervention of any kind.\_Narrating the story of a sea-change in housing policy and its dire impact on African Americans,\_Race for Profit\_reveals how the urban core was transformed into a new frontier of cynical extraction."
   author:
@@ -14442,7 +17291,7 @@ references:
   title-short: Race for Profit
   type: book
 
-- id: TellingTypeTypography
+- id: TellingTypeTypography_nd
   accessed:
     - year: 2019
       month: 9
@@ -14492,7 +17341,7 @@ references:
   title-short: The Myth of Capitalism
   type: book
 
-- id: TextofS.1389
+- id: Text1389Loan_nd
   abstract: >-
     Text of S. 1389: Loan Shark Prevention Act as of May 9, 2019 (Introduced
     version). S. 1389: Loan Shark Prevention Act
@@ -14507,7 +17356,7 @@ references:
   type: webpage
   URL: 'https://www.govtrack.us/congress/bills/116/s1389/text/is'
 
-- id: TherePowerDebtors
+- id: TherePowerDebtors_nd
   abstract: >-
     How did we get from two decades of meteoric tuition increases to a moment
     where democratic socialist elected officials are pushing free higher
@@ -14658,17 +17507,6 @@ references:
   title-short: The Debt System
   type: book
 
-- id: Town&CountryElectric1995
-  container-title: U.S.
-  issued:
-    - year: 1995
-  jurisdiction: us
-  page: '85'
-  title: 'NLRB v. Town & Country Elec., Inc.'
-  title-short: Town & Country Electric
-  type: legal_case
-  volume: '516'
-
 - id: Trentmann2009
   abstract: >-
     One of Britain's defining contributions to the modern world, Free Trade
@@ -14799,6 +17637,26 @@ references:
   title-short: Empire of Things
   type: book
 
+- id: Trnka2020
+  abstract: >-
+    Traversing is about our ways of seeing, experiencing, and moving through the
+    world and how they shape the kinds of people we become. Drawing from
+    concepts developed by two phenomenological...
+  accessed:
+    - year: 2020
+      month: 4
+      day: 9
+  author:
+    - family: Trnka
+      given: Susanna
+  ISBN: 978-1-5017-4922-3
+  issued:
+    - year: 2020
+  language: en-US
+  publisher: Cornell University Press
+  title: 'Traversing: Embodied Lifeworlds in the Czech Republic'
+  type: book
+
 - id: Twomey2004
   author:
     - family: Twomey
@@ -14837,28 +17695,7 @@ references:
   URL: 'http://www.annualreviews.org/doi/10.1146/annurev-lawsocsci-110316-113318'
   volume: '13'
 
-- id: U.S.legalservices
-  abstract: >-
-    This statistic depicts the hourly rates of lawyers in the United States from
-    2017 to 2019, broken down by greater metropolitan areas.
-  accessed:
-    - year: 2020
-      month: 2
-      day: 28
-  container-title: Statista
-  language: en
-  note: >-
-    source: www.statista.com
-
-    This statistic depicts the hourly rates of lawyers in the United States from
-    2017 to 2019, broken down by greater metropolitan areas.
-  title: 'U.S. legal services: hourly rates by metropolitan region 2019'
-  title-short: U.S. legal services
-  type: webpage
-  URL: >-
-    https://www.statista.com/statistics/941146/legal-services-hourly-rates-metropolitan-region-united-states/
-
-- id: USConsumerLaw
+- id: USConsumerLaw_nd
   accessed:
     - year: 2020
       month: 2
@@ -14980,6 +17817,44 @@ references:
   URL: 'http://www.jstor.org/stable/25594527'
   volume: '62'
 
+- id: VECERNIK2008
+  abstract: >-
+    This article gathers a variety of evidence demonstrating the rapid
+    development of household consumption in the Czech Republic during the
+    post-1989 period. In the first section, the basic features of household
+    consumption under the communist regime are described. In the second section,
+    the transition to a market economy and its likely positive impact on the
+    economic conditions and behaviour of households is discussed. In the third
+    section, post-1989 changes in patterns of family expenditures are documented
+    and compared with several other EU countries. In the fourth section, a
+    critical assessment of the development of Czech consumer culture with its
+    agencies and clients is placed in the context of broader debates about the
+    meaning of mass consumerism. Both the positive and negative features of
+    booming consumption are summarised in the conclusion.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: VEČERNÍK
+      given: JIŘĺ
+  container-title: Polish Sociological Review
+  container-title-short: Pol. Sociol. Rev.
+  ISSN: 1231-1413
+  issue: '162'
+  issued:
+    - year: 2008
+  page: 153-173
+  publisher: Polskie Towarzystwo Socjologiczne (Polish Sociological Association)
+  source: JSTOR
+  title: >-
+    Household Consumption in the Czech Republic: From Shopping Queues to
+    Consumer Society
+  title-short: Household Consumption in the Czech Republic
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/41275057'
+
 - id: Vicuna1991
   author:
     - family: Vicuna
@@ -15100,7 +17975,7 @@ references:
   URL: 'http://www.jstor.org/stable/44127309'
   volume: '63'
 
-- id: walker_neglect_2008
+- id: Walker2008
   author:
     - family: Walker
       given: Samuel
@@ -15349,7 +18224,7 @@ references:
   URL: www.jstor.org/stable/10.1086/681274
   volume: '2014'
 
-- id: weitzer_american_2015
+- id: Weitzer2015
   author:
     - family: Weitzer
       given: Ronald
@@ -15554,7 +18429,7 @@ references:
     Interests of the Unenfranchised.
   type: manuscript
 
-- id: willemez_political-professional_2005
+- id: Willemez2005
   author:
     - family: Willemez
       given: Laurent
@@ -15654,7 +18529,7 @@ references:
   title-short: Learning to Labor
   type: book
 
-- id: wilson_debate_2010
+- id: Wilson2010
   author:
     - family: Wilson
       given: Steve
@@ -16145,7 +19020,7 @@ references:
   title: Can the Working Class Change the World?
   type: book
 
-- id: Yeazell
+- id: Yeazell2018
   abstract: >-
     Some describe civil litigation as little more than a drag on the economy;
     Others hail it as the solution to most of the country’s problems. Stephen C.
@@ -16169,6 +19044,8 @@ references:
   author:
     - family: Yeazell
       given: Stephen
+  issued:
+    - year: 2018
   publisher: University of Chicago Press
   source: www.press.uchicago.edu
   title: Lawsuits in a Market Economy
@@ -16256,7 +19133,7 @@ references:
   URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/hypa.12401'
   volume: '33'
 
-- id: Zotero
+- id: Zotero_nd
   accessed:
     - year: 2017
       month: 3
@@ -16266,31 +19143,6 @@ references:
   URL: 'https://www.zotero.org/'
 
 - id: Zuboff2019
-  accessed:
-    - year: 2019
-      month: 11
-      day: 2
-  author:
-    - family: Zuboff
-      given: Shoshana
-  container-title: New Labor Forum
-  container-title-short: New Labor Forum
-  DOI: 10.1177/1095796018819461
-  ISSN: 1095-7960
-  issue: '1'
-  issued:
-    - year: 2019
-      month: 1
-      day: 1
-  language: en
-  page: 10-29
-  source: SAGE Journals
-  title: Surveillance Capitalism and the Challenge of Collective Action
-  type: article-journal
-  URL: 'https://doi.org/10.1177/1095796018819461'
-  volume: '28'
-
-- id: Zuboff2019a
   abstract: >-
     The challenges to humanity posed by the digital future, the first detailed
     examination of the unprecedented form of power called "surveillance
@@ -16335,6 +19187,31 @@ references:
     Frontier of Power
   title-short: The Age of Surveillance Capitalism
   type: book
+
+- id: Zuboff2019a
+  accessed:
+    - year: 2019
+      month: 11
+      day: 2
+  author:
+    - family: Zuboff
+      given: Shoshana
+  container-title: New Labor Forum
+  container-title-short: New Labor Forum
+  DOI: 10.1177/1095796018819461
+  ISSN: 1095-7960
+  issue: '1'
+  issued:
+    - year: 2019
+      month: 1
+      day: 1
+  language: en
+  page: 10-29
+  source: SAGE Journals
+  title: Surveillance Capitalism and the Challenge of Collective Action
+  type: article-journal
+  URL: 'https://doi.org/10.1177/1095796018819461'
+  volume: '28'
 
 - id: Zumbansen2019
   author:
